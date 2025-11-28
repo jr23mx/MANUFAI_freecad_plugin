@@ -1,0 +1,1 @@
+# MANUFAI_freecad_plugin
