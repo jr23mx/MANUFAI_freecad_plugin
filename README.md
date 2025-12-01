@@ -90,7 +90,7 @@ We have expanded the plugin’s core functionality to ensure seamless connectivi
         <li><strong>Dual-Edge Selection:</strong> By selecting two edges (e.g., two holes) sequentially, it computes the centerline between them to act as the primary axis.</li>
       </ul>
       👇 <strong>Feature Demonstration:</strong><br>
-      <a href="LINK_VIDEO_DATUMA"><img src="https://img.youtube.com/vi/LINK_VIDEO_DATUMA/0.jpg" width="200"></a>
+      <video src="https://github.com/user-attachments/assets/66e3217b-d3d2-4cce-bee3-ef0f11afa07d" width="100%" controls></video>
     </td>
   </tr>
   <tr>
@@ -107,7 +107,7 @@ We have expanded the plugin’s core functionality to ensure seamless connectivi
         <li><strong>Extension Plane:</strong> When two parallel faces are selected, it calculates the theoretical mid-plane between them to define the axis.</li>
       </ul>
       👇 <strong>Feature Demonstration:</strong><br>
-      <a href="LINK_VIDEO_DATUMB"><img src="https://img.youtube.com/vi/LINK_VIDEO_DATUMB/0.jpg" width="200"></a>
+      <video src="https://github.com/user-attachments/assets/4afad79e-905f-4ac8-a5fe-194b80d1ab69" width="100%" controls></video>
     </td>
   </tr>
   <tr>
@@ -121,7 +121,7 @@ We have expanded the plugin’s core functionality to ensure seamless connectivi
       It locks the final degree of freedom, establishing the specific zero point along the previously defined axes. It accepts vertices, sphere centers, or calculates the midpoint between two selected edges/features.
       <br><br>
       👇 <strong>Feature Demonstration:</strong><br>
-      <a href="LINK_VIDEO_DATUMC"><img src="https://img.youtube.com/vi/LINK_VIDEO_DATUMC/0.jpg" width="200"></a>
+      <video src="https://github.com/user-attachments/assets/99ba5a36-2ca3-4c6e-80b7-b5580b0e3371" width="100%" controls></video>
     </td>
   </tr>
   <tr>
