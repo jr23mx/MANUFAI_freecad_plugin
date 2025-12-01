@@ -35,7 +35,7 @@ We have expanded the plugin’s core functionality to ensure seamless connectivi
       The <strong>Recursive Visibility</strong> tool solves UX friction when working with complex hierarchies. It traverses the entire dependency tree of a selected object to toggle visibility for the parent and all descendants recursively.
       <br><br>
       👇 <strong>Feature Demonstration:</strong><br>
-      <video src="./Recursive%20Visibility/Recursive%20Visibility%20Toggle%20%281%29.mp4" width="100%" controls></video>
+      <video src="https://github.com/user-attachments/assets/0fa2cd8d-c080-43f4-a0a1-9e60bd4e93ff" width="100%" controls></video>
     </td>
   </tr>
 </table>
