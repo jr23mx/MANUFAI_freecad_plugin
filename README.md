@@ -179,7 +179,7 @@ We have expanded the plugin’s core functionality to ensure seamless connectivi
         </li>
       </ul>
       👇 <strong>Feature Demonstration:</strong><br>
-      <a href="LINK_VIDEO_DATA"><img src="https://img.youtube.com/vi/LINK_VIDEO_DATA/0.jpg" width="200"></a>
+      <video src="https://github.com/user-attachments/assets/8bcf2251-f0bc-42cd-95bf-08ef1ecd7db7" width="100%" controls></video>
     </td>
   </tr>
 </table>
@@ -220,7 +220,7 @@ We have expanded the plugin’s core functionality to ensure seamless connectivi
         <li><strong>Final Export:</strong> Once layers, sequences, and custom data are fully defined, this tool is responsible for <strong>generating the .WDCurve file</strong>, exporting only the active layers ready for external processing.</li>
       </ul>
       👇 <strong>Feature Demonstration:</strong><br>
-      <a href="LINK_VIDEO_TABLE"><img src="https://img.youtube.com/vi/LINK_VIDEO_TABLE/0.jpg" width="200"></a>
+      <video src="https://github.com/user-attachments/assets/ac970131-a3a0-4683-87e5-b3279ccc3fa8" width="100%" controls></video>
     </td>
   </tr>
   <tr>
