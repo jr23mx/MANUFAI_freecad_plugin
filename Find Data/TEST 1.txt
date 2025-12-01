@@ -1,0 +1,23 @@
+WELD REPORT
+Document: PROBETA TEST
+Date: 2025-12-01 16:26:52
+
+==================================================
+
+WELD 1 of 3
+Name: Weld1
+Label: Weld1
+
+----------------------------------------
+WELD 2 of 3
+Name: Weld2
+Label: Weld2
+
+----------------------------------------
+WELD 3 of 3
+Name: Weld3
+Label: Weld3
+
+----------------------------------------
+
+SUMMARY: 3 welds found
