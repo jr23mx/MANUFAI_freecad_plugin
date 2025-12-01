@@ -54,7 +54,7 @@ We have expanded the plugin’s core functionality to ensure seamless connectivi
       It places a reference sphere at the absolute zero of the workspace. This provides an immediate visual check to determine the offset distance of imported models relative to the workspace center before starting any alignment procedures.
       <br><br>
       👇 <strong>Feature Demonstration:</strong><br>
-      <a href="LINK_VIDEO_ORIGEN"><img src="https://img.youtube.com/vi/LINK_VIDEO_ORIGEN/0.jpg" width="200"></a>
+      <video src="https://github.com/user-attachments/assets/3d7e01eb-258b-4d20-ac01-b414544c3b89" width="100%" controls></video>
     </td>
   </tr>
   <tr>
@@ -73,7 +73,7 @@ We have expanded the plugin’s core functionality to ensure seamless connectivi
       Useful for establishing auxiliary reference points on complex geometry without creating full datums.
       <br><br>
       👇 <strong>Feature Demonstration:</strong><br>
-      <a href="LINK_VIDEO_CENTRO"><img src="https://img.youtube.com/vi/LINK_VIDEO_CENTRO/0.jpg" width="200"></a>
+      <video src="https://github.com/user-attachments/assets/417329b5-e28c-4d58-a506-29fc3a2ab8fc" width="100%" controls></video>
     </td>
   </tr>
   <tr>
@@ -135,7 +135,7 @@ We have expanded the plugin’s core functionality to ensure seamless connectivi
       It launches the Alignment Wizard to process the defined Datums (A, B, and C). It mathematically computes the orthogonal intersection of the vectors and displays a <strong>ghost preview</strong> of the new coordinate system, allowing validation of the new origin position before any actual movement occurs.
       <br><br>
       👇 <strong>Feature Demonstration:</strong><br>
-      <a href="LINK_VIDEO_ALINEACION"><img src="https://img.youtube.com/vi/LINK_VIDEO_ALINEACION/0.jpg" width="200"></a>
+      <video src="https://github.com/user-attachments/assets/8d0606ab-7623-448c-b674-eaebb61a4d86" width="100%" controls></video>
     </td>
   </tr>
   <tr>
@@ -150,7 +150,7 @@ We have expanded the plugin’s core functionality to ensure seamless connectivi
       <br><strong>Hierarchy Awareness:</strong> It respects the document structure, moving parent containers or individual parts correctly without breaking internal assembly relationships or positions.
       <br><br>
       👇 <strong>Feature Demonstration:</strong><br>
-      <a href="LINK_VIDEO_MOVER"><img src="https://img.youtube.com/vi/LINK_VIDEO_MOVER/0.jpg" width="200"></a>
+      <video src="https://github.com/user-attachments/assets/bca2b1cf-31c2-4d74-ac5b-55ccedcbefaf" width="100%" controls></video>
     </td>
   </tr>
 </table>
