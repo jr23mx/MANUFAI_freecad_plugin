@@ -322,3 +322,67 @@ We have expanded the plugin’s core functionality to ensure seamless connectivi
     </td>
   </tr>
 </table>
+
+## 🤖 RoboDK & Process Automation
+
+<table>
+  <tr>
+    <td width="150" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/RoboDK%20Export%20Tools/export_icon.svg" width="100px">
+      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/RoboDK%20Export%20Tools/export_single.svg" width="100px">
+    </td>
+    <td>
+      <h3>RoboDK Export Tools</h3>
+      <strong>Seamless CAD-to-Simulation Transfer.</strong>
+      <br><br>
+      A dedicated bridge to send geometry directly to RoboDK for simulation. It offers two operation modes for maximum flexibility:
+      <ul>
+        <li><strong>Export Entire CAD:</strong> Transfers the full visible assembly to the simulation environment in one click.</li>
+        <li><strong>Export Selected:</strong> Sends only specific components, perfect for partial updates or isolated testing.</li>
+        <li><strong>Auto-Alignment:</strong> Both modes automatically generate and reference the "CAD_Frame" coordinate system, ensuring perfect alignment between the design and the robot station.</li>
+      </ul>
+      👇 <strong>Feature Demonstration:</strong><br>
+     <video src="https://github.com/user-attachments/assets/5816ddd7-fc37-4e95-8dcf-931552d8a005" width="100%" controls></video>
+    </td>
+  </tr>
+  <tr>
+    <td width="150" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Glue%20Manager/glue_icon.svg" width="100px">
+    </td>
+    <td>
+      <h3>Glue Manager</h3>
+      <strong>Weld-to-Dispensing Path Conversion.</strong>
+      <br><br>
+      This tool repurposes existing MANUFAI weld paths (`Pts` data) to create precise adhesive dispensing trajectories.
+      <ul>
+        <li><strong>Non-Destructive Transformation:</strong> Includes a dedicated panel to Scale, Translate, and Rotate the path locally without altering the original CAD geometry.</li>
+        <li><strong>Smart Export:</strong> Automatically calculates surface normals for correct gun orientation and exports the transformed data to RoboDK as a "Curve Follow Project".</li>
+      </ul>
+      👇 <strong>Feature Demonstration:</strong><br>
+      <video src="https://github.com/user-attachments/assets/dc94b2dc-10fd-43ca-8ee6-99f1b0e456ef" width="100%" controls></video>
+    </td>
+  </tr>
+  <tr>
+    <td width="150" align="center" valign="top">
+      <img src="http://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Drilling%20Manager/Drill.svg" width="100px">
+    </td>
+    <td>
+      <h3>Drilling Manager</h3>
+      <strong>Automated Hole & Rivet Processing.</strong>
+      <br><br>
+      A complete suite for automating drilling or riveting operations. It detects circular edges on the 3D model to extract centers and normal vectors automatically.
+      <ul>
+        <li><strong>Operation Modes:</strong>
+          <ul>
+            <li><strong>Manual:</strong> Step-by-step definition (Start/End points) for visual depth control.</li>
+            <li><strong>Precision:</strong> Apply specific numeric depth values to single holes.</li>
+            <li><strong>Batch Processing:</strong> The "Crown Jewel" feature—select dozens of holes and apply global drilling parameters to all of them instantly.</li>
+          </ul>
+        </li>
+        <li><strong>Full Simulation:</strong> Generates complete Approach, Drill, and Retract targets within RoboDK automatically.</li>
+      </ul>
+      👇 <strong>Feature Demonstration:</strong><br>
+      <video src="https://github.com/user-attachments/assets/f443d37d-f42e-41e8-b491-27f4ca8b8684" width="100%" controls></video>
+    </td>
+  </tr>
+</table>
