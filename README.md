@@ -237,7 +237,7 @@ We have expanded the plugin’s core functionality to ensure seamless connectivi
         <li><strong>Click-Through Blocker:</strong> <strong>Crucial Feature.</strong> It strictly blocks the selection of 3D geometry (faces/bodies), ensuring that clicks <strong>only register on weld lines</strong>. This prevents accidental selection of the background model when picking thin weld paths.</li>
       </ul>
       👇 <strong>Feature Demonstration:</strong><br>
-      <a href="LINK_VIDEO_SELECTION"><img src="https://img.youtube.com/vi/LINK_VIDEO_SELECTION/0.jpg" width="200"></a>
+      <video src="https://github.com/user-attachments/assets/a1e57451-0914-438f-9c8f-d2096a48de29" width="100%" controls></video>
     </td>
   </tr>
   <tr>
@@ -254,7 +254,7 @@ We have expanded the plugin’s core functionality to ensure seamless connectivi
         <li><strong>Preparation for View:</strong> This grouping structure is required to utilize the advanced filtering capabilities of the Visibility Manager.</li>
       </ul>
       👇 <strong>Feature Demonstration:</strong><br>
-      <a href="LINK_VIDEO_ASSIGN"><img src="https://img.youtube.com/vi/LINK_VIDEO_ASSIGN/0.jpg" width="200"></a>
+      <video src="https://github.com/user-attachments/assets/5e558c9f-b530-416a-bd68-8e8d0b686aa7" width="100%" controls></video>
     </td>
   </tr>
   <tr>
@@ -271,7 +271,7 @@ We have expanded the plugin’s core functionality to ensure seamless connectivi
         <li><strong>By Robot:</strong> Visualize only the tasks assigned to a specific robot.</li>
       </ul>
       👇 <strong>Feature Demonstration:</strong><br>
-      <a href="LINK_VIDEO_VISIBILITY"><img src="https://img.youtube.com/vi/LINK_VIDEO_VISIBILITY/0.jpg" width="200"></a>
+      <video src="https://github.com/user-attachments/assets/0e065252-4411-4876-ac72-6d780ab41cea" width="100%" controls></video>
     </td>
   </tr>
   <tr>
@@ -287,7 +287,7 @@ We have expanded the plugin’s core functionality to ensure seamless connectivi
         <li><strong>Editable Geometry:</strong> Imported lines are not static; they are converted into native workbench objects with full properties, allowing them to be edited, re-sequenced, or modified as if they were created inside the plugin.</li>
       </ul>
       👇 <strong>Feature Demonstration:</strong><br>
-      <a href="LINK_VIDEO_WDCURVE"><img src="https://img.youtube.com/vi/LINK_VIDEO_WDCURVE/0.jpg" width="200"></a>
+      <video src="https://github.com/user-attachments/assets/6d45f013-bd2c-4388-bd8a-4b5ce46a77f6" width="100%" controls></video>
     </td>
   </tr>
   <tr>
@@ -304,7 +304,7 @@ We have expanded the plugin’s core functionality to ensure seamless connectivi
         <li><strong>Direction Markers:</strong> Clearly marks the <strong>Start (O)</strong> and <strong>End (X)</strong> of the path to verify torch direction visually.</li>
       </ul>
       👇 <strong>Feature Demonstration:</strong><br>
-      <a href="LINK_VIDEO_NAMES"><img src="https://img.youtube.com/vi/LINK_VIDEO_NAMES/0.jpg" width="200"></a>
+      <video src="https://github.com/user-attachments/assets/74d28c64-80fd-4a0b-bab3-08fa81ffdf86" width="100%" controls></video>
     </td>
   </tr>
   <tr>
@@ -318,7 +318,7 @@ We have expanded the plugin’s core functionality to ensure seamless connectivi
       A productivity shortcut that instantly zooms and centers the camera on the object currently selected in the tree or list. Essential for locating small weld segments in large-scale environments.
       <br><br>
       👇 <strong>Feature Demonstration:</strong><br>
-      <a href="LINK_VIDEO_FOCUS"><img src="https://img.youtube.com/vi/LINK_VIDEO_FOCUS/0.jpg" width="200"></a>
+      <video src="https://github.com/user-attachments/assets/86b8d792-165a-4f9a-869f-9d077f8ce722" width="100%" controls></video>
     </td>
   </tr>
 </table>
