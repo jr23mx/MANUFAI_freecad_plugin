@@ -201,7 +201,7 @@ We have expanded the plugin’s core functionality to ensure seamless connectivi
         <li><strong>System Activation:</strong> Launches the sidebar dock that manages the active welding context.</li>
       </ul>
       👇 <strong>Feature Demonstration:</strong><br>
-      <a href="LINK_VIDEO_LINEWELD"><img src="https://img.youtube.com/vi/LINK_VIDEO_LINEWELD/0.jpg" width="200"></a>
+      <video src="https://github.com/user-attachments/assets/ac970131-a3a0-4683-87e5-b3279ccc3fa8" width="100%" controls></video>
     </td>
   </tr>
   <tr>
@@ -220,7 +220,7 @@ We have expanded the plugin’s core functionality to ensure seamless connectivi
         <li><strong>Final Export:</strong> Once layers, sequences, and custom data are fully defined, this tool is responsible for <strong>generating the .WDCurve file</strong>, exporting only the active layers ready for external processing.</li>
       </ul>
       👇 <strong>Feature Demonstration:</strong><br>
-      <video src="https://github.com/user-attachments/assets/ac970131-a3a0-4683-87e5-b3279ccc3fa8" width="100%" controls></video>
+      <video src="https://github.com/user-attachments/assets/d2e4cd18-238f-4066-9d3a-60538c8d200d" width="100%" controls></video>
     </td>
   </tr>
   <tr>
