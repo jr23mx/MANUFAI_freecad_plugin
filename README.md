@@ -435,7 +435,7 @@ To ensure you can replicate the workflows shown in the demonstrations, **each to
   </tr>
 <tr>
     <td width="150" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Weld%20Visualizer/visualizer_icon.svg" width="100px">
+      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Weld Visualizer (Sphere Mode)/weld_sphere.svg" width="100px">
     </td>
     <td>
       <h3>Weld Visualizer (Sphere Mode)</h3>
@@ -449,11 +449,6 @@ To ensure you can replicate the workflows shown in the demonstrations, **each to
       <a href="LINK_VIDEO_VISUALIZER"><img src="https://img.youtube.com/vi/LINK_VIDEO_VISUALIZER/0.jpg" width="200"></a>
     </td>
   </tr>
-<tr>
-    <td width="150" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/RoboDK%20Export/robodk_icon.svg" width="100px">
-    </td>
-    <td>
 </table>
 
 ## 🤖 RoboDK & Process Automation
