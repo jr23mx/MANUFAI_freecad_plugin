@@ -416,7 +416,7 @@ To ensure you can replicate the workflows shown in the demonstrations, **each to
   </tr>
 <tr>
     <td width="150" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Weld%20Simulator/simulator_icon.svg" width="100px">
+      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Weld Simulator/simulation.svg" width="100px">
     </td>
     <td>
       <h3>Weld Simulator</h3>
