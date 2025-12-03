@@ -1,0 +1,19 @@
+<svg width="800" height="800" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <radialGradient r="0.57243" gradientTransform="rotate(5.999999999999998,0.07421875,0) translate(0,0) scale(1,0.95)" cy="0" cx="0.07422" spreadMethod="pad" id="svg_13">
+   <stop offset="0" stop-opacity="0.99609" stop-color="#ffffff"/>
+   <stop offset="1" stop-opacity="0.99609" stop-color="#007fff"/>
+  </radialGradient>
+  <radialGradient r="0.87965" cy="1" cx="0" spreadMethod="pad" id="svg_15">
+   <stop offset="0" stop-opacity="0.99219" stop-color="#073666"/>
+   <stop offset="1" stop-opacity="0.99609" stop-color="#007fff"/>
+  </radialGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_8" d="m-305.46,509.54814l0.5,-2.00001l0.5,2.00001l-1.00001,0z" stroke-width="10" stroke="#000" fill="#000000"/>
+  <rect stroke-width="5" stroke="#000" id="svg_10" height="681.99996" width="210" y="55" x="65" fill="url(#svg_13)"/>
+  <rect transform="rotate(90 512.5 632)" stroke-width="5" stroke="#000" id="svg_11" height="470.99997" width="210" y="396.50003" x="407.5001" fill="url(#svg_15)"/>
+  <rect transform="rotate(45 477.774 324.27)" stroke-width="5" stroke="#000" id="svg_12" height="38.00103" width="526.77517" y="305.26903" x="214.38613" fill="#ff7f00"/>
+ </g>
+</svg>
