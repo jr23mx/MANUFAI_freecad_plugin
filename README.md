@@ -333,7 +333,7 @@ To ensure you can replicate the workflows shown in the demonstrations, **each to
   </tr>
   <tr>
     <td width="150" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Welding%20Reference/reference_icon.svg" width="100px">
+      <img src="[https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Welding%20Reference/reference_icon.svg](https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/Welding_Reference/welding-image-tool.svg)" width="100px">
     </td>
     <td>
       <h3>Welding Reference Tool</h3>
