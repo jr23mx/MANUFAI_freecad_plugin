@@ -397,7 +397,7 @@ To ensure you can replicate the workflows shown in the demonstrations, **each to
   </tr>
 <tr>
     <td width="150" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Surface%20Weld/surface_icon.svg" width="100px">
+      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Surface Weld Generator/welding-icon.svg" width="100px">
     </td>
     <td>
       <h3>Surface Weld Generator</h3>
