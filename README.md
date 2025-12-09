@@ -392,7 +392,8 @@ To ensure you can replicate the workflows shown in the demonstrations, **each to
       </ul>
       <br><br>
       👇 <strong>Feature Demonstration:</strong><br>
-      <a href="LINK_VIDEO_CREATOR"><img src="https://img.youtube.com/vi/LINK_VIDEO_CREATOR/0.jpg" width="200"></a>
+      <video src="https://github.com/user-attachments/assets/ce5b0544-6ddd-4b7d-956b-c9a011f15a43
+" width="200"></a>
     </td>
   </tr>
 <tr>
