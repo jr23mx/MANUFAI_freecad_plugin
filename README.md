@@ -411,7 +411,7 @@ To ensure you can replicate the workflows shown in the demonstrations, **each to
       </ul>
       <br><br>
       👇 <strong>Feature Demonstration:</strong><br>
-      <a href="LINK_VIDEO_SURFACE"><img src="https://img.youtube.com/vi/LINK_VIDEO_SURFACE/0.jpg" width="200"></a>
+      <a href="LINK_VIDEO_SURFACE"><img src="https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/6ad2c1a2c3c6eae18d2f029538d9e47930f2cd1e/Surface%20Weld%20Generator/Sureface.webm" width="200"></a>
     </td>
   </tr>
 <tr>
