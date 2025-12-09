@@ -411,7 +411,7 @@ To ensure you can replicate the workflows shown in the demonstrations, **each to
       </ul>
       <br><br>
       👇 <strong>Feature Demonstration:</strong><br>
-      <a href="LINK_VIDEO_SURFACE"><video src="https://github.com/user-attachments/assets/fc723cfd-8c44-4911-9dc1-c214a383e5b1" width="200"></a>
+      <video src="https://github.com/user-attachments/assets/fc723cfd-8c44-4911-9dc1-c214a383e5b1" width="200"></a>
     </td>
   </tr>
 <tr>
@@ -430,7 +430,7 @@ To ensure you can replicate the workflows shown in the demonstrations, **each to
       </ul>
       <br><br>
       👇 <strong>Feature Demonstration:</strong><br>
-      <a href="LINK_VIDEO_SIMULATOR"><video src=https://github.com/user-attachments/assets/90bac4a3-dc8f-4121-8fd2-746a54ba76ae
+      <video src=https://github.com/user-attachments/assets/90bac4a3-dc8f-4121-8fd2-746a54ba76ae
   width="200"></a>
     </td>
   </tr>
