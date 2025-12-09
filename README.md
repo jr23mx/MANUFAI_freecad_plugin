@@ -371,7 +371,7 @@ To ensure you can replicate the workflows shown in the demonstrations, **each to
       </ul>
       <br><br>
       👇 <strong>Feature Demonstration:</strong><br>
-      <a href="LINK_VIDEO_PROJECTOR"><img src="https://img.youtube.com/vi/LINK_VIDEO_PROJECTOR/0.jpg" width="200"></a>
+      <video src="https://github.com/user-attachments/assets/4c413eac-85f1-4705-bbeb-0ec3deaff290" width="200"></a>
     </td>
   </tr>
 <tr>
