@@ -350,7 +350,7 @@ To ensure you can replicate the workflows shown in the demonstrations, **each to
       </ul>
       <br><br>
       👇 <strong>Feature Demonstration:</strong><br>
-      <a href="LINK_VIDEO_REFERENCE"><img src="https://img.youtube.com/vi/LINK_VIDEO_REFERENCE/0.jpg" width="200"></a>
+      <img src="https://github.com/user-attachments/assets/5256df76-cf04-4612-9105-76f1f82e3a39" width="200"></a>
     </td>
   </tr>
 <tr>
