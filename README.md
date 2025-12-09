@@ -447,7 +447,8 @@ To ensure you can replicate the workflows shown in the demonstrations, **each to
       It utilizes direct scene graph rendering (<strong>Coin3D</strong>) to project a "cloud" of spheres along the trajectory, providing an immediate visual representation of weld coverage while maintaining a lightweight model size and fluid viewport navigation.
       <br><br>
       👇 <strong>Feature Demonstration:</strong><br>
-      <a href="LINK_VIDEO_VISUALIZER"><img src="https://img.youtube.com/vi/LINK_VIDEO_VISUALIZER/0.jpg" width="200"></a>
+      <video src="https://github.com/user-attachments/assets/caf9e250-c58b-4f7b-8d4f-1816730d3a7c"
+ width="200"></a>
     </td>
   </tr>
 </table>
