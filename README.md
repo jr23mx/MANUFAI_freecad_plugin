@@ -430,7 +430,7 @@ To ensure you can replicate the workflows shown in the demonstrations, **each to
       </ul>
       <br><br>
       👇 <strong>Feature Demonstration:</strong><br>
-      <a href="LINK_VIDEO_SIMULATOR"><img src="https://img.youtube.com/vi/LINK_VIDEO_SIMULATOR/0.jpg" width="200"></a>
+      <a href="LINK_VIDEO_SIMULATOR"><video src=[Weld_Simulador.webm] width="200"></a>
     </td>
   </tr>
 <tr>
