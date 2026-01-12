@@ -31,7 +31,7 @@ To ensure you can replicate the workflows shown in the demonstrations, **each to
 
 ---
 
-## 📥 Download & Installation
+# 📥 Download & Installation
 ### Set up the MANUFAI workbench on your system
 Follow these steps to set up the **MANUFAI** workbench on your system.
 
