@@ -63,7 +63,7 @@ Upon opening FreeCAD, locate the workbench selector dropdown in the top-center m
 To access all features, you must activate the Workbench:
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Recursive%20Visibility/Toggle_Visibility_Recursive.svg" width="100" align="left" hspace="30">
+  <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Workbench Activation/Acvitator.svg" width="100" align="left" hspace="30">
   <ul>
     <li>Click on the <b>Activator</b> icon within the MANUFAI toolbar.</li>
     <li>Obtain your <b>Serial Key</b> and enter it into the corresponding field.</li>
