@@ -33,7 +33,6 @@ To ensure you can replicate the workflows shown in the demonstrations, **each to
 
 ## 📥 Download & Installation
 ### Set up the MANUFAI workbench on your system
-
 Follow these steps to set up the **MANUFAI** workbench on your system.
 
 #### **1. Official Download**
@@ -41,8 +40,6 @@ Access the latest version from our portal:
 👉 **[MANUFAI](https://www.manufai.com/)**
 
 > **Tutorial Video:** [Sign up and download FreeCAD Plugin](https://www.youtube.com/watch?v=RT1OPsXSJlg)
-
----
 
 #### **2. Installation Guide**
 
@@ -52,8 +49,29 @@ Access the latest version from our portal:
 
 > C:\Program Files\FreeCAD 1.0\Mod\
 
-
 * **Start** or **Restart** FreeCAD to activate the workbench.
+
+---
+
+# 🔑 Workbench Activation
+Once the folder is installed in the corresponding directory, follow these steps to activate and start using the tools.
+
+#### **1. Selecting the Workbench**
+Upon opening FreeCAD, locate the workbench selector dropdown in the top-center menu and select **MANUFAI**.
+
+#### **2. Activator**
+To access all features, you must activate the Workbench:
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Recursive%20Visibility/Toggle_Visibility_Recursive.svg" width="100" align="left" hspace="30">
+  <ul>
+    <li>Click on the <b>Activator</b> icon within the MANUFAI toolbar.</li>
+    <li>Obtain your <b>Serial Key</b> and enter it into the corresponding field.</li>
+    <li>Add it by clicking the <code> + </code> sign.</li>
+    <li>Finally, click on <code>Activate</code>.</li>
+  </ul>
+</p>
+<br clear="left"/>
 
 ---
 
