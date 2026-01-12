@@ -31,6 +31,32 @@ To ensure you can replicate the workflows shown in the demonstrations, **each to
 
 ---
 
+## 📥 Download & Installation
+### Set up the MANUFAI workbench on your system
+
+Follow these steps to set up the **MANUFAI** workbench on your system.
+
+#### **1. Official Download**
+Access the latest version from our portal:
+👉 **[MANUFAI](https://www.manufai.com/)**
+
+> **Tutorial Video:** [Sign up and download FreeCAD Plugin](https://www.youtube.com/watch?v=RT1OPsXSJlg)
+
+---
+
+#### **2. Installation Guide**
+
+**Manual Installation:**
+* **Extract** the downloaded `.zip` folder.
+* **Move** the `MANUFAI_freecad` folder into the **Mod** directory of your installation:
+
+> C:\Program Files\FreeCAD 1.0\Mod\
+
+
+* **Start** or **Restart** FreeCAD to activate the workbench.
+
+---
+
 ## 🚀 New Feature Highlights
 
 <table>
