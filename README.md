@@ -37,7 +37,7 @@ Follow these steps to set up the **MANUFAI** workbench on your system.
 
 #### **1. Official Download**
 Access the latest version from our portal:
-👉 **[MANUFAI](https://www.manufai.com/)**
+👉 **[MANUFAI - FreeCAD Plugin](https://www.manufai.com/freecad)**
 
 > **Tutorial Video:** [Sign up and download FreeCAD Plugin](https://www.youtube.com/watch?v=RT1OPsXSJlg)
 
