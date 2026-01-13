@@ -47,7 +47,7 @@ Access the latest version from our portal:
 * **Extract** the downloaded `.zip` folder.
 * **Move** the `MANUFAI_freecad` folder into the **Mod** directory of your installation:
 
-> C:\Program Files\FreeCAD 1.0\Mod\
+> [C:\Program Files\FreeCAD 1.0\Mod\](file:///C:/Program%20Files/FreeCAD%201.0/Mod/)
 
 * **Start** or **Restart** FreeCAD to activate the workbench.
 
