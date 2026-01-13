@@ -73,6 +73,8 @@ To access all features, you must activate the Workbench:
 </p>
 <br clear="left"/>
 
+> **Tutorial Video:** [Setup and Activate FreeCAD plugin]([https://www.youtube.com/watch?v=RT1OPsXSJlg](https://youtu.be/isCbP-M9UMY))
+
 ---
 
 ## 🚀 New Feature Highlights
