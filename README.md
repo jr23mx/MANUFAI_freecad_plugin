@@ -190,8 +190,11 @@ To access all features, you must activate the Workbench:
       <br><br>
       It launches the Alignment Wizard to process the defined Datums (A, B, and C). It mathematically computes the orthogonal intersection of the vectors and displays a <strong>ghost preview</strong> of the new coordinate system, allowing validation of the new origin position before any actual movement occurs.
       <br><br>
-      👇 <strong>Feature Demonstration:</strong><br>
-      <video src="https://github.com/user-attachments/assets/8d0606ab-7623-448c-b674-eaebb61a4d86" width="100%" controls></video>
+<blockquote>
+  <strong>Tutorial Video:</strong> 
+  <a href="https://youtu.be/JlmY55VMlqQ" target="_blank">FreeCAD Plugin - Datum based Alignment 3-2-1</a>
+</blockquote>
+       <br>
     </td>
   </tr>
   <tr>
