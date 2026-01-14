@@ -96,7 +96,7 @@ To access all features, you must activate the Workbench:
   </tr>
 </table>
 
-## 📏 3-2-1 Alignment
+## 📏 Group of buttons to make datum based alignment (Transformation).
 
 <table>
   <tr>
