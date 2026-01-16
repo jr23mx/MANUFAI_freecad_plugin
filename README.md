@@ -210,7 +210,7 @@ To access all features, you must activate the Workbench:
       <br><br>
 <blockquote>
   <strong>Tutorial Video:</strong> 
-  <a href="https://youtu.be/JlmY55VMlqQ" target="_blank">FreeCAD Plugin - Datum based Alignment 3-2-1</a>
+  <a href="" target="_blank">FreeCAD Plugin - Datum based Alignment 3-2-1</a>
 </blockquote>
        <br>
     </td>
