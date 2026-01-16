@@ -90,8 +90,11 @@ To access all features, you must activate the Workbench:
       <br><br>
       The <strong>Recursive Visibility</strong> tool solves UX friction when working with complex hierarchies. It traverses the entire dependency tree of a selected object to toggle visibility for the parent and all descendants recursively.
       <br><br>
-      👇 <strong>Feature Demonstration:</strong><br>
-      <video src="https://github.com/user-attachments/assets/0fa2cd8d-c080-43f4-a0a1-9e60bd4e93ff" width="100%" controls></video>
+      <blockquote>
+  <strong>Tutorial Video:</strong> 
+  <a href=""></a>
+</blockquote>
+       <br>
     </td>
   </tr>
 </table>
@@ -109,8 +112,11 @@ To access all features, you must activate the Workbench:
       <br><br>
       It places a reference sphere at the absolute zero of the workspace. This provides an immediate visual check to determine the offset distance of imported models relative to the workspace center before starting any alignment procedures.
       <br><br>
-      👇 <strong>Feature Demonstration:</strong><br>
-      <video src="https://github.com/user-attachments/assets/3d7e01eb-258b-4d20-ac01-b414544c3b89" width="100%" controls></video>
+      <blockquote>
+  <strong>Tutorial Video:</strong> 
+  <a href="" target="_blank"></a>
+</blockquote>
+       <br>
     </td>
   </tr>
   <tr>
@@ -128,8 +134,11 @@ To access all features, you must activate the Workbench:
       </ul>
       Useful for establishing auxiliary reference points on complex geometry without creating full datums.
       <br><br>
-      👇 <strong>Feature Demonstration:</strong><br>
-      <video src="https://github.com/user-attachments/assets/417329b5-e28c-4d58-a506-29fc3a2ab8fc" width="100%" controls></video>
+      <blockquote>
+  <strong>Tutorial Video:</strong> 
+  <a href="" target="_blank"></a>
+</blockquote>
+       <br>
     </td>
   </tr>
   <tr>
@@ -145,8 +154,11 @@ To access all features, you must activate the Workbench:
         <li><strong>Face Selection:</strong> Uses the normal of a flat face.</li>
         <li><strong>Dual-Edge Selection:</strong> By selecting two edges (e.g., two holes) sequentially, it computes the centerline between them to act as the primary axis.</li>
       </ul>
-      👇 <strong>Feature Demonstration:</strong><br>
-      <video src="https://github.com/user-attachments/assets/66e3217b-d3d2-4cce-bee3-ef0f11afa07d" width="100%" controls></video>
+      <blockquote>
+  <strong>Tutorial Video:</strong> 
+  <a href="" target="_blank"></a>
+</blockquote>
+       <br>
     </td>
   </tr>
   <tr>
@@ -162,8 +174,11 @@ To access all features, you must activate the Workbench:
         <li><strong>Edge/Face:</strong> Uses standard edges or faces for direction.</li>
         <li><strong>Extension Plane:</strong> When two parallel faces are selected, it calculates the theoretical mid-plane between them to define the axis.</li>
       </ul>
-      👇 <strong>Feature Demonstration:</strong><br>
-      <video src="https://github.com/user-attachments/assets/4afad79e-905f-4ac8-a5fe-194b80d1ab69" width="100%" controls></video>
+      <blockquote>
+  <strong>Tutorial Video:</strong> 
+  <a href="" target="_blank"></a>
+</blockquote>
+       <br>
     </td>
   </tr>
   <tr>
@@ -176,8 +191,11 @@ To access all features, you must activate the Workbench:
       <br><br>
       It locks the final degree of freedom, establishing the specific zero point along the previously defined axes. It accepts vertices, sphere centers, or calculates the midpoint between two selected edges/features.
       <br><br>
-      👇 <strong>Feature Demonstration:</strong><br>
-      <video src="https://github.com/user-attachments/assets/99ba5a36-2ca3-4c6e-80b7-b5580b0e3371" width="100%" controls></video>
+      <blockquote>
+  <strong>Tutorial Video:</strong> 
+  <a href="" target="_blank"></a>
+</blockquote>
+       <br>
     </td>
   </tr>
   <tr>
@@ -208,8 +226,11 @@ To access all features, you must activate the Workbench:
       It applies the calculated inverse transformation matrix to the selected objects, moving the model to the absolute (0,0,0).
       <br><strong>Hierarchy Awareness:</strong> It respects the document structure, moving parent containers or individual parts correctly without breaking internal assembly relationships or positions.
       <br><br>
-      👇 <strong>Feature Demonstration:</strong><br>
-      <video src="https://github.com/user-attachments/assets/bca2b1cf-31c2-4d74-ac5b-55ccedcbefaf" width="100%" controls></video>
+      <blockquote>
+  <strong>Tutorial Video:</strong> 
+  <a href="" target="_blank"></a>
+</blockquote>
+       <br>
     </td>
   </tr>
 </table>
@@ -237,8 +258,11 @@ To access all features, you must activate the Workbench:
           </ul>
         </li>
       </ul>
-      👇 <strong>Feature Demonstration:</strong><br>
-      <video src="https://github.com/user-attachments/assets/8bcf2251-f0bc-42cd-95bf-08ef1ecd7db7" width="100%" controls></video>
+      <blockquote>
+  <strong>Tutorial Video:</strong> 
+  <a href="" target="_blank"></a>
+</blockquote>
+       <br>
     </td>
   </tr>
 </table>
@@ -259,8 +283,11 @@ To access all features, you must activate the Workbench:
         <li><strong>Property Injection:</strong> Automatically recognizes drawn lines and injects necessary welding properties (Sequence, Layer, Electrical parameters).</li>
         <li><strong>System Activation:</strong> Launches the sidebar dock that manages the active welding context.</li>
       </ul>
-      👇 <strong>Feature Demonstration:</strong><br>
-      <video src="https://github.com/user-attachments/assets/ac970131-a3a0-4683-87e5-b3279ccc3fa8" width="100%" controls></video>
+      <blockquote>
+  <strong>Tutorial Video:</strong> 
+  <a href="" target="_blank"></a>
+</blockquote>
+       <br>
     </td>
   </tr>
   <tr>
@@ -278,8 +305,11 @@ To access all features, you must activate the Workbench:
         <li><strong>Simultaneous Ops:</strong> Define which welds are executed in parallel by different robots.</li>
         <li><strong>Final Export:</strong> Once layers, sequences, and custom data are fully defined, this tool is responsible for <strong>generating the .WDCurve file</strong>, exporting only the active layers ready for external processing.</li>
       </ul>
-      👇 <strong>Feature Demonstration:</strong><br>
-      <video src="https://github.com/user-attachments/assets/d2e4cd18-238f-4066-9d3a-60538c8d200d" width="100%" controls></video>
+      <blockquote>
+  <strong>Tutorial Video:</strong> 
+  <a href="" target="_blank"></a>
+</blockquote>
+       <br>
     </td>
   </tr>
   <tr>
@@ -295,8 +325,11 @@ To access all features, you must activate the Workbench:
         <li><strong>X-Ray Vision:</strong> Makes the 3D geometry transparent while keeping weld lines solid and visible.</li>
         <li><strong>Click-Through Blocker:</strong> <strong>Crucial Feature.</strong> It strictly blocks the selection of 3D geometry (faces/bodies), ensuring that clicks <strong>only register on weld lines</strong>. This prevents accidental selection of the background model when picking thin weld paths.</li>
       </ul>
-      👇 <strong>Feature Demonstration:</strong><br>
-      <video src="https://github.com/user-attachments/assets/a1e57451-0914-438f-9c8f-d2096a48de29" width="100%" controls></video>
+      <blockquote>
+  <strong>Tutorial Video:</strong> 
+  <a href="" target="_blank"></a>
+</blockquote>
+       <br>
     </td>
   </tr>
   <tr>
@@ -312,8 +345,11 @@ To access all features, you must activate the Workbench:
         <li><strong>Context grouping:</strong> Associate specific fixtures or parts with a weld layer.</li>
         <li><strong>Preparation for View:</strong> This grouping structure is required to utilize the advanced filtering capabilities of the Visibility Manager.</li>
       </ul>
-      👇 <strong>Feature Demonstration:</strong><br>
-      <video src="https://github.com/user-attachments/assets/5e558c9f-b530-416a-bd68-8e8d0b686aa7" width="100%" controls></video>
+      <blockquote>
+  <strong>Tutorial Video:</strong> 
+  <a href="" target="_blank"></a>
+</blockquote>
+       <br>
     </td>
   </tr>
   <tr>
@@ -329,8 +365,11 @@ To access all features, you must activate the Workbench:
         <li><strong>By Layer:</strong> Show/Hide entire production layers (including their associated 3D parts).</li>
         <li><strong>By Robot:</strong> Visualize only the tasks assigned to a specific robot.</li>
       </ul>
-      👇 <strong>Feature Demonstration:</strong><br>
-      <video src="https://github.com/user-attachments/assets/0e065252-4411-4876-ac72-6d780ab41cea" width="100%" controls></video>
+      <blockquote>
+  <strong>Tutorial Video:</strong> 
+  <a href="" target="_blank"></a>
+</blockquote>
+       <br>
     </td>
   </tr>
   <tr>
@@ -345,8 +384,11 @@ To access all features, you must activate the Workbench:
       <ul>
         <li><strong>Editable Geometry:</strong> Imported lines are not static; they are converted into native workbench objects with full properties, allowing them to be edited, re-sequenced, or modified as if they were created inside the plugin.</li>
       </ul>
-      👇 <strong>Feature Demonstration:</strong><br>
-      <video src="https://github.com/user-attachments/assets/6d45f013-bd2c-4388-bd8a-4b5ce46a77f6" width="100%" controls></video>
+      <blockquote>
+  <strong>Tutorial Video:</strong> 
+  <a href="" target="_blank"></a>
+</blockquote>
+       <br>
     </td>
   </tr>
   <tr>
@@ -362,8 +404,11 @@ To access all features, you must activate the Workbench:
         <li><strong>ID Labels:</strong> Shows the name/number of the weld floating above it.</li>
         <li><strong>Direction Markers:</strong> Clearly marks the <strong>Start (O)</strong> and <strong>End (X)</strong> of the path to verify torch direction visually.</li>
       </ul>
-      👇 <strong>Feature Demonstration:</strong><br>
-      <video src="https://github.com/user-attachments/assets/74d28c64-80fd-4a0b-bab3-08fa81ffdf86" width="100%" controls></video>
+      <blockquote>
+  <strong>Tutorial Video:</strong> 
+  <a href="" target="_blank"></a>
+</blockquote>
+       <br>
     </td>
   </tr>
   <tr>
@@ -376,8 +421,11 @@ To access all features, you must activate the Workbench:
       <br><br>
       A productivity shortcut that instantly zooms and centers the camera on the object currently selected in the tree or list. Essential for locating small weld segments in large-scale environments.
       <br><br>
-      👇 <strong>Feature Demonstration:</strong><br>
-      <video src="https://github.com/user-attachments/assets/86b8d792-165a-4f9a-869f-9d077f8ce722" width="100%" controls></video>
+      <blockquote>
+  <strong>Tutorial Video:</strong> 
+  <a href="" target="_blank"></a>
+</blockquote>
+       <br>
     </td>
   </tr>
   <tr>
@@ -398,8 +446,11 @@ To access all features, you must activate the Workbench:
         <li><strong>Digital Linkage:</strong> Associate each 2D mark with an existing weld bead in the 3D model for full traceability.</li>
       </ul>
       <br><br>
-      👇 <strong>Feature Demonstration:</strong><br>
-      <video src="https://github.com/user-attachments/assets/5256df76-cf04-4612-9105-76f1f82e3a39" width="200"></a>
+      <blockquote>
+  <strong>Tutorial Video:</strong> 
+  <a href="" target="_blank"></a>
+</blockquote>
+       <br>
     </td>
   </tr>
 <tr>
@@ -419,8 +470,11 @@ To access all features, you must activate the Workbench:
         <li><strong>Start/End Point Validation:</strong> Interactive table integration—clicking on the data table highlights the <strong>Start</strong> and <strong>End</strong> points in the 3D viewer to visually validate the welding direction.</li>
       </ul>
       <br><br>
-      👇 <strong>Feature Demonstration:</strong><br>
-      <video src="https://github.com/user-attachments/assets/4c413eac-85f1-4705-bbeb-0ec3deaff290" width="200"></a>
+      <blockquote>
+  <strong>Tutorial Video:</strong> 
+  <a href="" target="_blank"></a>
+</blockquote>
+       <br>
     </td>
   </tr>
 <tr>
@@ -440,8 +494,11 @@ To access all features, you must activate the Workbench:
         <li><strong>Direct Edge Conversion:</strong> Immediate transformation of selected edge chains into weld objects, preserving topology and applying adaptive discretization on curves.</li>
       </ul>
       <br><br>
-      👇 <strong>Feature Demonstration:</strong><br>
-      <video src="https://github.com/user-attachments/assets/ce5b0544-6ddd-4b7d-956b-c9a011f15a43
+      <blockquote>
+  <strong>Tutorial Video:</strong> 
+  <a href="" target="_blank"></a>
+</blockquote>
+       <br>
 " width="200"></a>
     </td>
   </tr>
@@ -460,8 +517,11 @@ To access all features, you must activate the Workbench:
         <li><strong>Guide Constructor:</strong> Integrated utility for drawing manual reference polylines, facilitating the definition of axes and direction vectors in assemblies where automatic geometry requires user assistance.</li>
       </ul>
       <br><br>
-      👇 <strong>Feature Demonstration:</strong><br>
-      <video src="https://github.com/user-attachments/assets/fc723cfd-8c44-4911-9dc1-c214a383e5b1" width="200"></a>
+      <blockquote>
+  <strong>Tutorial Video:</strong> 
+  <a href="" target="_blank"></a>
+</blockquote>
+       <br>
     </td>
   </tr>
 <tr>
@@ -479,9 +539,11 @@ To access all features, you must activate the Workbench:
         <li><strong>Kinematic Validation:</strong> Real-time visualization of the Tool Center Point (TCP) movement over the 3D model. It strictly respects the user-defined travel speed (mm/s) to detect process flow errors and estimate realistic production times.</li>
       </ul>
       <br><br>
-      👇 <strong>Feature Demonstration:</strong><br>
-      <video src=https://github.com/user-attachments/assets/90bac4a3-dc8f-4121-8fd2-746a54ba76ae
-  width="200"></a>
+      <blockquote>
+  <strong>Tutorial Video:</strong> 
+  <a href="" target="_blank"></a>
+</blockquote>
+       <br>
     </td>
   </tr>
 <tr>
@@ -496,9 +558,11 @@ To access all features, you must activate the Workbench:
       <br><br>
       It utilizes direct scene graph rendering (<strong>Coin3D</strong>) to project a "cloud" of spheres along the trajectory, providing an immediate visual representation of weld coverage while maintaining a lightweight model size and fluid viewport navigation.
       <br><br>
-      👇 <strong>Feature Demonstration:</strong><br>
-      <video src="https://github.com/user-attachments/assets/caf9e250-c58b-4f7b-8d4f-1816730d3a7c"
- width="200"></a>
+      <blockquote>
+  <strong>Tutorial Video:</strong> 
+  <a href="" target="_blank"></a>
+</blockquote>
+       <br>
     </td>
   </tr>
 </table>
@@ -521,8 +585,11 @@ To access all features, you must activate the Workbench:
         <li><strong>Export Selected:</strong> Sends only specific components, perfect for partial updates or isolated testing.</li>
         <li><strong>Auto-Alignment:</strong> Both modes automatically generate and reference the "CAD_Frame" coordinate system, ensuring perfect alignment between the design and the robot station.</li>
       </ul>
-      👇 <strong>Feature Demonstration:</strong><br>
-     <video src="https://github.com/user-attachments/assets/5816ddd7-fc37-4e95-8dcf-931552d8a005" width="100%" controls></video>
+      👇<blockquote>
+  <strong>Tutorial Video:</strong> 
+  <a href="" target="_blank"></a>
+</blockquote>
+       <br>
     </td>
   </tr>
   <tr>
@@ -538,8 +605,11 @@ To access all features, you must activate the Workbench:
         <li><strong>Non-Destructive Transformation:</strong> Includes a dedicated panel to Scale, Translate, and Rotate the path locally without altering the original CAD geometry.</li>
         <li><strong>Smart Export:</strong> Automatically calculates surface normals for correct gun orientation and exports the transformed data to RoboDK as a "Curve Follow Project".</li>
       </ul>
-      👇 <strong>Feature Demonstration:</strong><br>
-      <video src="https://github.com/user-attachments/assets/dc94b2dc-10fd-43ca-8ee6-99f1b0e456ef" width="100%" controls></video>
+      <blockquote>
+  <strong>Tutorial Video:</strong> 
+  <a href="" target="_blank"></a>
+</blockquote>
+       <br>
     </td>
   </tr>
   <tr>
@@ -561,8 +631,11 @@ To access all features, you must activate the Workbench:
         </li>
         <li><strong>Full Simulation:</strong> Generates complete Approach, Drill, and Retract targets within RoboDK automatically.</li>
       </ul>
-      👇 <strong>Feature Demonstration:</strong><br>
-      <video src="https://github.com/user-attachments/assets/f443d37d-f42e-41e8-b491-27f4ca8b8684" width="100%" controls></video>
+      <blockquote>
+  <strong>Tutorial Video:</strong> 
+  <a href="" target="_blank"></a>
+</blockquote>
+       <br>
     </td>
   </tr>
 </table>
