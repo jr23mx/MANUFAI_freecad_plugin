@@ -445,7 +445,7 @@ To access all features, you must activate the Workbench:
         <li><strong>Interactive Mapping:</strong> Load any image (PNG, JPG) and place "weld points" simply by clicking on the drawing.</li>
         <li><strong>Digital Linkage:</strong> Associate each 2D mark with an existing weld bead in the 3D model for full traceability.</li>
       </ul>
-      <br><br>
+      <br>
       <blockquote>
   <strong>Tutorial Video:</strong> 
   <a href="https://youtu.be/ubZ25obcUz4" target="_blank">DEMO - FreeCAD - Welding 2D drawing ballooning and weld definition</a>
@@ -460,16 +460,16 @@ To access all features, you must activate the Workbench:
     <td>
       <h3>Weld Projector</h3>
       <strong>High-Precision Path Projection.</strong>
-      <br><br>
+      <br>
       The <strong>Weld Projector</strong> is designed to process and project welding trajectories with high precision. Its algorithm uses weld faces and physical CAD edges as references to generate accurate weld lines.
-      <br><br>
+      <br>
       <strong>Key Capabilities:</strong>
       <ul>
         <li><strong>Precise Mathematical Mapping:</strong> Performs exact mapping of edges onto multiple irregular surfaces, ensuring the weld path adheres perfectly to the part geometry.</li>
         <li><strong>Object Focus:</strong> Automatically focuses on the current selection or processed welds, providing total control over the work environment.</li>
         <li><strong>Start/End Point Validation:</strong> Interactive table integration—clicking on the data table highlights the <strong>Start</strong> and <strong>End</strong> points in the 3D viewer to visually validate the welding direction.</li>
       </ul>
-      <br><br>
+      <br>
       <blockquote>
   <strong>Tutorial Video:</strong> 
   <a href="" target="_blank"></a>
@@ -484,7 +484,7 @@ To access all features, you must activate the Workbench:
     <td>
       <h3>Weld Creator</h3>
       <strong>Versatile Path Generation & Stitch Patterns.</strong>
-      <br><br>
+      <br>
       Designed for versatile and parametric weld path generation. Unlike the Projector, this module focuses on direct creation, allowing for manual path drawing, conversion of existing edges, and the calculation of complex discontinuous (Stitch Weld) patterns.
       <br><br>
       <strong>Key Capabilities:</strong>
@@ -493,13 +493,12 @@ To access all features, you must activate the Workbench:
         <li><strong>Freehand Creation:</strong> Manual weld path generation via sequential selection of 3D space points or model vertices.</li>
         <li><strong>Direct Edge Conversion:</strong> Immediate transformation of selected edge chains into weld objects, preserving topology and applying adaptive discretization on curves.</li>
       </ul>
-      <br><br>
+      <br>
       <blockquote>
   <strong>Tutorial Video:</strong> 
   <a href="" target="_blank"></a>
 </blockquote>
-       <br>
-" width="200"></a>
+      <br>
     </td>
   </tr>
 <tr>
