@@ -448,7 +448,7 @@ To access all features, you must activate the Workbench:
       <br><br>
       <blockquote>
   <strong>Tutorial Video:</strong> 
-  <a href="" target="_blank"></a>
+  <a href="https://youtu.be/ubZ25obcUz4" target="_blank">DEMO - FreeCAD - Welding 2D drawing ballooning and weld definition</a>
 </blockquote>
        <br>
     </td>
