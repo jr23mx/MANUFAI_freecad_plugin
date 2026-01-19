@@ -632,14 +632,11 @@ To access all features, you must activate the Workbench:
         <li><strong>Full Simulation:</strong> Generates complete Approach, Drill, and Retract targets within RoboDK automatically.</li>
       </ul>
       <blockquote>
-  <strong>Tutorial Videos:</strong> 
-        </blockquote>
-  <ul>
-        <li><a href="https://youtu.be/2751P1_2O6U" target="_blank">FreeCAD to RoboDK - Drilling DEMO - start point - end point selection</a></li>
-        <li><a href="https://youtu.be/Guw3Cb5ifGM" target="_blank">FreeCAD to RoboDK - Drilling DEMO - One point and depth</a></li>
-        <li><a href="https://youtu.be/AtLmI3skG5Q" target="_blank">FreeCAD to RoboDK - Drilling DEMO - Multiple holes selection</a></li>
-      </ul>
-       <br>
+  <strong>Tutorial Videos:</strong> <br>
+        <a href="https://youtu.be/2751P1_2O6U" target="_blank">FreeCAD to RoboDK - Drilling DEMO - start point - end point selection</a><br>
+        <a href="https://youtu.be/Guw3Cb5ifGM" target="_blank">FreeCAD to RoboDK - Drilling DEMO - One point and depth</a><br>
+        <a href="https://youtu.be/AtLmI3skG5Q" target="_blank">FreeCAD to RoboDK - Drilling DEMO - Multiple holes selection</a><br>
+     </blockquote>
     </td>
   </tr>
 </table>
