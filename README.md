@@ -111,12 +111,7 @@ To access all features, you must activate the Workbench:
       <strong>Generates a visual reference at the Global Origin (0,0,0).</strong>
       <br><br>
       It places a reference sphere at the absolute zero of the workspace. This provides an immediate visual check to determine the offset distance of imported models relative to the workspace center before starting any alignment procedures.
-      <br><br>
-      <blockquote>
-  <strong>Tutorial Video:</strong> 
-  <a href="" target="_blank"></a>
-</blockquote>
-       <br>
+       <br><br>
     </td>
   </tr>
   <tr>
@@ -133,12 +128,7 @@ To access all features, you must activate the Workbench:
         <li><strong>Two Objects:</strong> Calculates the exact midpoint between them.</li>
       </ul>
       Useful for establishing auxiliary reference points on complex geometry without creating full datums.
-      <br><br>
-      <blockquote>
-  <strong>Tutorial Video:</strong> 
-  <a href="" target="_blank"></a>
-</blockquote>
-       <br>
+       <br><br>
     </td>
   </tr>
   <tr>
@@ -154,10 +144,6 @@ To access all features, you must activate the Workbench:
         <li><strong>Face Selection:</strong> Uses the normal of a flat face.</li>
         <li><strong>Dual-Edge Selection:</strong> By selecting two edges (e.g., two holes) sequentially, it computes the centerline between them to act as the primary axis.</li>
       </ul>
-      <blockquote>
-  <strong>Tutorial Video:</strong> 
-  <a href="" target="_blank"></a>
-</blockquote>
        <br>
     </td>
   </tr>
@@ -174,10 +160,6 @@ To access all features, you must activate the Workbench:
         <li><strong>Edge/Face:</strong> Uses standard edges or faces for direction.</li>
         <li><strong>Extension Plane:</strong> When two parallel faces are selected, it calculates the theoretical mid-plane between them to define the axis.</li>
       </ul>
-      <blockquote>
-  <strong>Tutorial Video:</strong> 
-  <a href="" target="_blank"></a>
-</blockquote>
        <br>
     </td>
   </tr>
@@ -191,11 +173,6 @@ To access all features, you must activate the Workbench:
       <br><br>
       It locks the final degree of freedom, establishing the specific zero point along the previously defined axes. It accepts vertices, sphere centers, or calculates the midpoint between two selected edges/features.
       <br><br>
-      <blockquote>
-  <strong>Tutorial Video:</strong> 
-  <a href="" target="_blank"></a>
-</blockquote>
-       <br>
     </td>
   </tr>
   <tr>
@@ -208,11 +185,6 @@ To access all features, you must activate the Workbench:
       <br><br>
       It launches the Alignment Wizard to process the defined Datums (A, B, and C). It mathematically computes the orthogonal intersection of the vectors and displays a <strong>ghost preview</strong> of the new coordinate system, allowing validation of the new origin position before any actual movement occurs.
       <br><br>
-<blockquote>
-  <strong>Tutorial Video:</strong> 
-  <a href="" target="_blank">FreeCAD Plugin - Datum based Alignment 3-2-1</a>
-</blockquote>
-       <br>
     </td>
   </tr>
   <tr>
@@ -226,11 +198,14 @@ To access all features, you must activate the Workbench:
       It applies the calculated inverse transformation matrix to the selected objects, moving the model to the absolute (0,0,0).
       <br><strong>Hierarchy Awareness:</strong> It respects the document structure, moving parent containers or individual parts correctly without breaking internal assembly relationships or positions.
       <br><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" style="padding: 20px;">
       <blockquote>
   <strong>Tutorial Video:</strong> 
   <a href="" target="_blank"></a>
 </blockquote>
-       <br>
     </td>
   </tr>
 </table>
@@ -261,8 +236,7 @@ To access all features, you must activate the Workbench:
       <blockquote>
   <strong>Tutorial Video:</strong> 
   <a href="" target="_blank"></a>
-</blockquote>
-       <br>
+</blockquote><br>
     </td>
   </tr>
 </table>
