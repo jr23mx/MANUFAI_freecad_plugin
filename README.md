@@ -45,7 +45,7 @@ Access the latest version from our portal:
 
 **Manual Installation:**
 * **Extract** the downloaded `.zip` folder.
-* **Move** the `MANUFAI_freecad` folder into the **Mod** directory of your installation:
+* **Move** the `MANUFAI` folder into the **Mod** directory of your installation:
 
 > **C:\Program Files\FreeCAD 1.0\Mod**
 
