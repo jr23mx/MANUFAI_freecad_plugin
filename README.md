@@ -558,7 +558,7 @@ To access all features, you must activate the Workbench:
         <li><strong>Export Selected:</strong> Sends only specific components, perfect for partial updates or isolated testing.</li>
         <li><strong>Auto-Alignment:</strong> Both modes automatically generate and reference the "CAD_Frame" coordinate system, ensuring perfect alignment between the design and the robot station.</li>
       </ul>
-      👇<blockquote>
+      <blockquote>
   <strong>Tutorial Video:</strong> 
   <a href="" target="_blank"></a>
 </blockquote>
