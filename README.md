@@ -127,7 +127,12 @@ To access all features, you must activate the Workbench:
         <li><strong>Two Objects:</strong> Calculates the exact midpoint between them.</li>
       </ul>
       Useful for establishing auxiliary reference points on complex geometry without creating full datums.
-       <br><br>
+       <br>
+      <blockquote>
+  <strong>Tutorial Video:</strong> 
+  <a href="https://youtu.be/AsVGiXEPmd4" target="_blank">Center Point - MANUFAI FreeCAD Plugin</a>
+</blockquote>
+       <br>
     </td>
   </tr>
   <tr>
