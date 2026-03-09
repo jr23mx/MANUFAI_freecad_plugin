@@ -576,7 +576,7 @@ To access all features, you must activate the Workbench:
   </tr>
   <tr>
     <td width="150" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Resources/01%20-%20Pannel_Top/MoveWeldlines.svg" width="100px">
+      <img src="https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/Move%20Weldlines/MoveWeldlines.svg" width="100px">
     </td>
     <td>
       <h3>WeldLine Move & Align</h3>
