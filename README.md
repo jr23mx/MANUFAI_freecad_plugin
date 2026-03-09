@@ -579,7 +579,7 @@ To access all features, you must activate the Workbench:
       <img src="https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/Move%20Weldlines/MoveWeldlines.svg" width="100px">
     </td>
     <td>
-      <h3>WeldLine Move & Align</h3>
+      <h3>Smart Discretize</h3>
       <strong>Precision Trajectory Re-positioning.</strong>
       <br><br>
       A multi-modal suite designed to reposition welding paths without losing their internal manufacturing data. It provides three specialized workflows to handle any alignment scenario:
@@ -590,9 +590,37 @@ To access all features, you must activate the Workbench:
       </ul>
       <blockquote>
   <strong>Tutorial Video:</strong> 
-  <a href="https://youtu.be/TU_URL_AQUI" target="_blank">WeldLine Move - Projection & Circular Methods</a>
+  <a href="https://youtu.be/TU_URL_AQUI" target="_blank">Smart Discretizes</a>
 </blockquote>
        <br>
+    </td>
+  </tr>
+
+<tr>
+    <td width="150" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Resources/01%20-%20Pannel_Top/DIZCRE.svg" width="100px">
+    </td>
+    <td>
+      <h3>Smart Discretize</h3>
+      <strong>Geometry-Aware Path Projection.</strong>
+      <br><br>
+      A high-precision tool that refines welding trajectories by projecting existing <code>FPweldline</code> data onto target CAD edges. It eliminates the "floating path" issue by snapping the simulation points directly to the physical geometry.
+      <ul>
+        <li><strong>Adaptive Point Density:</strong> Unlike standard discretization, this tool distinguishes between geometries:
+          <ul>
+            <li><i>Curved Edges:</i> Applies the user-defined <b>Curve Density</b> for smooth robotic motion.</li>
+            <li><i>Straight Edges:</i> Automatically optimizes to just <b>2 points</b> (Start/End), reducing redundant controller data and OLP complexity.</li>
+          </ul>
+        </li>
+        <li><strong>Multi-Edge Selection:</strong> Capable of projecting a single weld trajectory across multiple disparate edges (Compound support).</li>
+        <li><strong>Real-Time Optimization:</strong> Includes a "Corner Detection" logic that preserves points only where direction changes significantly ($cos(\theta) < 0.9999$).</li>
+        <li><strong>Automatic Sync:</strong> Updates all internal MANUFAI metrics (Distance, Pts, and LeadTime) immediately after projection.</li>
+      </ul>
+      <blockquote>
+        <strong>Tutorial Video:</strong> 
+        <a href="https://youtu.be/TU_URL_AQUI" target="_blank">Smart Discretize - Optimizing Paths for OLP</a>
+      </blockquote>
+      <br>
     </td>
   </tr>
 </table>
