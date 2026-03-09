@@ -330,25 +330,6 @@ To access all features, you must activate the Workbench:
   </tr>
   <tr>
     <td width="150" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Load%20WDCurve/upload_icon.svg" width="100px">
-    </td>
-    <td>
-      <h3>Load WDCurve</h3>
-      <strong>Native Import & Reconstruction.</strong>
-      <br><br>
-      Reads external <code>.WDCurve</code> files and fully reconstructs the weld lines within FreeCAD.
-      <ul>
-        <li><strong>Editable Geometry:</strong> Imported lines are not static; they are converted into native workbench objects with full properties, allowing them to be edited, re-sequenced, or modified as if they were created inside the plugin.</li>
-      </ul>
-      <blockquote>
-  <strong>Tutorial Video:</strong> 
-  <a href="" target="_blank"></a>
-</blockquote>
-       <br>
-    </td>
-  </tr>
-  <tr>
-    <td width="150" align="center" valign="top">
       <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Show%20Names/names_icon.svg" width="100px">
     </td>
     <td>
