@@ -566,7 +566,6 @@ To access all features, you must activate the Workbench:
             <li><i>Logistics:</i> Sequence numbering, Layer organization, and automated Lead Time calculation based on path length.</li>
           </ul>
         </li>
-        <li><strong>RoboDK Ready:</strong> Automatically calculates surface normals and torch tangents, preparing the path for immediate export to robotic simulation.</li>
       </ul>
       <blockquote>
         <strong>Tutorial Video:</strong> 
@@ -575,7 +574,38 @@ To access all features, you must activate the Workbench:
       <br>
     </td>
   </tr>
+  <tr>
+    <td width="150" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Resources/01%20-%20Pannel_Top/MoveWeldlines.svg" width="100px">
+    </td>
+    <td>
+      <h3>WeldLine Move & Align</h3>
+      <strong>Precision Trajectory Re-positioning.</strong>
+      <br><br>
+      A multi-modal suite designed to reposition welding paths without losing their internal manufacturing data. It provides three specialized workflows to handle any alignment scenario:
+      <ul>
+        <li><strong>Smart Projection:</strong> Aligns the entire weldline to a target edge by calculating the shortest distance to the path's center, ensuring perfect surface contact while preserving the original shape.</li>
+        <li><strong>Circular Alignment:</strong> Specialized for pipes and bosses. It detects circular/arc edges and snaps one or multiple weldlines to them using the first point as a precise anchor.</li>
+        <li><strong>Manual Transformer:</strong> A real-time editing panel for fine-tuning. Rotate and translate paths using precision spinboxes ($X, Y, Z, Rx, Ry, Rz$) with automatic recalculation of lead times and distances.</li>
+      </ul>
+      <blockquote>
+  <strong>Tutorial Video:</strong> 
+  <a href="https://youtu.be/TU_URL_AQUI" target="_blank">WeldLine Move - Projection & Circular Methods</a>
+</blockquote>
+       <br>
+    </td>
+  </tr>
 </table>
+
+
+
+
+
+
+
+
+
+
 ## 🤖 RoboDK & Process Automation
 
 <table>
