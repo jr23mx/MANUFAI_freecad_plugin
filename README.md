@@ -598,7 +598,7 @@ To access all features, you must activate the Workbench:
 
 <tr>
     <td width="150" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Resources/01%20-%20Pannel_Top/DIZCRE.svg" width="100px">
+      <img src="https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/Smart%20Discretize/DIZCRE.svg" width="100px">
     </td>
     <td>
       <h3>Smart Discretize</h3>
@@ -623,16 +623,29 @@ To access all features, you must activate the Workbench:
       <br>
     </td>
   </tr>
+<tr>
+    <td width="150" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Resources/01%20-%20Pannel_Top/Weld_tree_item.svg" width="100px">
+    </td>
+    <td>
+      <h3>WeldLine to WeldNormals (Weld Solver)</h3>
+      <strong>Vector Orientation & Normal Calculation Engine.</strong>
+      <br><br>
+      A mission-critical tool that bridges the gap between raw geometric paths and robotic welding execution. It transforms a standard <code>WeldLine</code> into a MANUFAI <b>Smart Weld Entity</b> by calculating the approach and torch orientation vectors required for OLP (Offline Programming).
+      <ul>
+        <li><strong>Automated Normal Generation:</strong> Analyzes surrounding CAD solids to automatically determine the optimal bisector angle between junction faces.</li>
+        <li><strong>Dynamic Torch Alignment:</strong> Features an interactive slider to adjust <i>Work</i> and <i>Travel</i> angles point-by-point or globally, ensuring the torch clears the workpiece.</li>
+        <li><strong>Collision-Aware Slicing:</strong> Includes a "Flip" logic that detects when the torch orientation needs to be inverted to avoid interference with jigs or fixtures.</li>
+        <li><strong>Real-Time Vector Feedback:</strong> Generates 3D visual representations of approach vectors ($\vec{n}$) and tangents ($\vec{t}$) for immediate verification.</li>
+        <li><strong>Batch Sequential Workflow:</strong> Tracks processed welds automatically, highlighting validated paths in the tree view to streamline large-scale assembly projects.</li>
+      </ul>
+      <blockquote>
+        <strong>Key Feature:</strong> Integrated <i>Bounding Box Pre-processing</i> ensures high-speed normal calculation even on complex, high-poly assemblies.
+      </blockquote>
+      <br>
+    </td>
+  </tr>
 </table>
-
-
-
-
-
-
-
-
-
 
 ## 🤖 RoboDK & Process Automation
 
