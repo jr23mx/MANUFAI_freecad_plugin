@@ -604,7 +604,7 @@ To access all features, you must activate the Workbench:
       <h3>Smart Discretize</h3>
       <strong>Geometry-Aware Path Projection.</strong>
       <br><br>
-      A high-precision tool that refines welding trajectories by projecting existing <code>FPweldline</code> data onto target CAD edges. It eliminates the "floating path" issue by snapping the simulation points directly to the physical geometry.
+      A high-precision tool that refines welding trajectories by projecting existing data onto target CAD edges. It eliminates the "floating path" issue by snapping the simulation points directly to the physical geometry.
       <ul>
         <li><strong>Adaptive Point Density:</strong> Unlike standard discretization, this tool distinguishes between geometries:
           <ul>
