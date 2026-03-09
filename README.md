@@ -625,7 +625,7 @@ To access all features, you must activate the Workbench:
   </tr>
 <tr>
     <td width="150" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Resources/01%20-%20Pannel_Top/Weld_tree_item.svg" width="100px">
+      <img src="https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/WeldLine%20to%20WeldNormals/Weld_tree_item.svg" width="100px">
     </td>
     <td>
       <h3>WeldLine to WeldNormals (Weld Solver)</h3>
