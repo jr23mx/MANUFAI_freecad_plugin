@@ -544,6 +544,38 @@ To access all features, you must activate the Workbench:
   </tr>
 </table>
 
+
+## 🛠️ Import and Edit WeldLines Tools
+
+<table>
+  <tr>
+    <td width="150" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Resources/01%20-%20Pannel_Top/import1.svg" width="100px">
+    </td>
+    <td>
+      <h3>Weld Loader Pro</h3>
+      <strong>Advanced Welding Data Importer.</strong>
+      <br><br>
+      A robust synchronization tool designed to bridge external welding design software with FreeCAD. It specializes in processing complex trajectory data while preserving technical manufacturing parameters.
+      <ul>
+        <li><strong>Multi-Format Support:</strong> Native parsing of <code>.WDCurve</code> and <code>.cwsf</code> (CastWorks) files, including global heat source data (Voltage/Current).</li>
+        <li><strong>Smart Geometry Reconstruction:</strong> Automatically detects and fixes closed curves, removes duplicate points, and generates valid 3D wires for simulation.</li>
+        <li><strong>Manufacturing Metadata:</strong> Beyond geometry, it imports critical process data: 
+          <ul>
+            <li><i>Process Params:</i> Voltage (U), Current (I), Efficiency (Eta), and Speed (V).</li>
+            <li><i>Logistics:</i> Sequence numbering, Layer organization, and automated Lead Time calculation based on path length.</li>
+          </ul>
+        </li>
+        <li><strong>RoboDK Ready:</strong> Automatically calculates surface normals and torch tangents, preparing the path for immediate export to robotic simulation.</li>
+      </ul>
+      <blockquote>
+        <strong>Tutorial Video:</strong> 
+        <a href="https://youtu.be/TU_URL_AQUI" target="_blank">Weld Loader Pro - Importing & Sequence Management</a>
+      </blockquote>
+      <br>
+    </td>
+  </tr>
+</table>
 ## 🤖 RoboDK & Process Automation
 
 <table>
