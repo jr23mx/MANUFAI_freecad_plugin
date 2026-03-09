@@ -293,26 +293,6 @@ To access all features, you must activate the Workbench:
       <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Assign%20Layer/layer_icon.svg" width="100px">
     </td>
     <td>
-      <h3>Assign Layer</h3>
-      <strong>Advanced Grouping for Parts & Welds.</strong>
-      <br><br>
-      Beyond simple tagging, this tool creates logical containers (Layers) that can hold both <strong>weld paths</strong> and <strong>3D geometry parts</strong>.
-      <ul>
-        <li><strong>Context grouping:</strong> Associate specific fixtures or parts with a weld layer.</li>
-        <li><strong>Preparation for View:</strong> This grouping structure is required to utilize the advanced filtering capabilities of the Visibility Manager.</li>
-      </ul>
-      <blockquote>
-  <strong>Tutorial Video:</strong> 
-  <a href="" target="_blank"></a>
-</blockquote>
-       <br>
-    </td>
-  </tr>
-  <tr>
-    <td width="150" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Visibility%20Manager/visibility_icon.svg" width="100px">
-    </td>
-    <td>
       <h3>Visibility Manager (View)</h3>
       <strong>Categorical Visibility Control.</strong>
       <br><br>
