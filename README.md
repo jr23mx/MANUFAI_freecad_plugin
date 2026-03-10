@@ -290,26 +290,6 @@ To access all features, you must activate the Workbench:
   </tr>
   <tr>
     <td width="150" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Assign%20Layer/layer_icon.svg" width="100px">
-    </td>
-    <td>
-      <h3>Visibility Manager (View)</h3>
-      <strong>Categorical Visibility Control.</strong>
-      <br><br>
-      A powerful alternative to the standard FreeCAD Tree View. Instead of hiding objects individually, it toggles visibility based on engineering categories:
-      <ul>
-        <li><strong>By Layer:</strong> Show/Hide entire production layers (including their associated 3D parts).</li>
-        <li><strong>By Robot:</strong> Visualize only the tasks assigned to a specific robot.</li>
-      </ul>
-      <blockquote>
-  <strong>Tutorial Video:</strong> 
-  <a href="" target="_blank"></a>
-</blockquote>
-       <br>
-    </td>
-  </tr>
-  <tr>
-    <td width="150" align="center" valign="top">
       <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Show%20Names/names_icon.svg" width="100px">
     </td>
     <td>
