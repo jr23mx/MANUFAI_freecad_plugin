@@ -268,6 +268,21 @@ To access all features, you must activate the Workbench:
        <br>
     </td>
   </tr>
+  <td>
+      <h3>Line Weld Table</h3>
+      <strong>Parameter Editor & WDCurve Exporter.</strong>
+      <br><br>
+      Opens a comprehensive table interface to view and edit the technical data of every weld line in the document. It serves as the final step in the workflow.
+      <ul>
+        <li><strong>Bulk Editing:</strong> Modify Voltage (U), Current (I), Speed (V), and Sequence for multiple lines at once.</li>
+        <li><strong>Drag-and-Drop Sequencing:</strong> Reorder the welding sequence visually.</li>
+        <li><strong>Simultaneous Ops:</strong> Define which welds are executed in parallel by different robots.</li>
+        <li><strong>Final Export:</strong> Once layers, sequences, and custom data are fully defined, this tool is responsible for <strong>generating the .WDCurve file</strong>, exporting only the active layers ready for external processing.</li>
+      </ul>
+      👇 <strong>Feature Demonstration:</strong><br>
+      <video src="https://github.com/user-attachments/assets/d2e4cd18-238f-4066-9d3a-60538c8d200d" width="100%" controls></video>
+    </td>
+  </tr>
   <tr>
     <td width="150" align="center" valign="top">
       <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/fa315d8f0b63aa7812cf4790a741954dbfa776bf/Selection%20Mode/selection_mode.svg" width="100px">
