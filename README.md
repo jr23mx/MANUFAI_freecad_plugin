@@ -591,7 +591,8 @@ To access all features, you must activate the Workbench:
         <li><strong>Batch Sequential Workflow:</strong> Tracks processed welds automatically, highlighting validated paths in the tree view to streamline large-scale assembly projects.</li>
       </ul>
       <blockquote>
-        <strong>Key Feature:</strong> Integrated <i>Bounding Box Pre-processing</i> ensures high-speed normal calculation even on complex, high-poly assemblies.
+        <strong>Tutorial Video:</strong> 
+        <a href="" target="_blank"></a>
       </blockquote>
       <br>
     </td>
