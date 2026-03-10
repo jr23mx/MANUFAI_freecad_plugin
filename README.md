@@ -239,7 +239,7 @@ To access all features, you must activate the Workbench:
       </ul>
       <blockquote>
   <strong>Tutorial Video:</strong> 
-  <a href="" target="_blank"></a>
+  <a href="https://youtu.be/AJxwoL3yqto" target="_blank">How to see all the weld data? - MANUFAI FreeCAD plugin</a>
 </blockquote><br>
     </td>
   </tr>
