@@ -518,11 +518,6 @@ To access all features, you must activate the Workbench:
           </ul>
         </li>
       </ul>
-      <blockquote>
-        <strong>Tutorial Video:</strong> 
-        <a href="https://youtu.be/TU_URL_AQUI" target="_blank">Weld Loader Pro - Importing & Sequence Management</a>
-      </blockquote>
-      <br>
     </td>
   </tr>
   <tr>
@@ -539,11 +534,6 @@ To access all features, you must activate the Workbench:
         <li><strong>Circular Alignment:</strong> Specialized for pipes and bosses. It detects circular/arc edges and snaps one or multiple weldlines to them using the first point as a precise anchor.</li>
         <li><strong>Manual Transformer:</strong> A real-time editing panel for fine-tuning. Rotate and translate paths using precision spinboxes ($X, Y, Z, Rx, Ry, Rz$) with automatic recalculation of lead times and distances.</li>
       </ul>
-      <blockquote>
-  <strong>Tutorial Video:</strong> 
-  <a href="https://youtu.be/TU_URL_AQUI" target="_blank">Smart Discretizes</a>
-</blockquote>
-       <br>
     </td>
   </tr>
 
@@ -567,11 +557,6 @@ To access all features, you must activate the Workbench:
         <li><strong>Real-Time Optimization:</strong> Includes a "Corner Detection" logic that preserves points only where direction changes significantly ($cos(\theta) < 0.9999$).</li>
         <li><strong>Automatic Sync:</strong> Updates all internal MANUFAI metrics (Distance, Pts, and LeadTime) immediately after projection.</li>
       </ul>
-      <blockquote>
-        <strong>Tutorial Video:</strong> 
-        <a href="https://youtu.be/TU_URL_AQUI" target="_blank">Smart Discretize - Optimizing Paths for OLP</a>
-      </blockquote>
-      <br>
     </td>
   </tr>
 <tr>
@@ -590,11 +575,14 @@ To access all features, you must activate the Workbench:
         <li><strong>Real-Time Vector Feedback:</strong> Generates 3D visual representations of approach vectors ($\vec{n}$) and tangents ($\vec{t}$) for immediate verification.</li>
         <li><strong>Batch Sequential Workflow:</strong> Tracks processed welds automatically, highlighting validated paths in the tree view to streamline large-scale assembly projects.</li>
       </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" style="padding: 20px;">
       <blockquote>
-        <strong>Tutorial Video:</strong> 
-        <a href="" target="_blank"></a>
-      </blockquote>
-      <br>
+  <strong>Tutorial Video:</strong> 
+  <a href="https://youtu.be/hPKx3S9DQLc" target="_blank">3-2-1 Datum Based Alignment - MANUFAI FreeCAD Plugin</a>
+</blockquote>
     </td>
   </tr>
 </table>
