@@ -653,7 +653,7 @@ To access all features, you must activate the Workbench:
       </ul>
       <blockquote>
   <strong>Tutorial Videos:</strong> <br>
-        <a href="https://youtu.be/Aw_dtBkk4sY" target="_blank">Automated Drilling - FreeCAD Plugin</a><br>
+        <a href="https://youtu.be/Aw_dtBkk4sY" target="_blank"></a>Automated Drilling - FreeCAD Plugin<br>
      </blockquote>
     </td>
   </tr>
