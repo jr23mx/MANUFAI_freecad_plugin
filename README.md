@@ -176,7 +176,7 @@ To access all features, you must activate the Workbench:
 
   <tr>
     <td width="150" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/icons/Define%20Sequence.svg" width="100px">
+      <img src="https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/Welding%20Sequence%20AI%20Advisor/Export_DKproj_v4.svg" width="100px">
     </td>
     <td>
       <h3>Welding Sequence AI Advisor</h3>
