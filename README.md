@@ -352,7 +352,7 @@ To access all features, you must activate the Workbench:
       <br><br>
       <blockquote>
   <strong>Tutorial Video:</strong> 
-  <a href="" target="_blank"></a>
+  <a href="https://youtu.be/vnDtbglly2k" target="_blank">Focus on Object - FreeCAD Plugin</a>
 </blockquote>
        <br>
     </td>
