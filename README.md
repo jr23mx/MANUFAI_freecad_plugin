@@ -101,7 +101,7 @@ To access all features, you must activate the Workbench:
       <br><br>
       <blockquote>
   <strong>Tutorial Video:</strong> 
-  <a href=""></a>
+  <a href="https://youtu.be/360sB3FVUp4">Recursive Visibility Toggle for Complex Assemblies - FreeCAD Plugin</a>
 </blockquote>
        <br>
     </td>
@@ -273,7 +273,7 @@ To access all features, you must activate the Workbench:
       </ul>
       <blockquote>
   <strong>Tutorial Video:</strong> 
-  <a href="" target="_blank"></a>
+  <a href="https://youtu.be/6QvtcI6RF5w" target="_blank">Line Weld Workbench Interface - FreeCAD Plugin</a>
 </blockquote>
        <br>
     </td>
@@ -296,7 +296,7 @@ To access all features, you must activate the Workbench:
     </ul>
     <blockquote>
       <strong>Tutorial Video:</strong> 
-      <a href="INSERT_URL_HERE" target="_blank">Watch Guide</a>
+      <a href="https://youtu.be/wSOsoFvLScI" target="_blank">Line Weld Table & WDCurve Export - FreeCAD Plugin</a>
     </blockquote>
   </td>
 </tr>
@@ -315,7 +315,7 @@ To access all features, you must activate the Workbench:
       </ul>
       <blockquote>
   <strong>Tutorial Video:</strong> 
-  <a href="" target="_blank"></a>
+  <a href="https://youtu.be/Y3D3PVF0ubI" target="_blank">X-Ray Weld Selection Mode - FreeCAD Plugin</a>
 </blockquote>
        <br>
     </td>
@@ -335,7 +335,7 @@ To access all features, you must activate the Workbench:
       </ul>
       <blockquote>
   <strong>Tutorial Video:</strong> 
-  <a href="" target="_blank"></a>
+  <a href="https://youtu.be/uVRiyf8H4nk" target="_blank">Weld Path Name & Direction Display - FreeCAD Plugin</a>
 </blockquote>
        <br>
     </td>
@@ -377,7 +377,7 @@ To access all features, you must activate the Workbench:
       <br>
       <blockquote>
   <strong>Tutorial Video:</strong> 
-  <a href="https://youtu.be/ubZ25obcUz4" target="_blank">DEMO - FreeCAD - Welding 2D drawing ballooning and weld definition</a>
+  <a href="https://youtu.be/Yp307CxQaUM" target="_blank">Welding Reference Tool - FreeCAD Plugin</a>
 </blockquote>
        <br>
     </td>
@@ -401,7 +401,7 @@ To access all features, you must activate the Workbench:
       <br>
       <blockquote>
   <strong>Tutorial Video:</strong> 
-  <a href="" target="_blank"></a>
+  <a href="https://youtu.be/8bRLaDLc0U4" target="_blank">https://youtu.be/8bRLaDLc0U4</a>
 </blockquote>
        <br>
     </td>
@@ -425,7 +425,7 @@ To access all features, you must activate the Workbench:
       <br>
       <blockquote>
   <strong>Tutorial Video:</strong> 
-  <a href="" target="_blank"></a>
+  <a href="https://youtu.be/XjR8g-87UrQ" target="_blank">WeldLine Creator - FreeCAD Plugin</a>
 </blockquote>
       <br>
     </td>
@@ -447,7 +447,7 @@ To access all features, you must activate the Workbench:
       <br><br>
       <blockquote>
   <strong>Tutorial Video:</strong> 
-  <a href="" target="_blank"></a>
+  <a href="https://youtu.be/5uwMWgmB7Lk" target="_blank">Surface Weld Generator - FreeCAD Plugin</a>
 </blockquote>
        <br>
     </td>
@@ -469,7 +469,7 @@ To access all features, you must activate the Workbench:
       <br><br>
       <blockquote>
   <strong>Tutorial Video:</strong> 
-  <a href="" target="_blank"></a>
+  <a href="https://youtu.be/efsZkopTnEQ" target="_blank">Weld Trajectory Simulator - FreeCAD Plugin</a>
 </blockquote>
        <br>
     </td>
@@ -488,7 +488,7 @@ To access all features, you must activate the Workbench:
       <br><br>
       <blockquote>
   <strong>Tutorial Video:</strong> 
-  <a href="" target="_blank"></a>
+  <a href="https://youtu.be/Ccb7qmT_r68" target="_blank">Weld Visualizer (Sphere Mode) - FreeCAD Plugin</a>
 </blockquote>
        <br>
     </td>
@@ -607,7 +607,7 @@ To access all features, you must activate the Workbench:
       </ul>
       <blockquote>
   <strong>Tutorial Video:</strong> 
-  <a href="" target="_blank"></a>
+  <a href="https://youtu.be/RDRtrwVmNSQ" target="_blank">CAD to Robot Export - FreeCAD Plugin</a>
 </blockquote>
        <br>
     </td>
