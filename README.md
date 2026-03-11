@@ -86,6 +86,111 @@ To access all features, you must activate the Workbench:
 
 ---
 
+## 👨‍🏭 MANUFAI - FreeCAD Plugin
+
+<table>
+  <tr>
+    <td width="150" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/icons/Find_Weld_edges_21.svg" width="100px">
+    </td>
+    <td>
+      <h3>Automatic Weldable Edges Recognition</h3>
+      <strong>Intelligent CAD processing for seamless welding prep.</strong>
+      <br><br>
+      FreeCAD supports the most common formats (STEP, IGES, Inventor, etc.). This feature automates the workflow in two steps: first, it extracts all edges from the model, and second, it performs automatic recognition of weldable edges. 
+      <br><br>
+      <em>Note: This is an optional feature; manual edge definition is always available.</em>
+      <br><br>
+      <blockquote>
+        <strong>Tutorial Video:</strong> 
+        <a href="https://youtu.be/BuyjTM-gB38">Automatic Recognition Workflow</a>
+      </blockquote>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="150" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/icons/Report1.svg" width="100px">
+    </td>
+    <td>
+      <h3>Production Reports & Quotations</h3>
+      <strong>Data-driven insights for Trajectory and Cycle Time.</strong>
+      <br><br>
+      <ul>
+        <li><strong>Trajectory Length:</strong> Reports individual and total linear distances for welding, caulking, and deburring—essential for accurate quotations.</li>
+        <li><strong>Cycle Time:</strong> Calculates execution time for both human welders and robots, accounting for fixture rotation.</li>
+      </ul>
+      <br>
+      <blockquote>
+        <strong>Tutorial Videos:</strong> 
+        <a href="https://youtu.be/hXmbLb0A_RI">Trajectory Reports</a> | 
+        <a href="https://youtu.be/Giv5xZ7Uw44">Cycle Time Calculation</a>
+      </blockquote>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="150" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/icons/Report2.svg" width="100px">
+    </td>
+    <td>
+      <h3>Weight After Welding Report</h3>
+      <strong>Critical metrics for logistics and safety engineering.</strong>
+      <br><br>
+      Automatically calculate the total weight of the weldment including all welds. This data is vital for:
+      <ul>
+        <li>Designing fixtures, tables, and lifting chains.</li>
+        <li>Selecting appropriate hoists and cranes.</li>
+        <li>Conducting ergonomic risk assessments for manual handling.</li>
+      </ul>
+      <br>
+      <blockquote>
+        <strong>Tutorial Video:</strong> 
+        <a href="https://youtu.be/HbsH8DEtrP8">Weight & Material Analysis</a>
+      </blockquote>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="150" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/icons/Run_simulation3.svg" width="100px">
+    </td>
+    <td>
+      <h3>Welding Gun - Trajectory Simulation</h3>
+      <strong>Validate design accessibility and generate documentation.</strong>
+      <br><br>
+      Identify reach issues during the design phase to assist fixture designers. This tool is also used to generate:
+      <ul>
+        <li>Technical Instruction Sheets.</li>
+        <li>Videos for presentations and stakeholder reviews.</li>
+      </ul>
+      <br>
+      <blockquote>
+        <strong>Tutorial Video:</strong> 
+        <a href="https://youtu.be/kuIgRGPw8nU">Gun Simulation & Accessibility</a>
+      </blockquote>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="150" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/icons/Define%20Sequence.svg" width="100px">
+    </td>
+    <td>
+      <h3>Welding Sequence AI Advisor</h3>
+      <strong>Smart recommendations to mitigate deformation.</strong>
+      <br><br>
+      Leverages Domain Knowledge to provide generalized rules for professional welding:
+      <ul>
+        <li>Balance welds about the neutral axis of the member.</li>
+        <li>Prevent overwelding to minimize heat input.</li>
+        <li>Ensure even heat distribution through planned sequences.</li>
+        <li>Directional welding toward unrestrained parts.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 ## 🚀 New Feature Highlights
 
 <table>
