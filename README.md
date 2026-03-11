@@ -112,7 +112,7 @@ To access all features, you must activate the Workbench:
   <tr>
     <td width="150" align="center" valign="top">
       <img src="https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/Production%20Reports%20%26%20Quotations/Report1.svg" width="100px">
-      <img src="https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/Production%20Reports%20%26%20Quotations/Report2.svg" width="100px">
+      <img src="https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/Production%20Reports%20%26%20Quotations/Report3_cycle_time.svg" width="100px">
     </td>
     <td>
       <h3>Production Reports & Quotations</h3>
@@ -133,7 +133,7 @@ To access all features, you must activate the Workbench:
 
   <tr>
     <td width="150" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/icons/Report2.svg" width="100px">
+      <img src="https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/Production%20Reports%20%26%20Quotations/Report2.svg" width="100px">
     </td>
     <td>
       <h3>Weight After Welding Report</h3>
