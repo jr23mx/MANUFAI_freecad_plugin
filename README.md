@@ -91,7 +91,8 @@ To access all features, you must activate the Workbench:
 <table>
   <tr>
     <td width="150" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/icons/Find_Weld_edges_21.svg" width="100px">
+      <img src="https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/Automatic%20Weldable%20Edges%20Recognition/Extract_edges_20.svg" width="100px">
+      <img src="https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/Automatic%20Weldable%20Edges%20Recognition/Find_Weld_edges_21.svg" width="100px">
     </td>
     <td>
       <h3>Automatic Weldable Edges Recognition</h3>
