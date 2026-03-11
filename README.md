@@ -653,7 +653,7 @@ To access all features, you must activate the Workbench:
       </ul>
       <blockquote>
   <strong>Tutorial Videos:</strong> <br>
-        <a href="https://youtu.be/2751P1_2O6U" target="_blank">FreeCAD to RoboDK - Drilling DEMO - start point - end point selection</a><br>
+        <a href="https://youtu.be/Aw_dtBkk4sY" target="_blank">Automated Drilling - FreeCAD Plugin</a><br>
      </blockquote>
     </td>
   </tr>
