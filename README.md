@@ -581,7 +581,7 @@ To access all features, you must activate the Workbench:
     <td colspan="2" align="center" style="padding: 20px;">
       <blockquote>
   <strong>Tutorial Video:</strong> 
-  <a href="https://youtu.be/hPKx3S9DQLc" target="_blank">3-2-1 Datum Based Alignment - MANUFAI FreeCAD Plugin</a>
+  <a href="https://youtu.be/hPKx3S9DQLc" target="_blank">Import and Edit WeldLines Tools - FreeCAD Plugin</a>
 </blockquote>
     </td>
   </tr>
