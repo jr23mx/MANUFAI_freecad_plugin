@@ -155,7 +155,7 @@ To access all features, you must activate the Workbench:
 
   <tr>
     <td width="150" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/icons/Run_simulation3.svg" width="100px">
+      <img src="https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/Welding%20Gun%20-%20Trajectory%20Simulation/Run_simulation3.svg" width="100px">
     </td>
     <td>
       <h3>Welding Gun - Trajectory Simulation</h3>
