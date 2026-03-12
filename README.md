@@ -106,7 +106,7 @@ To access all features, you must activate the Workbench:
         <img src="https://img.youtube.com/vi/BuyjTM-gB38/maxresdefault.jpg" width="450" alt="Watch Video Tutorial">
       </a>
       <br>
-      <a href="https://youtu.be/BuyjTM-gB38"><strong>Automatic Recognition Workflow</strong></a>
+      <a href="https://youtu.be/BuyjTM-gB38"><strong>Welding FreeCAD add-on - Automatic weldable edges recognition</strong></a>
     </div>
   </td>
 </tr>
@@ -131,13 +131,13 @@ To access all features, you must activate the Workbench:
         <img src="https://img.youtube.com/vi/hXmbLb0A_RI/maxresdefault.jpg" width="450" alt="Trajectory Reports Video">
       </a>
       <br>
-      <a href="https://youtu.be/hXmbLb0A_RI"><strong>Trajectory Reports</strong></a>
+      <a href="https://youtu.be/hXmbLb0A_RI"><strong>FreeCAD - Plugin - Total welding distance</strong></a>
       <br><br>
       <a href="https://www.youtube.com/watch?v=Giv5xZ7Uw44">
         <img src="https://img.youtube.com/vi/Giv5xZ7Uw44/maxresdefault.jpg" width="450" alt="Cycle Time Calculation Video">
       </a>
       <br>
-      <a href="https://youtu.be/Giv5xZ7Uw44"><strong>Cycle Time Calculation</strong></a>
+      <a href="https://youtu.be/Giv5xZ7Uw44"><strong>FreeCAD Plugin - Cycle time report - Robot or Manual welding</strong></a>
     </div>
   </td>
 </tr>
@@ -162,7 +162,7 @@ To access all features, you must activate the Workbench:
         <img src="https://img.youtube.com/vi/HbsH8DEtrP8/maxresdefault.jpg" width="450" alt="Weight After Welding Video">
       </a>
       <br>
-      <a href="https://youtu.be/HbsH8DEtrP8"><strong>Weight & Material Analysis</strong></a>
+      <a href="https://youtu.be/HbsH8DEtrP8"><strong>FreeCAD plugin welded part weight report</strong></a>
     </div>
   </td>
 </tr>
@@ -186,7 +186,7 @@ To access all features, you must activate the Workbench:
         <img src="https://img.youtube.com/vi/kuIgRGPw8nU/maxresdefault.jpg" width="450" alt="Welding Gun Simulation Video">
       </a>
       <br>
-      <a href="https://youtu.be/kuIgRGPw8nU"><strong>Gun Simulation & Accessibility</strong></a>
+      <a href="https://youtu.be/kuIgRGPw8nU"><strong>FreeCAD Plugin - Simulate welding gun on a trajectory</strong></a>
     </div>
   </td>
 </tr>
@@ -227,7 +227,7 @@ To access all features, you must activate the Workbench:
         <img src="https://img.youtube.com/vi/360sB3FVUp4/maxresdefault.jpg" width="450" alt="Recursive Visibility Video">
       </a>
       <br>
-      <a href="https://youtu.be/360sB3FVUp4"><strong>Recursive Visibility Workflow</strong></a>
+      <a href="https://youtu.be/360sB3FVUp4"><strong>Recursive Visibility Toggle for Complex Assemblies - FreeCAD Plugin</strong></a>
     </div>
   </td>
 </tr>
@@ -270,7 +270,7 @@ To access all features, you must activate the Workbench:
         <img src="https://img.youtube.com/vi/AsVGiXEPmd4/0.jpg" width="450" alt="Create Center Point Video">
       </a>
       <br>
-      <a href="https://youtu.be/AsVGiXEPmd4"><strong>Center Point Calculation</strong></a>
+      <a href="https://youtu.be/AsVGiXEPmd4"><strong>Center Point - MANUFAI FreeCAD Plugin</strong></a>
     </div>
   </td>
 </tr>
@@ -356,7 +356,7 @@ To access all features, you must activate the Workbench:
           <img src="https://img.youtube.com/vi/hPKx3S9DQLc/maxresdefault.jpg" width="450" alt="3-2-1 Alignment Video">
         </a>
         <br>
-        <a href="https://youtu.be/hPKx3S9DQLc"><strong>3-2-1 Datum Based Alignment Tutorial</strong></a>
+        <a href="https://youtu.be/hPKx3S9DQLc"><strong>3-2-1 Datum Based Alignment - MANUFAI FreeCAD Plugin</strong></a>
       </div>
       <br>
     </td>
@@ -392,7 +392,7 @@ To access all features, you must activate the Workbench:
         <img src="https://img.youtube.com/vi/AJxwoL3yqto/maxresdefault.jpg" width="450" alt="Find Data Panel Video">
       </a>
       <br>
-      <a href="https://youtu.be/AJxwoL3yqto"><strong>Data Management & Export Workflow</strong></a>
+      <a href="https://youtu.be/AJxwoL3yqto"><strong>How to see all the weld data? - MANUFAI FreeCAD plugin</strong></a>
     </div>
     <br>
   </td>
@@ -421,7 +421,7 @@ To access all features, you must activate the Workbench:
         <img src="https://img.youtube.com/vi/6QvtcI6RF5w/maxresdefault.jpg" width="450" alt="Line Weld Video">
       </a>
       <br>
-      <a href="https://youtu.be/6QvtcI6RF5w"><strong>▶️ Watch: Line Weld Workbench Interface - FreeCAD Plugin</strong></a>
+      <a href="https://youtu.be/6QvtcI6RF5w"><strong>Line Weld Workbench Interface - FreeCAD Plugin</strong></a>
     </div>
     <br>
   </td>
