@@ -90,90 +90,106 @@ To access all features, you must activate the Workbench:
 
 <table>
   <tr>
-    <td width="150" align="center" valign="top">
-      <img src="https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/Automatic%20Weldable%20Edges%20Recognition/Extract_edges_20.svg" width="100px">
-      <img src="https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/Automatic%20Weldable%20Edges%20Recognition/Find_Weld_edges_21.svg" width="100px">
-    </td>
-    <td>
-      <h3>Automatic Weldable Edges Recognition</h3>
-      <strong>Intelligent CAD processing for seamless welding prep.</strong>
-      <br><br>
-      FreeCAD supports the most common formats (STEP, IGES, Inventor, etc.). This feature automates the workflow in two steps: first, it extracts all edges from the model, and second, it performs automatic recognition of weldable edges. 
-      <br><br>
-      <em>Note: This is an optional feature; manual edge definition is always available.</em>
-      <br><br>
-      <blockquote>
-        <strong>Tutorial Video:</strong> 
-        <a href="https://youtu.be/BuyjTM-gB38">Automatic Recognition Workflow</a>
-      </blockquote>
-    </td>
-  </tr>
+  <td width="150" align="center" valign="top">
+    <img src="https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/Automatic%20Weldable%20Edges%20Recognition/Extract_edges_20.svg?raw=true" width="90">
+    <br><br>
+    <img src="https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/Automatic%20Weldable%20Edges%20Recognition/Find_Weld_edges_21.svg?raw=true" width="90">
+  </td>
+  <td>
+    <h3>Automatic Weldable Edges Recognition</h3>
+    <strong>Intelligent CAD processing for seamless welding prep.</strong>
+    <br><br>
+    FreeCAD supports the most common formats (STEP, IGES, Inventor, etc.). This feature automates the workflow in two steps: first, it extracts all edges from the model, and second, it performs automatic recognition of weldable edges. 
+    <br><br>
+    <div align="center">
+      <a href="https://www.youtube.com/watch?v=BuyjTM-gB38">
+        <img src="https://img.youtube.com/vi/BuyjTM-gB38/maxresdefault.jpg" width="450" alt="Watch Video Tutorial">
+      </a>
+      <br>
+      <a href="https://youtu.be/BuyjTM-gB38"><strong>Automatic Recognition Workflow</strong></a>
+    </div>
+  </td>
+</tr>
 
   <tr>
-    <td width="150" align="center" valign="top">
-      <img src="https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/Production%20Reports%20%26%20Quotations/Report1.svg" width="100px">
-      <img src="https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/Production%20Reports%20%26%20Quotations/Report3_cycle_time.svg" width="100px">
-    </td>
-    <td>
-      <h3>Production Reports & Quotations</h3>
-      <strong>Data-driven insights for Trajectory and Cycle Time.</strong>
-      <br><br>
-      <ul>
-        <li><strong>Trajectory Length:</strong> Reports individual and total linear distances for welding, caulking, and deburring—essential for accurate quotations.</li>
-        <li><strong>Cycle Time:</strong> Calculates execution time for both human welders and robots, accounting for fixture rotation.</li>
-      </ul>
+  <td width="150" align="center" valign="top">
+    <img src="https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/Production%20Reports%20%26%20Quotations/Report1.svg?raw=true" width="90">
+    <br><br>
+    <img src="https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/Production%20Reports%20%26%20Quotations/Report3_cycle_time.svg?raw=true" width="90">
+  </td>
+  <td>
+    <h3>Production Reports & Quotations</h3>
+    <strong>Data-driven insights for Trajectory and Cycle Time.</strong>
+    <br><br>
+    <ul>
+      <li><strong>Trajectory Length:</strong> Calculates individual and cumulative linear distances.</li>
+      <li><strong>Cycle Time:</strong> Calculates execution time for both human welders and robots.</li>
+    </ul>
+    <br>
+    <div align="center">
+      <a href="https://www.youtube.com/watch?v=hXmbLb0A_RI">
+        <img src="https://img.youtube.com/vi/hXmbLb0A_RI/maxresdefault.jpg" width="450" alt="Trajectory Reports Video">
+      </a>
       <br>
-      <blockquote>
-        <strong>Tutorial Videos:</strong> 
-        <a href="https://youtu.be/hXmbLb0A_RI">Trajectory Reports</a> | 
-        <a href="https://youtu.be/Giv5xZ7Uw44">Cycle Time Calculation</a>
-      </blockquote>
-    </td>
-  </tr>
+      <a href="https://youtu.be/hXmbLb0A_RI"><strong>Trajectory Reports</strong></a>
+      <br><br>
+      <a href="https://www.youtube.com/watch?v=Giv5xZ7Uw44">
+        <img src="https://img.youtube.com/vi/Giv5xZ7Uw44/maxresdefault.jpg" width="450" alt="Cycle Time Calculation Video">
+      </a>
+      <br>
+      <a href="https://youtu.be/Giv5xZ7Uw44"><strong>Cycle Time Calculation</strong></a>
+    </div>
+  </td>
+</tr>
 
   <tr>
-    <td width="150" align="center" valign="top">
-      <img src="https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/Production%20Reports%20%26%20Quotations/Report2.svg" width="100px">
-    </td>
-    <td>
-      <h3>Weight After Welding Report</h3>
-      <strong>Critical metrics for logistics and safety engineering.</strong>
-      <br><br>
-      Automatically calculate the total weight of the weldment including all welds. This data is vital for:
-      <ul>
-        <li>Designing fixtures, tables, and lifting chains.</li>
-        <li>Selecting appropriate hoists and cranes.</li>
-        <li>Conducting ergonomic risk assessments for manual handling.</li>
-      </ul>
+  <td width="150" align="center" valign="top">
+    <img src="https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/Production%20Reports%20%26%20Quotations/Report2.svg?raw=true" width="90" alt="Weight Report Icon">
+  </td>
+  <td>
+    <h3>Weight After Welding Report</h3>
+    <strong>Critical metrics for logistics and safety engineering.</strong>
+    <br><br>
+    Automatically calculate the total weight of the weldment including all welds. This data is vital for:
+    <ul>
+      <li>Designing fixtures, tables, and lifting chains.</li>
+      <li>Selecting appropriate hoists and cranes.</li>
+      <li>Conducting ergonomic risk assessments for manual handling.</li>
+    </ul>
+    <br>
+    <div align="center">
+      <a href="https://www.youtube.com/watch?v=HbsH8DEtrP8">
+        <img src="https://img.youtube.com/vi/HbsH8DEtrP8/maxresdefault.jpg" width="450" alt="Weight After Welding Video">
+      </a>
       <br>
-      <blockquote>
-        <strong>Tutorial Video:</strong> 
-        <a href="https://youtu.be/HbsH8DEtrP8">Weight & Material Analysis</a>
-      </blockquote>
-    </td>
-  </tr>
+      <a href="https://youtu.be/HbsH8DEtrP8"><strong>Weight & Material Analysis</strong></a>
+    </div>
+  </td>
+</tr>
 
   <tr>
-    <td width="150" align="center" valign="top">
-      <img src="https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/Welding%20Gun%20-%20Trajectory%20Simulation/Run_simulation3.svg" width="100px">
-    </td>
-    <td>
-      <h3>Welding Gun - Trajectory Simulation</h3>
-      <strong>Validate design accessibility and generate documentation.</strong>
-      <br><br>
-      Identify reach issues during the design phase to assist fixture designers. This tool is also used to generate:
-      <ul>
-        <li>Technical Instruction Sheets.</li>
-        <li>Videos for presentations and stakeholder reviews.</li>
-      </ul>
+  <td width="150" align="center" valign="top">
+    <img src="https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/Welding%20Gun%20-%20Trajectory%20Simulation/Run_simulation3.svg?raw=true" width="90" alt="Simulation Icon">
+  </td>
+  <td>
+    <h3>Welding Gun - Trajectory Simulation</h3>
+    <strong>Validate design accessibility and generate documentation.</strong>
+    <br><br>
+    Identify reach issues during the design phase to assist fixture designers. This tool is also used to generate:
+    <ul>
+      <li>Technical Instruction Sheets.</li>
+      <li>Videos for presentations and stakeholder reviews.</li>
+    </ul>
+    <br>
+    <div align="center">
+      <a href="https://www.youtube.com/watch?v=kuIgRGPw8nU">
+        <img src="https://img.youtube.com/vi/kuIgRGPw8nU/maxresdefault.jpg" width="450" alt="Welding Gun Simulation Video">
+      </a>
       <br>
-      <blockquote>
-        <strong>Tutorial Video:</strong> 
-        <a href="https://youtu.be/kuIgRGPw8nU">Gun Simulation & Accessibility</a>
-      </blockquote>
-    </td>
-  </tr>
-
+      <a href="https://youtu.be/kuIgRGPw8nU"><strong>Gun Simulation & Accessibility</strong></a>
+    </div>
+  </td>
+</tr>
   <tr>
     <td width="150" align="center" valign="top">
       <img src="https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/Welding%20Sequence%20AI%20Advisor/Export_DKproj_v4.svg" width="100px">
@@ -197,22 +213,24 @@ To access all features, you must activate the Workbench:
 
 <table>
   <tr>
-    <td width="150" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Recursive%20Visibility/Toggle_Visibility_Recursive.svg" width="100px">
-    </td>
-    <td>
-      <h3>Recursive Visibility Toggle</h3>
-      <strong>Instantly restore visual control over complex assemblies.</strong>
-      <br><br>
-      The <strong>Recursive Visibility</strong> tool solves UX friction when working with complex hierarchies. It traverses the entire dependency tree of a selected object to toggle visibility for the parent and all descendants recursively.
-      <br><br>
-      <blockquote>
-  <strong>Tutorial Video:</strong> 
-  <a href="https://youtu.be/360sB3FVUp4">Recursive Visibility Toggle for Complex Assemblies - FreeCAD Plugin</a>
-</blockquote>
-       <br>
-    </td>
-  </tr>
+  <td width="150" align="center" valign="top">
+    <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Recursive%20Visibility/Toggle_Visibility_Recursive.svg" width="90" alt="Recursive Visibility Icon">
+  </td>
+  <td>
+    <h3>Recursive Visibility Toggle</h3>
+    <strong>Instantly restore visual control over complex assemblies.</strong>
+    <br><br>
+    The <strong>Recursive Visibility</strong> tool solves UX friction when working with complex hierarchies. It traverses the entire dependency tree of a selected object to toggle visibility for the parent and all descendants recursively.
+    <br><br>
+    <div align="center">
+      <a href="https://www.youtube.com/watch?v=360sB3FVUp4">
+        <img src="https://img.youtube.com/vi/360sB3FVUp4/maxresdefault.jpg" width="450" alt="Recursive Visibility Video">
+      </a>
+      <br>
+      <a href="https://youtu.be/360sB3FVUp4"><strong>Recursive Visibility Workflow</strong></a>
+    </div>
+  </td>
+</tr>
 </table>
 
 ## 📏 Group of buttons to make datum based alignment (Transformation).
@@ -230,28 +248,32 @@ To access all features, you must activate the Workbench:
        <br><br>
     </td>
   </tr>
+
+  
   <tr>
-    <td width="150" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Create%20Center%20Point/CENTRO.svg" width="100px">
-    </td>
-    <td>
-      <h3>Create Center Point</h3>
-      <strong>Calculates geometric centers for quick referencing.</strong>
-      <br><br>
-      It computes and marks the center point based on the current selection.
-      <ul>
-        <li><strong>Single Object:</strong> Marks the center of mass/geometry.</li>
-        <li><strong>Two Objects:</strong> Calculates the exact midpoint between them.</li>
-      </ul>
-      Useful for establishing auxiliary reference points on complex geometry without creating full datums.
-       <br><br>
-      <blockquote>
-  <strong>Tutorial Video:</strong> 
-  <a href="https://youtu.be/AsVGiXEPmd4" target="_blank">Center Point - MANUFAI FreeCAD Plugin</a>
-</blockquote>
-       <br>
-    </td>
-  </tr>
+  <td width="150" align="center" valign="top">
+    <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Create%20Center%20Point/CENTRO.svg" width="90" alt="Center Point Icon">
+  </td>
+  <td>
+    <h3>Create Center Point</h3>
+    <strong>Calculates geometric centers for quick referencing.</strong>
+    <br><br>
+    It computes and marks the center point based on the current selection.
+    <ul>
+      <li><strong>Single Object:</strong> Marks the center of mass/geometry.</li>
+      <li><strong>Two Objects:</strong> Calculates the exact midpoint between them.</li>
+    </ul>
+    Useful for establishing auxiliary reference points on complex geometry without creating full datums.
+    <br><br>
+    <div align="center">
+      <a href="https://www.youtube.com/watch?v=AsVGiXEPmd4">
+        <img src="https://img.youtube.com/vi/AsVGiXEPmd4/0.jpg" width="450" alt="Create Center Point Video">
+      </a>
+      <br>
+      <a href="https://youtu.be/AsVGiXEPmd4"><strong>Center Point Calculation</strong></a>
+    </div>
+  </td>
+</tr>
   <tr>
     <td width="150" align="center" valign="top">
       <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Datum%20A/DATUM_A.svg" width="100px">
@@ -284,6 +306,8 @@ To access all features, you must activate the Workbench:
        <br>
     </td>
   </tr>
+
+  
   <tr>
     <td width="150" align="center" valign="top">
       <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Datum%20C/DATUM_C.svg" width="100px">
@@ -308,6 +332,8 @@ To access all features, you must activate the Workbench:
       <br><br>
     </td>
   </tr>
+
+  
   <tr>
     <td width="150" align="center" valign="top">
       <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Move%20to%20Origin%203-2-1/MOVER.svg" width="100px">
@@ -321,12 +347,18 @@ To access all features, you must activate the Workbench:
       <br><br>
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center" style="padding: 20px;">
-      <blockquote>
-  <strong>Tutorial Video:</strong> 
-  <a href="https://youtu.be/hPKx3S9DQLc" target="_blank">3-2-1 Datum Based Alignment - MANUFAI FreeCAD Plugin</a>
-</blockquote>
+ <tr>
+    <td width="150" align="center" valign="top">
+      </td>
+    <td>
+      <div align="center">
+        <a href="https://www.youtube.com/watch?v=hPKx3S9DQLc">
+          <img src="https://img.youtube.com/vi/hPKx3S9DQLc/maxresdefault.jpg" width="450" alt="3-2-1 Alignment Video">
+        </a>
+        <br>
+        <a href="https://youtu.be/hPKx3S9DQLc"><strong>3-2-1 Datum Based Alignment Tutorial</strong></a>
+      </div>
+      <br>
     </td>
   </tr>
 </table>
@@ -335,271 +367,317 @@ To access all features, you must activate the Workbench:
 
 <table>
   <tr>
-    <td width="150" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Find%20Data/DATA_ICON.svg" width="100px">
-    </td>
-    <td>
-      <h3>Find Data Panel</h3>
-      <strong>Centralized control for weld tracking and interoperability.</strong>
-      <br><br>
-      This tool opens a dedicated side panel that automatically scans the active document to identify and list all generated <strong>Weld Objects</strong>. It serves as the bridge between FreeCAD and external collaborators.
-      <br><br>
-      <strong>Key Features:</strong>
-      <ul>
-        <li><strong>Instant Detection:</strong> Click to locate and highlight specific weld beads in the 3D view immediately.</li>
-        <li><strong>Flexible Data Export:</strong> Generates a <code>.txt</code> report of the selected welds to share with other departments or software. It offers two modes:
-          <ul>
-            <li><strong>Simple Report:</strong> Exports essential identification, coordinates, and basic geometry data.</li>
-            <li><strong>Detailed Dump:</strong> Exports <strong>every single internal property</strong> stored by FreeCAD for that object. This "Full-Dump" mode is ideal for deep debugging or when external solvers need access to raw parametric data without opening the CAD file.</li>
-          </ul>
-        </li>
-      </ul>
-      <blockquote>
-  <strong>Tutorial Video:</strong> 
-  <a href="https://youtu.be/AJxwoL3yqto" target="_blank">How to see all the weld data? - MANUFAI FreeCAD plugin</a>
-</blockquote><br>
-    </td>
-  </tr>
+  <td width="150" align="center" valign="top">
+    <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Find%20Data/DATA_ICON.svg" width="90" alt="Find Data Icon">
+  </td>
+  <td>
+    <h3>Find Data Panel</h3>
+    <strong>Centralized control for weld tracking and interoperability.</strong>
+    <br><br>
+    This tool opens a dedicated side panel that automatically scans the active document to identify and list all generated <strong>Weld Objects</strong>. It serves as the bridge between FreeCAD and external collaborators.
+    <br><br>
+    <strong>Key Features:</strong>
+    <ul>
+      <li><strong>Instant Detection:</strong> Click to locate and highlight specific weld beads in the 3D view immediately.</li>
+      <li><strong>Flexible Data Export:</strong> Generates a <code>.txt</code> report of the selected welds. It offers two modes:
+        <ul>
+          <li><strong>Simple Report:</strong> Exports essential identification, coordinates, and basic geometry data.</li>
+          <li><strong>Detailed Dump:</strong> Exports <strong>every single internal property</strong>. Ideal for deep debugging or external solvers needing raw parametric data.</li>
+        </ul>
+      </li>
+    </ul>
+    <br>
+    <div align="center">
+      <a href="https://www.youtube.com/watch?v=AJxwoL3yqto">
+        <img src="https://img.youtube.com/vi/AJxwoL3yqto/maxresdefault.jpg" width="450" alt="Find Data Panel Video">
+      </a>
+      <br>
+      <a href="https://youtu.be/AJxwoL3yqto"><strong>Data Management & Export Workflow</strong></a>
+    </div>
+    <br>
+  </td>
+</tr>
 </table>
 
 ## ⚡ Welding & Process Management Tools
 
 <table>
   <tr>
-    <td width="150" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Line%20Weld/weld_icon.svg" width="100px">
-    </td>
-    <td>
-      <h3>Line Weld (Main Interface)</h3>
-      <strong>Initializes the Workbench Core.</strong>
-      <br><br>
-      This is the <strong>master switch</strong> of the plugin. It must be active for all other welding tools to function correctly.
-      <ul>
-        <li><strong>Property Injection:</strong> Automatically recognizes drawn lines and injects necessary welding properties (Sequence, Layer, Electrical parameters).</li>
-        <li><strong>System Activation:</strong> Launches the sidebar dock that manages the active welding context.</li>
-      </ul>
-      <blockquote>
-  <strong>Tutorial Video:</strong> 
-  <a href="https://youtu.be/6QvtcI6RF5w" target="_blank">Line Weld Workbench Interface - FreeCAD Plugin</a>
-</blockquote>
-       <br>
-    </td>
-  </tr>
+  <td width="150" align="center" valign="top">
+    <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Line%20Weld/weld_icon.svg" width="90" alt="Line Weld Icon">
+  </td>
+  <td>
+    <h3>Line Weld (Main Interface)</h3>
+    <strong>Initializes the Workbench Core.</strong>
+    <br><br>
+    This is the <strong>master switch</strong> of the plugin. It must be active for all other welding tools to function correctly.
+    <ul>
+      <li><strong>Property Injection:</strong> Automatically recognizes drawn lines and injects necessary welding properties (Sequence, Layer, Electrical parameters).</li>
+      <li><strong>System Activation:</strong> Launches the sidebar dock that manages the active welding context.</li>
+    </ul>
+    <br>
+    <div align="center">
+      <a href="https://www.youtube.com/watch?v=6QvtcI6RF5w">
+        <img src="https://img.youtube.com/vi/6QvtcI6RF5w/maxresdefault.jpg" width="450" alt="Line Weld Video">
+      </a>
+      <br>
+      <a href="https://youtu.be/6QvtcI6RF5w"><strong>▶️ Watch: Line Weld Workbench Interface - FreeCAD Plugin</strong></a>
+    </div>
+    <br>
+  </td>
+</tr>
+  
   <tr>
   <td width="150" align="center" valign="top">
-    <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Line%20Weld%20Table/table_icon.svg" width="100">
+    <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Line%20Weld%20Table/table_icon.svg" width="90" alt="Line Weld Table Icon">
   </td>
   <td>
     <h3>Line Weld Table</h3>
-    <p><strong>Parameter Editor & WDCurve Exporter</strong></p>
-    <p>
-      Provides a comprehensive tabular interface to audit and refine technical data for all weld lines within the document. This is the <strong>final stage</strong> of the workflow.
-    </p>
+    <strong>Parameter Editor & WDCurve Exporter</strong>
+    <br><br>
+    Provides a comprehensive tabular interface to audit and refine technical data for all weld lines within the document. This is the <strong>final stage</strong> of the workflow.
     <ul>
       <li><strong>Bulk Editing:</strong> Batch modify Voltage (U), Current (I), Speed (V), and Sequence parameters.</li>
       <li><strong>Sequence Management:</strong> Reorder the welding sequence via drag-and-drop.</li>
       <li><strong>Parallel Operations:</strong> Define simultaneous tasks for multi-robot synchronization.</li>
       <li><strong>Final Export:</strong> Generates the <code>.WDCurve</code> file, exporting only active layers for external processing.</li>
     </ul>
-    <blockquote>
-      <strong>Tutorial Video:</strong> 
-      <a href="https://youtu.be/wSOsoFvLScI" target="_blank">Line Weld Table & WDCurve Export - FreeCAD Plugin</a>
-    </blockquote>
+    <br>
+    <div align="center">
+      <a href="https://www.youtube.com/watch?v=wSOsoFvLScI">
+        <img src="https://img.youtube.com/vi/wSOsoFvLScI/maxresdefault.jpg" width="450" alt="Line Weld Table Video">
+      </a>
+      <br>
+      <a href="https://youtu.be/wSOsoFvLScI"><strong>Line Weld Table & WDCurve Export - FreeCAD Plugin</strong></a>
+    </div>
+    <br>
   </td>
 </tr>
   <tr>
     <td width="150" align="center" valign="top">
       <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/fa315d8f0b63aa7812cf4790a741954dbfa776bf/Selection%20Mode/selection_mode.svg" width="100px">
-    </td>
-    <td>
-      <h3>Selection Mode (X-Ray & Filter)</h3>
-      <strong>Visual isolation and Selection Lock.</strong>
-      <br><br>
-      A specialized view mode designed for working in complex assemblies.
-      <ul>
-        <li><strong>X-Ray Vision:</strong> Makes the 3D geometry transparent while keeping weld lines solid and visible.</li>
-        <li><strong>Click-Through Blocker:</strong> <strong>Crucial Feature.</strong> It strictly blocks the selection of 3D geometry (faces/bodies), ensuring that clicks <strong>only register on weld lines</strong>. This prevents accidental selection of the background model when picking thin weld paths.</li>
-      </ul>
-      <blockquote>
-  <strong>Tutorial Video:</strong> 
-  <a href="https://youtu.be/Y3D3PVF0ubI" target="_blank">X-Ray Weld Selection Mode - FreeCAD Plugin</a>
-</blockquote>
-       <br>
-    </td>
-  </tr>
+  <td>
+    <h3>Selection Mode (X-Ray & Filter)</h3>
+    <strong>Visual isolation and Selection Lock.</strong>
+    <br><br>
+    A specialized view mode designed for working in complex assemblies.
+    <ul>
+      <li><strong>X-Ray Vision:</strong> Makes the 3D geometry transparent while keeping weld lines solid and visible.</li>
+      <li><strong>Click-Through Blocker:</strong> <strong>Selection Filter.</strong> Strictly blocks the selection of 3D geometry (faces/bodies), ensuring that clicks <strong>only register on weld lines</strong>. This prevents accidental selection of the background model.</li>
+    </ul>
+    <br>
+    <div align="center">
+      <a href="https://www.youtube.com/watch?v=Y3D3PVF0ubI">
+        <img src="https://img.youtube.com/vi/Y3D3PVF0ubI/maxresdefault.jpg" width="450" alt="X-Ray Selection Mode Video">
+      </a>
+      <br>
+      <a href="https://youtu.be/Y3D3PVF0ubI"><strong>X-Ray Weld Selection Mode - FreeCAD Plugin</strong></a>
+    </div>
+    <br>
+  </td>
+</tr>
+
+
   <tr>
-    <td width="150" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Show%20Names/names_icon.svg" width="100px">
-    </td>
-    <td>
-      <h3>Show Names</h3>
-      <strong>Orientation & ID HUD.</strong>
-      <br><br>
-      Toggles a "Head-Up Display" in the 3D view for all weld lines.
-      <ul>
-        <li><strong>ID Labels:</strong> Shows the name/number of the weld floating above it.</li>
-        <li><strong>Direction Markers:</strong> Clearly marks the <strong>Start (O)</strong> and <strong>End (X)</strong> of the path to verify torch direction visually.</li>
-      </ul>
-      <blockquote>
-  <strong>Tutorial Video:</strong> 
-  <a href="https://youtu.be/uVRiyf8H4nk" target="_blank">Weld Path Name & Direction Display - FreeCAD Plugin</a>
-</blockquote>
-       <br>
-    </td>
-  </tr>
+  <td width="150" align="center" valign="top">
+    <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Show%20Names/names_icon.svg" width="90" alt="Show Names Icon">
+  </td>
+  <td>
+    <h3>Show Names</h3>
+    <strong>Orientation & ID HUD.</strong>
+    <br><br>
+    Toggles a "Head-Up Display" in the 3D view for all weld lines.
+    <ul>
+      <li><strong>ID Labels:</strong> Shows the name/number of the weld floating above it.</li>
+      <li><strong>Direction Markers:</strong> Clearly marks the <strong>Start (O)</strong> and <strong>End (X)</strong> of the path to verify torch direction visually.</li>
+    </ul>
+    <br>
+    <div align="center">
+      <a href="https://www.youtube.com/watch?v=uVRiyf8H4nk">
+        <img src="https://img.youtube.com/vi/uVRiyf8H4nk/maxresdefault.jpg" width="450" alt="Weld Names and Direction Video">
+      </a>
+      <br>
+      <a href="https://youtu.be/uVRiyf8H4nk"><strong>Weld Path Name & Direction Display - FreeCAD Plugin</strong></a>
+    </div>
+    <br>
+  </td>
+</tr>
   <tr>
-    <td width="150" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Focus%20on%20Object/focus_icon.svg" width="100px">
-    </td>
-    <td>
-      <h3>Focus on Object</h3>
-      <strong>Instant Navigation.</strong>
-      <br><br>
-      A productivity shortcut that instantly zooms and centers the camera on the object currently selected in the tree or list. Essential for locating small weld segments in large-scale environments.
-      <br><br>
-      <blockquote>
-  <strong>Tutorial Video:</strong> 
-  <a href="https://youtu.be/vnDtbglly2k" target="_blank">Focus on Object - FreeCAD Plugin</a>
-</blockquote>
-       <br>
-    </td>
-  </tr>
+  <td width="150" align="center" valign="top">
+    <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Focus%20on%20Object/focus_icon.svg" width="90" alt="Focus Icon">
+  </td>
+  <td>
+    <h3>Focus on Object</h3>
+    <strong>Instant Navigation.</strong>
+    <br><br>
+    A productivity shortcut that instantly zooms and centers the camera on the object currently selected in the tree or list. Essential for locating small weld segments in large-scale environments.
+    <br><br>
+    <div align="center">
+      <a href="https://www.youtube.com/watch?v=vnDtbglly2k">
+        <img src="https://img.youtube.com/vi/vnDtbglly2k/maxresdefault.jpg" width="450" alt="Focus on Object Video">
+      </a>
+      <br>
+      <a href="https://youtu.be/vnDtbglly2k"><strong>Focus on Object - FreeCAD Plugin</strong></a>
+    </div>
+    <br>
+  </td>
+</tr>
   <tr>
-    <td width="150" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Welding_Reference/welding-image-tool.svg" width="100px">
-    </td>
-    <td>
-      <h3>Welding Reference Tool</h3>
-      <strong>2D Blueprint to 3D Model Synchronization.</strong>
-      <br><br>
-      The <strong>Welding Reference Tool</strong> allows engineers to work with blueprints, technical images, or diagrams directly within the 3D environment, eliminating the need to keep a PDF open on a second monitor.
-      <br><br>
-      It enables the import of 2D documentation to place digital markers and logically link them with real 3D objects in the document.
-      <br><br>
-      <strong>Key Capabilities:</strong>
-      <ul>
-        <li><strong>Interactive Mapping:</strong> Load any image (PNG, JPG) and place "weld points" simply by clicking on the drawing.</li>
-        <li><strong>Digital Linkage:</strong> Associate each 2D mark with an existing weld bead in the 3D model for full traceability.</li>
-      </ul>
+  <td width="150" align="center" valign="top">
+    <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Welding_Reference/welding-image-tool.svg" width="90" alt="Welding Reference Icon">
+  </td>
+  <td>
+    <h3>Welding Reference Tool</h3>
+    <strong>2D Blueprint to 3D Model Synchronization.</strong>
+    <br><br>
+    The <strong>Welding Reference Tool</strong> allows engineers to work with blueprints, technical images, or diagrams directly within the 3D environment, eliminating the need to keep a PDF open on a second monitor.
+    <br><br>
+    It enables the import of 2D documentation to place digital markers and logically link them with real 3D objects in the document.
+    <br><br>
+    <strong>Key Capabilities:</strong>
+    <ul>
+      <li><strong>Interactive Mapping:</strong> Load any image (PNG, JPG) and place "weld points" simply by clicking on the drawing.</li>
+      <li><strong>Digital Linkage:</strong> Associate each 2D mark with an existing weld bead in the 3D model for full traceability.</li>
+    </ul>
+    <br>
+    <div align="center">
+      <a href="https://www.youtube.com/watch?v=Yp307CxQaUM">
+        <img src="https://img.youtube.com/vi/Yp307CxQaUM/maxresdefault.jpg" width="450" alt="Welding Reference Tool Video">
+      </a>
       <br>
-      <blockquote>
-  <strong>Tutorial Video:</strong> 
-  <a href="https://youtu.be/Yp307CxQaUM" target="_blank">Welding Reference Tool - FreeCAD Plugin</a>
-</blockquote>
-       <br>
-    </td>
-  </tr>
+      <a href="https://youtu.be/Yp307CxQaUM"><strong>Welding Reference Tool - FreeCAD Plugin</strong></a>
+    </div>
+    <br>
+  </td>
+</tr>
 <tr>
-    <td width="150" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Weld Projector/WeldWorkbench.svg" width="100px">
-    </td>
-    <td>
-      <h3>Weld Projector</h3>
-      <strong>High-Precision Path Projection.</strong>
+  <td width="150" align="center" valign="top">
+    <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Weld Projector/WeldWorkbench.svg" width="90" alt="Weld Projector Icon">
+  </td>
+  <td>
+    <h3>Weld Projector</h3>
+    <strong>High-Precision Path Projection.</strong>
+    <br><br>
+    The <strong>Weld Projector</strong> is designed to process and project welding trajectories with high precision. Its algorithm uses weld faces and physical CAD edges as references to generate accurate weld lines.
+    <br><br>
+    <strong>Key Capabilities:</strong>
+    <ul>
+      <li><strong>Precise Mathematical Mapping:</strong> Performs exact mapping of edges onto multiple irregular surfaces, ensuring the weld path adheres perfectly to the part geometry.</li>
+      <li><strong>Object Focus:</strong> Automatically focuses on the current selection or processed welds, providing total control over the work environment.</li>
+      <li><strong>Start/End Point Validation:</strong> Interactive table integration—clicking on the data table highlights the <strong>Start</strong> and <strong>End</strong> points in the 3D viewer to visually validate the welding direction.</li>
+    </ul>
+    <br>
+    <div align="center">
+      <a href="https://www.youtube.com/watch?v=8bRLaDLc0U4">
+        <img src="https://img.youtube.com/vi/8bRLaDLc0U4/maxresdefault.jpg" width="450" alt="Weld Projector Video">
+      </a>
       <br>
-      The <strong>Weld Projector</strong> is designed to process and project welding trajectories with high precision. Its algorithm uses weld faces and physical CAD edges as references to generate accurate weld lines.
-      <br>
-      <strong>Key Capabilities:</strong>
-      <ul>
-        <li><strong>Precise Mathematical Mapping:</strong> Performs exact mapping of edges onto multiple irregular surfaces, ensuring the weld path adheres perfectly to the part geometry.</li>
-        <li><strong>Object Focus:</strong> Automatically focuses on the current selection or processed welds, providing total control over the work environment.</li>
-        <li><strong>Start/End Point Validation:</strong> Interactive table integration—clicking on the data table highlights the <strong>Start</strong> and <strong>End</strong> points in the 3D viewer to visually validate the welding direction.</li>
-      </ul>
-      <br>
-      <blockquote>
-  <strong>Tutorial Video:</strong> 
-  <a href="https://youtu.be/8bRLaDLc0U4" target="_blank">https://youtu.be/8bRLaDLc0U4</a>
-</blockquote>
-       <br>
-    </td>
-  </tr>
+      <a href="https://youtu.be/8bRLaDLc0U4"><strong>Weld Projector Path Generation - FreeCAD Plugin</strong></a>
+    </div>
+    <br>
+  </td>
+</tr>
 <tr>
-    <td width="150" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Weld Creator/polyline-icon.svg" width="100px">
-    </td>
-    <td>
-      <h3>Weld Creator</h3>
-      <strong>Versatile Path Generation & Stitch Patterns.</strong>
+  <td width="150" align="center" valign="top">
+    <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Weld%20Creator/polyline-icon.svg" width="90" alt="Weld Creator Icon">
+  </td>
+  <td>
+    <h3>Weld Creator</h3>
+    <strong>Versatile Path Generation & Stitch Patterns.</strong>
+    <br><br>
+    Designed for versatile and parametric weld path generation. Unlike the Projector, this module focuses on direct creation, allowing for manual path drawing, conversion of existing edges, and the calculation of complex discontinuous (Stitch Weld) patterns.
+    <br><br>
+    <strong>Key Capabilities:</strong>
+    <ul>
+      <li><strong>Parametric Stitch Welding:</strong> Advanced algorithm that automatically segments continuous edges into weld patterns, allowing precise control over segment quantity, gap length, and start offsets.</li>
+      <li><strong>Freehand Creation:</strong> Manual weld path generation via sequential selection of 3D space points or model vertices.</li>
+      <li><strong>Direct Edge Conversion:</strong> Immediate transformation of selected edge chains into weld objects, preserving topology and applying adaptive discretization on curves.</li>
+    </ul>
+    <br>
+    <div align="center">
+      <a href="https://www.youtube.com/watch?v=XjR8g-87UrQ">
+        <img src="https://img.youtube.com/vi/XjR8g-87UrQ/maxresdefault.jpg" width="450" alt="Weld Creator Video">
+      </a>
       <br>
-      Designed for versatile and parametric weld path generation. Unlike the Projector, this module focuses on direct creation, allowing for manual path drawing, conversion of existing edges, and the calculation of complex discontinuous (Stitch Weld) patterns.
-      <br><br>
-      <strong>Key Capabilities:</strong>
-      <ul>
-        <li><strong>Parametric Stitch Welding:</strong> Advanced algorithm that automatically segments continuous edges into weld patterns, allowing precise control over segment quantity, gap length, and start offsets.</li>
-        <li><strong>Freehand Creation:</strong> Manual weld path generation via sequential selection of 3D space points or model vertices.</li>
-        <li><strong>Direct Edge Conversion:</strong> Immediate transformation of selected edge chains into weld objects, preserving topology and applying adaptive discretization on curves.</li>
-      </ul>
+      <a href="https://youtu.be/XjR8g-87UrQ"><strong>WeldLine Creator - FreeCAD Plugin</strong></a>
+    </div>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td width="150" align="center" valign="top">
+    <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Surface%20Weld%20Generator/welding-icon.svg" width="90" alt="Surface Weld Icon">
+  </td>
+  <td>
+    <h3>Surface Weld Generator</h3>
+    <strong>Volumetric modeling and physical joint representation.</strong>
+    <br><br>
+    Designed for volumetric modeling and physical representation of joints. Unlike trajectory modules, this tool generates actual solid geometry, allowing the visual representation of Fillet, Butt, and Curve welds for <strong>collision analysis</strong> and technical documentation.
+    <br><br>
+    <strong>Key Capabilities:</strong>
+    <ul>
+      <li><strong>Fillet Weld Generation:</strong> Automatic creation of weld prisms between perpendicular faces. The algorithm computes surface normals to correctly orient and extrude the triangular bead along linear joints.</li>
+      <li><strong>Curved Surface Adaptation:</strong> Implementation of BSpline interpolation to create smooth, continuous weld beads that organically adapt to curved edges and complex tangencies.</li>
+      <li><strong>Guide Constructor:</strong> Integrated utility for drawing manual reference polylines, facilitating the definition of axes and direction vectors in complex assemblies.</li>
+    </ul>
+    <br>
+    <div align="center">
+      <a href="https://www.youtube.com/watch?v=5uwMWgmB7Lk">
+        <img src="https://img.youtube.com/vi/5uwMWgmB7Lk/maxresdefault.jpg" width="450" alt="Surface Weld Generator Video">
+      </a>
       <br>
-      <blockquote>
-  <strong>Tutorial Video:</strong> 
-  <a href="https://youtu.be/XjR8g-87UrQ" target="_blank">WeldLine Creator - FreeCAD Plugin</a>
-</blockquote>
+      <a href="https://youtu.be/5uwMWgmB7Lk"><strong>Surface Weld Generator - FreeCAD Plugin</strong></a>
+    </div>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td width="150" align="center" valign="top">
+    <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Weld%20Simulator/simulation.svg" width="90" alt="Weld Simulator Icon">
+  </td>
+  <td>
+    <h3>Weld Simulator</h3>
+    <strong>Sequence Verification & Cycle Time Analysis.</strong>
+    <br><br>
+    This module is designed to visualize and verify the entire welding sequence. It simulates continuous torch movement along the generated trajectories, allowing validation of direction, continuity, and cycle times prior to export.
+    <br><br>
+    <strong>Key Capabilities:</strong>
+    <ul>
+      <li><strong>Kinematic Validation:</strong> Real-time visualization of the Tool Center Point (TCP) movement over the 3D model. It strictly respects the user-defined travel speed (mm/s) to detect process flow errors and estimate realistic production times.</li>
+    </ul>
+    <br>
+    <div align="center">
+      <a href="https://www.youtube.com/watch?v=efsZkopTnEQ">
+        <img src="https://img.youtube.com/vi/efsZkopTnEQ/maxresdefault.jpg" width="450" alt="Weld Simulator Video">
+      </a>
       <br>
-    </td>
-  </tr>
+      <a href="https://youtu.be/efsZkopTnEQ"><strong>Weld Trajectory Simulator - FreeCAD Plugin</strong></a>
+    </div>
+    <br>
+  </td>
+</tr>
 <tr>
-    <td width="150" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Surface Weld Generator/welding-icon.svg" width="100px">
-    </td>
-    <td>
-      <h3>Surface Weld Generator</h3>
-      Designed for volumetric modeling and physical representation of joints. Unlike trajectory modules, this tool generates actual solid geometry, allowing the visual representation of Fillet, Butt, and Curve welds for <strong>collision analysis</strong> and technical documentation.
-      <br><br>
-      <strong>Key Capabilities:</strong>
-      <ul>
-        <li><strong>Fillet Weld Generation:</strong> Automatic creation of weld prisms between perpendicular faces. The algorithm computes surface normals to correctly orient and extrude the triangular bead along linear joints.</li>
-        <li><strong>Curved Surface Adaptation:</strong> Implementation of BSpline interpolation to create smooth, continuous weld beads that organically adapt to curved edges and complex tangencies between faces.</li>
-        <li><strong>Guide Constructor:</strong> Integrated utility for drawing manual reference polylines, facilitating the definition of axes and direction vectors in assemblies where automatic geometry requires user assistance.</li>
-      </ul>
-      <br><br>
-      <blockquote>
-  <strong>Tutorial Video:</strong> 
-  <a href="https://youtu.be/5uwMWgmB7Lk" target="_blank">Surface Weld Generator - FreeCAD Plugin</a>
-</blockquote>
-       <br>
-    </td>
-  </tr>
-<tr>
-    <td width="150" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Weld Simulator/simulation.svg" width="100px">
-    </td>
-    <td>
-      <h3>Weld Simulator</h3>
-      <strong>Sequence Verification & Cycle Time Analysis.</strong>
-      <br><br>
-      This module is designed to visualize and verify the entire welding sequence. It simulates continuous torch movement along the generated trajectories, allowing validation of direction, continuity, and cycle times prior to export.
-      <br><br>
-      <strong>Key Capabilities:</strong>
-      <ul>
-        <li><strong>Kinematic Validation:</strong> Real-time visualization of the Tool Center Point (TCP) movement over the 3D model. It strictly respects the user-defined travel speed (mm/s) to detect process flow errors and estimate realistic production times.</li>
-      </ul>
-      <br><br>
-      <blockquote>
-  <strong>Tutorial Video:</strong> 
-  <a href="https://youtu.be/efsZkopTnEQ" target="_blank">Weld Trajectory Simulator - FreeCAD Plugin</a>
-</blockquote>
-       <br>
-    </td>
-  </tr>
-<tr>
-    <td width="150" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Weld Visualizer (Sphere Mode)/weld_sphere.svg" width="100px">
-    </td>
-    <td>
-      <h3>Weld Visualizer (Sphere Mode)</h3>
-      <strong>High-Performance Visual Verification.</strong>
-      <br><br>
-      Designed for rapid visual verification of welds without the computational overhead of generating complex geometric solids.
-      <br><br>
-      It utilizes direct scene graph rendering (<strong>Coin3D</strong>) to project a "cloud" of spheres along the trajectory, providing an immediate visual representation of weld coverage while maintaining a lightweight model size and fluid viewport navigation.
-      <br><br>
-      <blockquote>
-  <strong>Tutorial Video:</strong> 
-  <a href="https://youtu.be/Ccb7qmT_r68" target="_blank">Weld Visualizer (Sphere Mode) - FreeCAD Plugin</a>
-</blockquote>
-       <br>
-    </td>
-  </tr>
+  <td width="150" align="center" valign="top">
+    <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Weld%20Visualizer%20(Sphere%20Mode)/weld_sphere.svg" width="90" alt="Sphere Mode Icon">
+  </td>
+  <td>
+    <h3>Weld Visualizer (Sphere Mode)</h3>
+    <strong>High-Performance Visual Verification.</strong>
+    <br><br>
+    Designed for rapid visual verification of welds without the computational overhead of generating complex geometric solids.
+    <br><br>
+    It utilizes direct scene graph rendering (<strong>Coin3D</strong>) to project a "cloud" of spheres along the trajectory, providing an immediate visual representation of weld coverage while maintaining a lightweight model size and fluid viewport navigation.
+    <br><br>
+    <div align="center">
+      <a href="https://www.youtube.com/watch?v=Ccb7qmT_r68">
+        <img src="https://img.youtube.com/vi/Ccb7qmT_r68/maxresdefault.jpg" width="450" alt="Weld Visualizer Video">
+      </a>
+      <br>
+      <a href="https://youtu.be/Ccb7qmT_r68"><strong>Weld Visualizer (Sphere Mode) - FreeCAD Plugin</strong></a>
+    </div>
+    <br>
+  </td>
+</tr>
 </table>
 
 
@@ -685,63 +763,78 @@ To access all features, you must activate the Workbench:
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center" style="padding: 20px;">
-      <blockquote>
-  <strong>Tutorial Video:</strong> 
-  <a href="https://youtu.be/hPKx3S9DQLc" target="_blank">Import and Edit WeldLines Tools - FreeCAD Plugin</a>
-</blockquote>
+    <td width="150" align="center" valign="top">
+      </td>
+    <td>
+      <div align="center">
+        <a href="https://www.youtube.com/watch?v=hPKx3S9DQLc">
+          <img src="https://img.youtube.com/vi/8qCW9-HZIJk/maxresdefault.jpg" width="450" alt="Import and Edit Video">
+        </a>
+        <br>
+        <a href="https://youtu.be/8qCW9-HZIJk"><strong>Import and Edit WeldLines Tools - FreeCAD Plugin</strong></a>
+      </div>
+      <br>
     </td>
   </tr>
+</table>
 </table>
 
 ## 🤖 RoboDK & Process Automation
 
 <table>
   <tr>
-    <td width="150" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/RoboDK%20Export%20Tools/export_icon.svg" width="100px">
-      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/RoboDK%20Export%20Tools/export_single.svg" width="100px">
-    </td>
-    <td>
-      <h3>RoboDK Export Tools</h3>
-      <strong>Seamless CAD-to-Simulation Transfer.</strong>
-      <br><br>
-      A dedicated bridge to send geometry directly to RoboDK for simulation. It offers two operation modes for maximum flexibility:
-      <ul>
-        <li><strong>Export Entire CAD:</strong> Transfers the full visible assembly to the simulation environment in one click.</li>
-        <li><strong>Export Selected:</strong> Sends only specific components, perfect for partial updates or isolated testing.</li>
-        <li><strong>Auto-Alignment:</strong> Both modes automatically generate and reference the "CAD_Frame" coordinate system, ensuring perfect alignment between the design and the robot station.</li>
-      </ul>
-      <blockquote>
-  <strong>Tutorial Video:</strong> 
-  <a href="https://youtu.be/RDRtrwVmNSQ" target="_blank">CAD to Robot Export - FreeCAD Plugin</a>
-</blockquote>
-       <br>
-    </td>
-  </tr>
+  <td width="150" align="center" valign="top">
+    <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/RoboDK%20Export%20Tools/export_icon.svg" width="70" alt="Export All Icon">
+    <br><br>
+    <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/RoboDK%20Export%20Tools/export_single.svg" width="70" alt="Export Single Icon">
+  </td>
+  <td>
+    <h3>RoboDK Export Tools</h3>
+    <strong>Seamless CAD-to-Simulation Transfer.</strong>
+    <br><br>
+    A dedicated bridge to send geometry directly to RoboDK for simulation. It offers two operation modes for maximum flexibility:
+    <ul>
+      <li><strong>Export Entire CAD:</strong> Transfers the full visible assembly to the simulation environment in one click.</li>
+      <li><strong>Export Selected:</strong> Sends only specific components, perfect for partial updates or isolated testing.</li>
+      <li><strong>Auto-Alignment:</strong> Both modes automatically generate and reference the <code>CAD_Frame</code> coordinate system, ensuring perfect alignment between the design and the robot station.</li>
+    </ul>
+    <br>
+    <div align="center">
+      <a href="https://www.youtube.com/watch?v=RDRtrwVmNSQ">
+        <img src="https://img.youtube.com/vi/RDRtrwVmNSQ/maxresdefault.jpg" width="450" alt="RoboDK Export Video">
+      </a>
+      <br>
+      <a href="https://youtu.be/RDRtrwVmNSQ"><strong>CAD to Robot Export - FreeCAD Plugin</strong></a>
+    </div>
+    <br>
+  </td>
+</tr>
   <tr>
+  <td width="150" align="center" valign="top">
+    <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Glue%20Manager/glue_icon.svg" width="90" alt="Glue Manager Icon">
+  </td>
+  <td>
+    <h3>Glue Manager</h3>
+    <strong>Weld-to-Dispensing Path Conversion.</strong>
+    <br><br>
+    This tool repurposes existing MANUFAI weld paths (<code>Pts</code> data) to create precise adhesive dispensing trajectories.
+    <ul>
+      <li><strong>Non-Destructive Transformation:</strong> Includes a dedicated panel to Scale, Translate, and Rotate the path locally without altering the original CAD geometry.</li>
+      <li><strong>Smart Export:</strong> Automatically calculates surface normals for correct gun orientation and exports the transformed data to RoboDK as a "Curve Follow Project".</li>
+    </ul>
+    <br>
+    <div align="center">
+      <a href="https://www.youtube.com/watch?v=iWT9zPO1s58">
+        <img src="https://img.youtube.com/vi/iWT9zPO1s58/maxresdefault.jpg" width="450" alt="Glue Manager Video">
+      </a>
+      <br>
+      <a href="https://youtu.be/iWT9zPO1s58"><strong>Dispensing operations with RoboDK - MANUFAI FreeCAD Plugin</strong></a>
+    </div>
+    <br>
+  </td>
+<tr>
     <td width="150" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Glue%20Manager/glue_icon.svg" width="100px">
-    </td>
-    <td>
-      <h3>Glue Manager</h3>
-      <strong>Weld-to-Dispensing Path Conversion.</strong>
-      <br><br>
-      This tool repurposes existing MANUFAI weld paths (`Pts` data) to create precise adhesive dispensing trajectories.
-      <ul>
-        <li><strong>Non-Destructive Transformation:</strong> Includes a dedicated panel to Scale, Translate, and Rotate the path locally without altering the original CAD geometry.</li>
-        <li><strong>Smart Export:</strong> Automatically calculates surface normals for correct gun orientation and exports the transformed data to RoboDK as a "Curve Follow Project".</li>
-      </ul>
-      <blockquote>
-  <strong>Tutorial Video:</strong> 
-  <a href="https://youtu.be/iWT9zPO1s58" target="_blank">Dispensing operations with RoboDK - MANUFAI FreeCAD Plugin</a>
-</blockquote>
-       <br>
-    </td>
-  </tr>
-  <tr>
-    <td width="150" align="center" valign="top">
-      <img src="http://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Drilling%20Manager/Drill.svg" width="100px">
+      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Drilling%20Manager/Drill.svg" width="90" alt="Drilling Manager Icon">
     </td>
     <td>
       <h3>Drilling Manager</h3>
@@ -753,15 +846,20 @@ To access all features, you must activate the Workbench:
           <ul>
             <li><strong>Manual:</strong> Step-by-step definition (Start/End points) for visual depth control.</li>
             <li><strong>Precision:</strong> Apply specific numeric depth values to single holes.</li>
-            <li><strong>Batch Processing:</strong> The "Crown Jewel" feature—select dozens of holes and apply global drilling parameters to all of them instantly.</li>
+            <li><strong>Batch Processing:</strong> The <strong>"Crown Jewel"</strong> feature—select dozens of holes and apply global drilling parameters to all of them instantly.</li>
           </ul>
         </li>
         <li><strong>Full Simulation:</strong> Generates complete Approach, Drill, and Retract targets within RoboDK automatically.</li>
       </ul>
-      <blockquote>
-  <strong>Tutorial Videos:</strong>
-        <a href="https://youtu.be/Aw_dtBkk4sY" target="_blank">Automated Drilling - FreeCAD Plugin</a><br>
-     </blockquote>
+      <br>
+      <div align="center">
+        <a href="https://www.youtube.com/watch?v=Aw_dtBkk4sY">
+          <img src="https://img.youtube.com/vi/Aw_dtBkk4sY/maxresdefault.jpg" width="450" alt="Automated Drilling Video">
+        </a>
+        <br>
+        <a href="https://youtu.be/Aw_dtBkk4sY"><strong>Automated Drilling - FreeCAD Plugin</strong></a>
+      </div>
+      <br>
     </td>
   </tr>
 </table>
