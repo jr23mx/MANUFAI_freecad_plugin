@@ -204,8 +204,21 @@ To access all features, you must activate the Workbench:
         <li>Prevent overwelding to minimize heat input.</li>
         <li>Ensure even heat distribution through planned sequences.</li>
         <li>Directional welding toward unrestrained parts.</li>
-      </ul>
-    </td>
+      <br>
+    <div align="center">
+      <a href="https://youtu.be/48nRLUuxqVA">
+        <img src="https://img.youtube.com/vi/48nRLUuxqVA/maxresdefault.jpg" width="450" alt="WSO with DK Algorithm">
+      </a>
+      <br>
+      <a href="https://youtu.be/hXmbLb0A_RI"><strong>WSO with DK Algorithm</strong></a>
+      <br><br>
+      <a href="https://youtu.be/bhIbrSHBmeU">
+        <img src="https://img.youtube.com/vi/bhIbrSHBmeU/maxresdefault.jpg" width="450" alt="Sequence Visualizer [Output]">
+      </a>
+      <br>
+      <a href="https://youtu.be/Giv5xZ7Uw44"><strong>Sequence Visualizer [Output]</strong></a>
+    </div>
+  </td>
   </tr>
 </table>
 
