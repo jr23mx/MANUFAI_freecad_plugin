@@ -61,6 +61,10 @@ Choose the method that best fits your technical setup:
 * **Start** or **Restart** FreeCAD to activate the workbench.
 
 ---
+# Toolbar Layout
+
+
+---
 
 # 🔑 Workbench Activation
 Once the folder is installed in the corresponding directory, follow these steps to activate and start using the tools.
