@@ -493,19 +493,17 @@ To access all features, you must activate the Workbench:
     </td>
   </tr>
  <tr>
-    <td width="150" align="center" valign="top">
-      </td>
-    <td>
-      <div align="center">
-        <a href="https://www.youtube.com/watch?v=hPKx3S9DQLc">
-          <img src="https://img.youtube.com/vi/hPKx3S9DQLc/maxresdefault.jpg" width="450" alt="3-2-1 Alignment Video">
-        </a>
-        <br>
-        <a href="https://youtu.be/hPKx3S9DQLc"><strong>3-2-1 Datum Based Alignment - MANUFAI FreeCAD Plugin</strong></a>
-      </div>
+  <td colspan="2" align="center" valign="top">
+    <div align="center">
+      <a href="https://www.youtube.com/watch?v=hPKx3S9DQLc">
+        <img src="https://img.youtube.com/vi/hPKx3S9DQLc/maxresdefault.jpg" width="450" alt="3-2-1 Alignment Video">
+      </a>
       <br>
-    </td>
-  </tr>
+      <a href="https://youtu.be/hPKx3S9DQLc"><strong>3-2-1 Datum Based Alignment - MANUFAI FreeCAD Plugin</strong></a>
+    </div>
+    <br>
+  </td>
+</tr>
   
   <tr>
   <td width="150" align="center" valign="top">
