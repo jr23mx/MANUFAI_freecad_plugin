@@ -626,7 +626,7 @@ To access all features, you must activate the Workbench:
   </tr>
 <tr>
     <td width="150" align="center" valign="top">
-      <img src="https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/WeldLine%20to%20WeldNormals/Weld_tree_item.svg" width="100px">
+      <img src="https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/WeldLine%20to%20WeldNormals/Normals.svg" width="100px">
     </td>
     <td>
       <h3>WeldLine to WeldNormals (Weld Solver)</h3>
@@ -761,7 +761,7 @@ To access all features, you must activate the Workbench:
 </tr>
 <tr>
     <td width="150" align="center" valign="top">
-      <img src="https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/Weld%20Loader%20Pro/Normals.svg" width="100px">
+      <img src="https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/Weld%20Loader%20Pro/import1.svg" width="100px">
     </td>
     <td>
       <h3>Weld Loader Pro</h3>
