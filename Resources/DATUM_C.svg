@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 500 500">
+  <!-- Generator: Adobe Illustrator 29.8.2, SVG Export Plug-In . SVG Version: 2.1.1 Build 3)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: #ecb02a;
+        stroke-width: 12px;
+      }
+
+      .st1 {
+        fill-opacity: 0;
+      }
+
+      .st2, .st3 {
+        fill: #ecb02a;
+      }
+
+      .st3 {
+        font-family: Barlow-Bold, Barlow;
+        font-size: 220px;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <path class="st1" d="M0,500V0"/>
+  <path class="st2" d="M380.94,257.12H126.45V2.64h254.48v254.48ZM154.12,231.37h202.57V28.15h-202.57v203.22Z"/>
+  <line class="st0" x1="253.6" y1="242.26" x2="253.6" y2="363.5"/>
+  <path class="st2" d="M341.7,499.36h-176l88-152.68,88,152.68Z"/>
+  <text class="st3" transform="translate(187.21 207.62)"><tspan x="0" y="0">C</tspan></text>
+</svg>

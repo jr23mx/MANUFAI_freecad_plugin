@@ -1,0 +1,26 @@
+<svg width="800.0000000000001" height="800.0000000000001" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <radialGradient r="0.57243" gradientTransform="rotate(5.999999999999998,0.07421875,0) translate(0,0) scale(1,0.95)" cy="0" cx="0.07422" spreadMethod="pad" id="svg_13">
+   <stop offset="0" stop-opacity="0.99609" stop-color="#ffffff"/>
+   <stop offset="1" stop-opacity="0.99609" stop-color="#007fff"/>
+  </radialGradient>
+  <radialGradient r="0.87965" cy="1" cx="0" spreadMethod="pad" id="svg_15">
+   <stop offset="0" stop-opacity="0.99219" stop-color="#073666"/>
+   <stop offset="1" stop-opacity="0.99609" stop-color="#007fff"/>
+  </radialGradient>
+  <radialGradient r="0.87965" cy="1" cx="1" spreadMethod="pad" id="svg_2">
+   <stop offset="0" stop-opacity="0.99219" stop-color="#073666"/>
+   <stop offset="1" stop-opacity="0.99609" stop-color="#007fff"/>
+  </radialGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_8" d="m-305.46,509.54814l0.5,-2.00001l0.5,2.00001l-1.00001,0l0.00001,0z" stroke-width="10" stroke="#000" fill="#000000"/>
+  <rect stroke-width="5" stroke="#000" id="svg_10" height="681.99996" width="210" y="55" x="65" fill="url(#svg_13)"/>
+  <rect transform="rotate(90 512.5 632)" stroke-width="5" stroke="#000" id="svg_11" height="470.99997" width="210" y="396.50003" x="407.5001" fill="url(#svg_15)"/>
+  <rect stroke-width="5" stroke="#000" id="svg_1" height="470" width="210" y="-74.8333" x="405.66667" fill="url(#svg_2)" transform="rotate(90 510.667 160.167)"/>
+  <line fill="none" stroke-width="31" x1="277" y1="735.00001" x2="277" y2="530" id="svg_3" stroke="#ff6100"/>
+  <line fill="none" stroke-width="30" x1="278.33333" y1="263.00001" x2="278.33333" y2="57" id="svg_4" stroke="#ff6100"/>
+  <path stroke-width="10" stroke="#000" id="svg_5" d="m588.3237,108.57628l-52.69998,-31.44263c-13.29637,-7.92529 -30.81665,-4.11085 -39.19474,8.51344l-20.77204,31.38396l100.81729,60.10794l20.78842,-31.36939c8.34629,-12.63932 4.36291,-29.28569 -8.93895,-37.19332l0,0zm-292.07148,279.5979l100.82279,60.10732l164.32443,-248.31711l-100.87078,-60.12301l-164.27645,248.33278l0.00002,0.00002zm-15.40066,76.36859l-2.22681,56.45777l52.61914,-26.41966l48.89813,-24.50797l-97.26697,-58.02413l-2.02346,52.494l0,0l-0.00002,-0.00002z" fill="#ff0000"/>
+ </g>
+</svg>
