@@ -61,8 +61,10 @@ Choose the method that best fits your technical setup:
 * **Start** or **Restart** FreeCAD to activate the workbench.
 
 ---
-# Toolbar Layout
-
+# 💬 Toolbar Layout
+<p>
+  <img src="https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/Resources/Toolbar%20Layout.png" alt="Toolbar Layout">
+</p>
 
 ---
 
@@ -89,6 +91,7 @@ To access all features, you must activate the Workbench:
 > **Tutorial Video:** [Setup and Activate FreeCAD plugin](https://youtu.be/isCbP-M9UMY)
 
 ---
+***
 ## 👨‍🏭 Make Weld Trajectories
 <table>
 <tr>
@@ -365,6 +368,9 @@ To access all features, you must activate the Workbench:
   </td>
   </tr>
 </table>
+
+---
+***
 
 ## 🔨 3-2-1 Datum Based Alignment  & Tools
 
@@ -659,8 +665,10 @@ To access all features, you must activate the Workbench:
     </div>
   </td>
 </tr>
-
 </table>
+
+---
+***
 
 ## ⚡ C3P – Wdcurve tools
 
@@ -796,6 +804,8 @@ To access all features, you must activate the Workbench:
   </tr>
 </table>
 
+---
+***
 
 ## 🤖 RoboDK & Process Automation
 
