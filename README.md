@@ -92,6 +92,8 @@ To access all features, you must activate the Workbench:
    <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/Resources/Extract_edges_20.svg" width="90" alt="Extract Edges Icon">
     <br><br>
     <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/Resources/Find_Weld_edges_21.svg" width="90" alt="Find Weld Edges Icon">
+    <br><br>
+    <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/Resources/Intermittent_weld_v2.svg" width="90" alt="Intermittent_weld_v2">
   </td>
   <td>
     <h3>Automatic Weldable Edges Recognition</h3>
@@ -195,7 +197,7 @@ To access all features, you must activate the Workbench:
 <table>
  <tr>
   <td width="150" align="center" valign="top">
-    <img src="https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/Welding%20Gun%20-%20Trajectory%20Simulation/Run_simulation3.svg?raw=true" width="90" alt="Simulation Icon">
+    <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/Resources/Run_simulation3.svg?raw=true" width="90" alt="Simulation Icon">
   </td>
   <td>
     <h3>Welding Gun - Trajectory Simulation</h3>
@@ -271,9 +273,9 @@ To access all features, you must activate the Workbench:
 <table>
   <tr>
   <td width="150" align="center" valign="top">
-    <img src="https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/Production%20Reports%20%26%20Quotations/Report1.svg?raw=true" width="90">
+    <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/Resources/Report1.svg?raw=true" width="90">
     <br><br>
-    <img src="https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/Production%20Reports%20%26%20Quotations/Report3_cycle_time.svg?raw=true" width="90">
+    <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/Resources/Report3_cycle_time.svg?raw=true" width="90">
   </td>
   <td>
     <h3>Production Reports & Quotations</h3>
@@ -302,7 +304,7 @@ To access all features, you must activate the Workbench:
 
   <tr>
   <td width="150" align="center" valign="top">
-    <img src="https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/Production%20Reports%20%26%20Quotations/Report2.svg?raw=true" width="90" alt="Weight Report Icon">
+    <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/Resources/Report2.svg?raw=true" width="90" alt="Weight Report Icon">
   </td>
   <td>
     <h3>Weight After Welding Report</h3>
@@ -330,7 +332,7 @@ To access all features, you must activate the Workbench:
   <table>
   <tr>
     <td width="150" align="center" valign="top">
-      <img src="https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/Welding%20Sequence%20AI%20Advisor/Export_DKproj_v4.svg" width="100px">
+      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/Resources/Export_DKproj_v4.svg" width="100px">
     </td>
     <td>
       <h3>Welding Sequence AI Advisor</h3>
@@ -467,7 +469,7 @@ To access all features, you must activate the Workbench:
   </tr>
   <tr>
     <td width="150" align="center" valign="top">
-      <img src="https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/Resources/ALINEACION.svg" width="100px">
+      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/Resources/ALINEACION.svg" width="100px">
     </td>
     <td>
       <h3>Alignment 3-2-1</h3>
@@ -587,7 +589,7 @@ To access all features, you must activate the Workbench:
 
 <tr>
     <td width="150" align="center" valign="top">
-      <img src="https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/Move%20Weldlines/MoveWeldlines.svg" width="100px">
+      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/Resources/MoveWeldlines.svg" width="100px">
     </td>
     <td>
       <h3>Smart Discretize</h3>
@@ -604,7 +606,7 @@ To access all features, you must activate the Workbench:
 
 <tr>
     <td width="150" align="center" valign="top">
-      <img src="https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/Smart%20Discretize/DIZCRE.svg" width="100px">
+      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/Resources/DIZCRE.svg" width="100px">
     </td>
     <td>
       <h3>Smart Discretize</h3>
@@ -626,7 +628,7 @@ To access all features, you must activate the Workbench:
   </tr>
 <tr>
     <td width="150" align="center" valign="top">
-      <img src="https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/WeldLine%20to%20WeldNormals/Normals.svg" width="100px">
+      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/Resources/Normals.svg" width="100px">
     </td>
     <td>
       <h3>WeldLine to WeldNormals (Weld Solver)</h3>
@@ -761,7 +763,7 @@ To access all features, you must activate the Workbench:
 </tr>
 <tr>
     <td width="150" align="center" valign="top">
-      <img src="https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/Weld%20Loader%20Pro/import1.svg" width="100px">
+      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/Resources/import1.svg" width="100px">
     </td>
     <td>
       <h3>Weld Loader Pro</h3>
