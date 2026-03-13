@@ -761,7 +761,7 @@ To access all features, you must activate the Workbench:
 </tr>
 <tr>
     <td width="150" align="center" valign="top">
-      <img src="https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/Weld%20Loader%20Pro/import1.svg" width="100px">
+      <img src="https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/Weld%20Loader%20Pro/Normals.svg" width="100px">
     </td>
     <td>
       <h3>Weld Loader Pro</h3>
