@@ -210,13 +210,13 @@ To access all features, you must activate the Workbench:
         <img src="https://img.youtube.com/vi/48nRLUuxqVA/maxresdefault.jpg" width="450" alt="WSO with DK Algorithm">
       </a>
       <br>
-      <a href="https://youtu.be/hXmbLb0A_RI"><strong>WSO with DK Algorithm</strong></a>
+      <a href="https://youtu.be/48nRLUuxqVA"><strong>WSO with DK Algorithm</strong></a>
       <br><br>
       <a href="https://youtu.be/bhIbrSHBmeU">
         <img src="https://img.youtube.com/vi/bhIbrSHBmeU/maxresdefault.jpg" width="450" alt="Sequence Visualizer [Output]">
       </a>
       <br>
-      <a href="https://youtu.be/Giv5xZ7Uw44"><strong>Sequence Visualizer [Output]</strong></a>
+      <a href="https://youtu.be/bhIbrSHBmeU"><strong>Sequence Visualizer [Output]</strong></a>
     </div>
   </td>
   </tr>
