@@ -72,7 +72,7 @@ Upon opening FreeCAD, locate the workbench selector dropdown in the top-center m
 To access all features, you must activate the Workbench:
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Workbench Activation/Acvitator.svg" width="100" align="left" hspace="30">
+  <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/Resources/Acvitator.svg" width="100" align="left" hspace="30" alt="Workbench Activator Icon">
   <ul>
     <li>Click on the <b>Activator</b> icon within the MANUFAI toolbar.</li>
     <li>Obtain your <b>Serial Key</b> and enter it into the corresponding field.</li>
@@ -89,9 +89,9 @@ To access all features, you must activate the Workbench:
 <table>
 <tr>
   <td width="150" align="center" valign="top">
-    <img src="https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/Automatic%20Weldable%20Edges%20Recognition/Extract_edges_20.svg?raw=true" width="90">
+   <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/Resources/Extract_edges_20.svg" width="90" alt="Extract Edges Icon">
     <br><br>
-    <img src="https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/Automatic%20Weldable%20Edges%20Recognition/Find_Weld_edges_21.svg?raw=true" width="90">
+    <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/Resources/Find_Weld_edges_21.svg" width="90" alt="Find Weld Edges Icon">
   </td>
   <td>
     <h3>Automatic Weldable Edges Recognition</h3>
@@ -110,7 +110,7 @@ To access all features, you must activate the Workbench:
 </tr>
 <tr>
   <td width="150" align="center" valign="top">
-    <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Weld Projector/WeldWorkbench.svg" width="90" alt="Weld Projector Icon">
+    <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/Resources/WeldWorkbench.svg" width="90" alt="Weld Projector Icon">
   </td>
   <td>
     <h3>Weld Projector</h3>
@@ -137,7 +137,7 @@ To access all features, you must activate the Workbench:
 </tr>
 <tr>
   <td width="150" align="center" valign="top">
-    <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Weld%20Creator/polyline-icon.svg" width="90" alt="Weld Creator Icon">
+    <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/Resources/polyline-icon.svg" width="90" alt="Polyline Icon">
   </td>
   <td>
     <h3>Weld Creator</h3>
@@ -164,7 +164,7 @@ To access all features, you must activate the Workbench:
 </tr>
 <tr>
   <td width="150" align="center" valign="top">
-    <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Surface%20Weld%20Generator/welding-icon.svg" width="90" alt="Surface Weld Icon">
+    <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/Resources/welding-icon.svg" width="90" alt="Surface Weld Icon">
   </td>
   <td>
     <h3>Surface Weld Generator</h3>
@@ -218,7 +218,7 @@ To access all features, you must activate the Workbench:
 </tr>
 <tr>
   <td width="150" align="center" valign="top">
-    <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Weld%20Simulator/simulation.svg" width="90" alt="Weld Simulator Icon">
+    <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/Resources/simulation.svg" width="90" alt="Weld Simulator Icon">
   </td>
   <td>
     <h3>Weld Simulator</h3>
@@ -243,7 +243,7 @@ To access all features, you must activate the Workbench:
 </tr>
 <tr>
   <td width="150" align="center" valign="top">
-    <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Weld%20Visualizer%20(Sphere%20Mode)/weld_sphere.svg" width="90" alt="Sphere Mode Icon">
+    <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/Resources/weld_sphere.svg" width="90" alt="Sphere Mode Icon">
   </td>
   <td>
     <h3>Weld Visualizer (Sphere Mode)</h3>
@@ -365,7 +365,7 @@ To access all features, you must activate the Workbench:
 <table>
   <tr>
   <td width="150" align="center" valign="top">
-    <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Recursive%20Visibility/Toggle_Visibility_Recursive.svg" width="90" alt="Recursive Visibility Icon">
+    <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/Resources/Toggle_Visibility_Recursive.svg" width="90" alt="Recursive Visibility Icon">
   </td>
   <td>
     <h3>Recursive Visibility Toggle</h3>
@@ -384,7 +384,7 @@ To access all features, you must activate the Workbench:
 </tr>
   <tr>
     <td width="150" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Create%20Sphere%20in%20Origin/ORIGEN.svg" width="100px">
+      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/Resources/ORIGEN.svg" width="100" alt="Create Sphere in Origin Icon">
     </td>
     <td>
       <h3>Create Sphere in Origin</h3>
@@ -398,7 +398,7 @@ To access all features, you must activate the Workbench:
   
   <tr>
   <td width="150" align="center" valign="top">
-    <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Create%20Center%20Point/CENTRO.svg" width="90" alt="Center Point Icon">
+    <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/Resources/CENTRO.svg" width="90" alt="Center Point Icon">
   </td>
   <td>
     <h3>Create Center Point</h3>
@@ -422,7 +422,7 @@ To access all features, you must activate the Workbench:
 </tr>
   <tr>
     <td width="150" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Datum%20A/DATUM_A.svg" width="100px">
+      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/Resources/DATUM_A.svg" width="100" alt="Datum A Icon">
     </td>
     <td>
       <h3>Datum A</h3>
@@ -438,7 +438,7 @@ To access all features, you must activate the Workbench:
   </tr>
   <tr>
     <td width="150" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Datum%20B/DATUM_B.svg" width="100px">
+      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/Resources/DATUM_B.svg" width="100" alt="Datum B Icon">
     </td>
     <td>
       <h3>Datum B</h3>
@@ -455,7 +455,7 @@ To access all features, you must activate the Workbench:
 
   <tr>
     <td width="150" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Datum%20C/DATUM_C.svg" width="100px">
+      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/Resources/DATUM_C.svg" width="100" alt="Datum C Icon">
     </td>
     <td>
       <h3>Datum C</h3>
@@ -467,7 +467,7 @@ To access all features, you must activate the Workbench:
   </tr>
   <tr>
     <td width="150" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Alignment%203-2-1/ALINEACION.svg" width="100px">
+      <img src="https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/Resources/ALINEACION.svg" width="100px">
     </td>
     <td>
       <h3>Alignment 3-2-1</h3>
@@ -481,7 +481,7 @@ To access all features, you must activate the Workbench:
   
   <tr>
     <td width="150" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Move%20to%20Origin%203-2-1/MOVER.svg" width="100px">
+      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/Resources/MOVER.svg" width="100" alt="Move to Origin 3-2-1 Icon">
     </td>
     <td>
       <h3>Move to Origin 3-2-1</h3>
@@ -507,7 +507,7 @@ To access all features, you must activate the Workbench:
   
   <tr>
   <td width="150" align="center" valign="top">
-    <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Find%20Data/DATA_ICON.svg" width="90" alt="Find Data Icon">
+    <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/Resources/DATA_ICON.svg" width="90" alt="Find Data Icon">
   </td>
   <td>
     <h3>Find Data Panel</h3>
@@ -538,7 +538,7 @@ To access all features, you must activate the Workbench:
 </tr>
 <tr>
   <td width="150" align="center" valign="top">
-    <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Welding_Reference/welding-image-tool.svg" width="90" alt="Welding Reference Icon">
+    <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/Resources/welding-image-tool.svg" width="90" alt="Welding Reference Icon">
   </td>
   <td>
     <h3>Welding Reference Tool</h3>
@@ -566,7 +566,7 @@ To access all features, you must activate the Workbench:
 </tr>
 <tr>
   <td width="150" align="center" valign="top">
-    <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Focus%20on%20Object/focus_icon.svg" width="90" alt="Focus Icon">
+    <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/Resources/focus_icon.svg" width="90" alt="Focus on Object Icon">
   </td>
   <td>
     <h3>Focus on Object</h3>
@@ -661,7 +661,7 @@ To access all features, you must activate the Workbench:
 <table>
   <tr>
   <td width="150" align="center" valign="top">
-    <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Line%20Weld/weld_icon.svg" width="90" alt="Line Weld Icon">
+    <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/Resources/weld_icon.svg" width="90" alt="Line Weld Icon">
   </td>
   <td>
     <h3>Line Weld (Main Interface)</h3>
@@ -686,7 +686,7 @@ To access all features, you must activate the Workbench:
   
   <tr>
   <td width="150" align="center" valign="top">
-    <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Line%20Weld%20Table/table_icon.svg" width="90" alt="Line Weld Table Icon">
+    <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/Resources/table_icon.svg" width="90" alt="Line Weld Table Icon">
   </td>
   <td>
     <h3>Line Weld Table</h3>
@@ -737,7 +737,7 @@ To access all features, you must activate the Workbench:
 
   <tr>
   <td width="150" align="center" valign="top">
-    <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Show%20Names/names_icon.svg" width="90" alt="Show Names Icon">
+    <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/Resources/names_icon.svg" width="90" alt="Show Names Icon">
   </td>
   <td>
     <h3>Show Names</h3>
@@ -796,9 +796,9 @@ To access all features, you must activate the Workbench:
 <table>
   <tr>
   <td width="150" align="center" valign="top">
-    <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/RoboDK%20Export%20Tools/export_icon.svg" width="70" alt="Export All Icon">
+    <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/Resources/export_icon.svg" width="70" alt="Export All Icon">
     <br><br>
-    <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/RoboDK%20Export%20Tools/export_single.svg" width="70" alt="Export Single Icon">
+    <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/Resources/export_single.svg" width="70" alt="Export Single Icon">
   </td>
   <td>
     <h3>RoboDK Export Tools</h3>
@@ -823,7 +823,7 @@ To access all features, you must activate the Workbench:
 </tr>
   <tr>
   <td width="150" align="center" valign="top">
-    <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Glue%20Manager/glue_icon.svg" width="90" alt="Glue Manager Icon">
+    <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/Resources/glue_icon.svg" width="90" alt="Glue Manager Icon">
   </td>
   <td>
     <h3>Glue Manager</h3>
@@ -846,7 +846,7 @@ To access all features, you must activate the Workbench:
   </td>
 <tr>
     <td width="150" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/refs/heads/main/Drilling%20Manager/Drill.svg" width="90" alt="Drilling Manager Icon">
+      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/Resources/Drill.svg" width="90" alt="Drilling Manager Icon">
     </td>
     <td>
       <h3>Drilling Manager</h3>
