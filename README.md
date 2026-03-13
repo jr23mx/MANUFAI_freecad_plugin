@@ -645,19 +645,16 @@ To access all features, you must activate the Workbench:
     </td>
   </tr>
   <tr>
-    <td width="150" align="center" valign="top">
-      </td>
-    <td>
-      <div align="center">
-        <a href="https://www.youtube.com/watch?v=hPKx3S9DQLc">
-          <img src="https://img.youtube.com/vi/8qCW9-HZIJk/maxresdefault.jpg" width="450" alt="Import and Edit Video">
-        </a>
-        <br>
-        <a href="https://youtu.be/8qCW9-HZIJk"><strong>Import and Edit WeldLines Tools - FreeCAD Plugin</strong></a>
-      </div>
+  <td colspan="2" align="center" valign="top">
+    <div align="center">
+      <a href="https://www.youtube.com/watch?v=hPKx3S9DQLc">
+        <img src="https://img.youtube.com/vi/8qCW9-HZIJk/maxresdefault.jpg" width="450" alt="Import and Edit Video">
+      </a>
       <br>
-    </td>
-  </tr>
+      <a href="https://youtu.be/8qCW9-HZIJk"><strong>Import and Edit WeldLines Tools - FreeCAD Plugin</strong></a>
+    </div>
+  </td>
+</tr>
 
 </table>
 
