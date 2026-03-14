@@ -810,6 +810,33 @@ To access all features, you must activate the Workbench:
 ## 🤖 RoboDK & Process Automation
 
 <table>
+<tr>
+  <td width="150" align="center" valign="top">
+    <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/Resources/Robot_2.svg" width="80" alt="Weld Data Icon">
+    <br><br>
+    </td>
+  <td>
+    <h3>Weld Data to RoboDK</h3>
+    <strong>Automated Welding Path & Program Generation.</strong>
+    <br><br>
+    A powerful FreeCAD add-on designed specifically for <strong>Robotic Welding</strong> applications. It eliminates manual coordinate entry by synchronizing design geometry with robot logic:
+    <ul>
+      <li><strong>Path Modeling:</strong> Design complex welding trajectories directly within the FreeCAD environment.</li>
+      <li><strong>Automatic Program Creation:</strong> The plugin extracts path data and generates ready-to-use robot programs in RoboDK instantly.</li>
+      <li><strong>Data Synchronization:</strong> Ensures that every vertex and edge of the weld seam is accurately translated into robot targets.</li>
+    </ul>
+    <br>
+    <div align="center">
+      <a href="https://www.youtube.com/watch?v=_DmwPQABFhU">
+        <img src="https://img.youtube.com/vi/_DmwPQABFhU/maxresdefault.jpg" width="450" alt="Weld Data Video">
+      </a>
+      <br>
+      <a href="https://youtu.be/_DmwPQABFhU"><strong>Weld Path to Robot Program - FreeCAD Plugin</strong></a>
+    </div>
+    <br>
+  </td>
+</tr>
+  
   <tr>
   <td width="150" align="center" valign="top">
     <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/Resources/export_icon.svg" width="70" alt="Export All Icon">
