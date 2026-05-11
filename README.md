@@ -50,7 +50,10 @@ Access the latest version from our portal:
 
 > **Tutorial Video:** [Sign up and download FreeCAD Plugin](https://www.youtube.com/watch?v=RT1OPsXSJlg)
 
-#### **2. Installation**
+#### **2. System Requirements**
+*   **FreeCAD Version:** For optimal performance and full feature compatibility, version **1.1.1** is required.
+
+#### **3. Installation**
 1. **Download** the `.exe` installer from the link above.
 2. **Run** the executable. If prompted by Windows SmartScreen, click "Run anyway."
 3. **Follow** the setup wizard. The installer automatically locates your FreeCAD `Mod` directory.
