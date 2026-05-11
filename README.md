@@ -51,7 +51,7 @@ Access the latest version from our portal:
 > **Tutorial Video:** [Sign up and download FreeCAD Plugin](https://www.youtube.com/watch?v=RT1OPsXSJlg)
 
 #### **2. System Requirements**
-*   **FreeCAD Version:** For optimal performance and full feature compatibility, version **1.1.1** is required.
+*   **FreeCAD Version:** For optimal performance and full feature compatibility, version `1.1.1` is required.
 
 #### **3. Installation**
 1. **Download** the `.exe` installer from the link above.
