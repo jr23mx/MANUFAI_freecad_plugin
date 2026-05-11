@@ -50,25 +50,12 @@ Access the latest version from our portal:
 
 > **Tutorial Video:** [Sign up and download FreeCAD Plugin](https://www.youtube.com/watch?v=RT1OPsXSJlg)
 
-#### **2. Installation Methods**
-
-Choose the method that best fits your technical setup:
-
-### **Option A: Automatic Installation (Recommended)**
-*Best for: Standard Windows users who want a one-click setup.*
-
+#### **2. Installation**
 1. **Download** the `.exe` installer from the link above.
 2. **Run** the executable. If prompted by Windows SmartScreen, click "Run anyway."
 3. **Follow** the setup wizard. The installer automatically locates your FreeCAD `Mod` directory.
 4. **Restart** FreeCAD. The MANUFAI workbench will be available in the dropdown selector.
 
-### **Option B: Manual Installation (.zip)**
-* **Extract** the downloaded `.zip` folder.
-* **Move** the `MANUFAI` folder into the **Mod** directory of your installation:
-
-> **C:\Program Files\FreeCAD 1.0\Mod**
-
-* **Start** or **Restart** FreeCAD to activate the workbench.
 
 <hr>
 
