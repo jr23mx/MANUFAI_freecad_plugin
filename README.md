@@ -1,7 +1,7 @@
 <hr>
 
 <div align="center">
-  <h1>🛠️ MANUFAI_freecad_plugin</h1>
+  <h1>🛠️ MANUFAI FREECAD PLUGIN</h1>
 </div>
 
 <hr>
