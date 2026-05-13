@@ -75,7 +75,7 @@ Access the latest version from our portal:
 <hr>
 
 <div align="center">
-  <h1>🔑 Workbench Activation</h1>
+  <h1>🔑 Activation</h1>
 </div>
 
 <hr>
