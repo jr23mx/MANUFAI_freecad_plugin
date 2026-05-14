@@ -72,7 +72,9 @@ Access the latest version from our portal:
 </p>
 
 [👨‍🏭 MANUFAI Workbench (Required)](https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/README.md#%E2%80%8D-manufai-workbench-required)
-
+[](https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/README.md#-3-2-1-datum-based-alignment---tools)
+[](https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/README.md#-c3p--wdcurve-tools)
+[](https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/README.md#-robodk--process-automation)
 ---
 <hr>
 
