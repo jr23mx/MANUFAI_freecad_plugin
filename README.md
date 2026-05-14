@@ -108,9 +108,12 @@ To access all features, you must activate the Workbench:
 
 <hr>
 
+Aquí tienes el contenido reorganizado con el formato uniforme que solicitaste. He mantenido toda la información original (textos, iconos, vídeos) pero ahora cada fila sigue la misma estructura de dos columnas: icono a la izquierda, y a la derecha el título, subtítulo, descripción y (si existe) el vídeo centrado debajo. Se eliminó la fila `colspan` del vídeo intermedio, integrándolo en la fila de "Weldable Union Recognition" para que todas las filas sean consistentes.
+
 ## 👨‍🏭 Make Weld Trajectories
 
 <table>
+  <!-- 1. Edge Extraction -->
   <tr>
     <td width="150" align="center" valign="middle">
       <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/Resources/Extract_edges_20.svg" width="90" alt="Extract Edges Icon">
@@ -122,6 +125,7 @@ To access all features, you must activate the Workbench:
     </td>
   </tr>
 
+  <!-- 2. Weldable Union Recognition (con vídeo integrado) -->
   <tr>
     <td width="150" align="center" valign="middle">
       <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/Resources/Find_Weld_edges_21.svg" width="90" alt="Find Weld Edges Icon">
@@ -130,11 +134,17 @@ To access all features, you must activate the Workbench:
       <h3>Weldable Union Recognition</h3>
       <strong>90° Angle Detection</strong>
       <p>With a second click, the plugin automatically recognizes weldable edges. A specialized algorithm identifies weldable joints by analyzing the normals of adjacent faces, focusing on detecting 90° angles. This allows intelligent discrimination between aesthetic edges and structural unions. Note that this is an optional feature – you can always manually define welds by directly selecting edges on the model.</p>
+      <div align="center">
+        <a href="https://www.youtube.com/watch?v=BuyjTM-gB38">
+          <img src="https://img.youtube.com/vi/BuyjTM-gB38/maxresdefault.jpg" width="600" alt="Watch Video Tutorial">
+        </a>
+        <br>
+        <a href="https://youtu.be/BuyjTM-gB38"><strong>Welding FreeCAD add-on - Automatic weldable edges recognition</strong></a>
+      </div>
     </td>
   </tr>
 
-<!-- 3. Weld Tree Item -->
-<tr>
+  <!-- 3. Weld Trajectory Generation -->
   <tr>
     <td width="150" align="center" valign="middle">
       <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/Resources/Weld_tree_item.svg" width="90" alt="Weld_tree_item">
@@ -143,11 +153,17 @@ To access all features, you must activate the Workbench:
       <h3>Weld Trajectory Generation</h3>
       <strong>Convert edges to weld paths</strong>
       <p>Converts selected edges into processable welding trajectories, allowing you to create continuous weld beads on the model.</p>
+      <div align="center">
+        <a href="https://youtu.be/QdZxZB9vzDA">
+          <img src="https://img.youtube.com/vi/QdZxZB9vzDA/maxresdefault.jpg" width="450" alt="Weld Projector Video">
+        </a>
+        <br>
+        <a href="https://youtu.be/QdZxZB9vzDA"><strong>FreeCAD - Welding plugin - Define Welds</strong></a>
+      </div>
     </td>
   </tr>
 
-<!-- 4. Intermittent Weld -->
-<tr>
+  <!-- 4. Intermittent Weld -->
   <tr>
     <td width="150" align="center" valign="middle">
       <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/Resources/Intermittent_weld_v2.svg" width="90" alt="Intermittent_weld_v2">
@@ -156,21 +172,16 @@ To access all features, you must activate the Workbench:
       <h3>Intermittent Welding</h3>
       <strong>Create stitch or skip pattern welds</strong>
       <p>Allows you to define the bead length and spacing between segments, generating intermittent welds.</p>
+      <div align="center">
+        <a href="https://youtu.be/negVZ9zN9E8">
+          <img src="https://img.youtube.com/vi/negVZ9zN9E8/maxresdefault.jpg" width="450" alt="FreeCAD Plugin - Define Intermittent welds">
+        </a>
+        <br>
+        <a href="https://youtu.be/negVZ9zN9E8"><strong>FreeCAD Plugin - Define Intermittent welds</strong></a>
+      </div>
     </td>
   </tr>
 
-
-<tr>
-  <td colspan="2" align="center" valign="top">
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=BuyjTM-gB38">
-    <img src="https://img.youtube.com/vi/BuyjTM-gB38/maxresdefault.jpg" width="600" alt="Watch Video Tutorial">
-  </a>
-  <br>
-  <a href="https://youtu.be/BuyjTM-gB38"><strong>Welding FreeCAD add-on - Automatic weldable edges recognition</strong></a>
-</div>
-    </td>
-</tr>
 
 <tr>
   <td width="150" align="center" valign="top">
