@@ -48,7 +48,7 @@ Follow these steps to set up the **MANUFAI** workbench on your system.
 Access the latest version from our portal:
 👉 **[MANUFAI - FreeCAD Plugin](https://www.manufai.com/freecad)**
 
-> **Tutorial Video:** [Sign up and download FreeCAD Plugin](https://www.youtube.com/watch?v=RT1OPsXSJlg)
+> **Tutorial Video:** [Sign up and download FreeCAD Plugin](https://youtu.be/3LZCjwZP4YY)
 
 #### **2. System Requirements**
 *   **FreeCAD:** For optimal performance and full feature compatibility, version `1.1.1` is required.
