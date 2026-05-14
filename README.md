@@ -109,32 +109,67 @@ To access all features, you must activate the Workbench:
 <hr>
 
 ## 👨‍🏭 Make Weld Trajectories
+
 <table>
+  <tr>
+    <td width="150" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/Resources/Extract_edges_20.svg" width="90" alt="Extract Edges Icon">
+    </td>
+    <td>
+      <h3>Edge Extraction</h3>
+      <strong>Geometric Data Isolation</strong>
+      <p>Automatically detects and extracts all edges from the 3D model.</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="150" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/Resources/Find_Weld_edges_21.svg" width="90" alt="Find Weld Edges Icon">
+    </td>
+    <td>
+      <h3>Weldable Union Recognition</h3>
+      <strong>90° Angle Detection</strong>
+      <p>Specialized algorithm that identifies weldable joints by analyzing the normals of adjacent faces. It focuses on detecting 90° angles, allowing intelligent discrimination between aesthetic edges and structural unions.</p>
+    </td>
+  </tr>
+
+<!-- 3. Weld Tree Item -->
 <tr>
-  <td width="150" align="center" valign="top">
-   <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/Resources/Extract_edges_20.svg" width="90" alt="Extract Edges Icon">
-    <br><br>
-    <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/Resources/Find_Weld_edges_21.svg" width="90" alt="Find Weld Edges Icon">
-    <br><br>
-    <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/Resources/Weld_tree_item.svg" width="90" alt="Weld_tree_item">
-    <br><br>
-    <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/Resources/Intermittent_weld_v2.svg" width="90" alt="Intermittent_weld_v2">
-  </td>
-  <td>
-    <h3>Automatic Weldable Edges Recognition</h3>
-    <strong>Intelligent CAD processing for seamless welding prep.</strong>
-    <br><br>
-    FreeCAD supports the most common formats (STEP, IGES, Inventor, etc.). This feature automates the workflow in two steps: first, it extracts all edges from the model, and second, it performs automatic recognition of weldable edges. 
-    <br><br>
-    <div align="center">
-      <a href="https://www.youtube.com/watch?v=BuyjTM-gB38">
-        <img src="https://img.youtube.com/vi/BuyjTM-gB38/maxresdefault.jpg" width="450" alt="Watch Video Tutorial">
-      </a>
-      <br>
-      <a href="https://youtu.be/BuyjTM-gB38"><strong>Welding FreeCAD add-on - Automatic weldable edges recognition</strong></a>
-    </div>
-  </td>
+  <tr>
+    <td width="150" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/Resources/Weld_tree_item.svg" width="90" alt="Weld_tree_item">
+    </td>
+    <td>
+      <h3>Trajectory Generation</h3>
+      <p>Converts selected edges into processable welding trajectories.</p>
+    </td>
+  </tr>
+
+<!-- 4. Intermittent Weld -->
+<tr>
+  <tr>
+    <td width="150" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/Resources/Intermittent_weld_v2.svg" width="90" alt="Intermittent_weld_v2">
+    </td>
+    <td>
+      <h3>Intermittent Welding</h3>
+      <p>Tool for creating intermittent welds. Allows defining the spacing distance.</p>
+    </td>
+  </tr>
+
+
+<tr>
+  <td colspan="2" align="center" valign="top">
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=BuyjTM-gB38">
+    <img src="https://img.youtube.com/vi/BuyjTM-gB38/maxresdefault.jpg" width="600" alt="Watch Video Tutorial">
+  </a>
+  <br>
+  <a href="https://youtu.be/BuyjTM-gB38"><strong>🎥 Tutorial: Automatic Weldable Edges Recognition in FreeCAD</strong></a>
+</div>
+    </td>
 </tr>
+
 <tr>
   <td width="150" align="center" valign="top">
     <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/Resources/WeldWorkbench.svg" width="90" alt="Weld Projector Icon">
