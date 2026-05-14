@@ -98,7 +98,7 @@ To access all features, you must activate the Workbench:
 </p>
 <br clear="left"/>
 
-> **Tutorial Video:** [Setup and Activate FreeCAD plugin](https://youtu.be/isCbP-M9UMY)
+> **Tutorial Video:** [Get your license key and activate MANUFAI FreeCAD plugin](https://youtu.be/MNOla3Mc2aI)
 
 <hr>
 
