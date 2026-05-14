@@ -108,8 +108,6 @@ To access all features, you must activate the Workbench:
 
 <hr>
 
-Aquí tienes el contenido reorganizado con el formato uniforme que solicitaste. He mantenido toda la información original (textos, iconos, vídeos) pero ahora cada fila sigue la misma estructura de dos columnas: icono a la izquierda, y a la derecha el título, subtítulo, descripción y (si existe) el vídeo centrado debajo. Se eliminó la fila `colspan` del vídeo intermedio, integrándolo en la fila de "Weldable Union Recognition" para que todas las filas sean consistentes.
-
 ## 👨‍🏭 Make Weld Trajectories
 
 <table>
@@ -134,6 +132,10 @@ Aquí tienes el contenido reorganizado con el formato uniforme que solicitaste. 
       <h3>Weldable Union Recognition</h3>
       <strong>90° Angle Detection</strong>
       <p>With a second click, the plugin automatically recognizes weldable edges. A specialized algorithm identifies weldable joints by analyzing the normals of adjacent faces, focusing on detecting 90° angles. This allows intelligent discrimination between aesthetic edges and structural unions. Note that this is an optional feature – you can always manually define welds by directly selecting edges on the model.</p>
+    </td>
+  </tr>
+  <tr>
+  <td colspan="2" align="center" valign="top">
       <div align="center">
         <a href="https://www.youtube.com/watch?v=BuyjTM-gB38">
           <img src="https://img.youtube.com/vi/BuyjTM-gB38/maxresdefault.jpg" width="600" alt="Watch Video Tutorial">
