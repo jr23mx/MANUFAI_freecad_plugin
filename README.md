@@ -71,6 +71,8 @@ Access the latest version from our portal:
   <img src="https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/Resources/Toolbar%20Layout.png" alt="Toolbar Layout">
 </p>
 
+[👨‍🏭 MANUFAI Workbench (Required)](https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/README.md#%E2%80%8D-manufai-workbench-required)
+
 ---
 <hr>
 
