@@ -116,6 +116,8 @@ To access all features, you must activate the Workbench:
     <br><br>
     <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/Resources/Find_Weld_edges_21.svg" width="90" alt="Find Weld Edges Icon">
     <br><br>
+    <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/Resources/Weld_tree_item.svg" width="90" alt="Weld_tree_item">
+    <br><br>
     <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/Resources/Intermittent_weld_v2.svg" width="90" alt="Intermittent_weld_v2">
   </td>
   <td>
