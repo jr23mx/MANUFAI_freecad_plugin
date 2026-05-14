@@ -67,15 +67,31 @@ Access the latest version from our portal:
 </div>
 
 <hr>
-<p>
-  <img src="https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/Resources/Toolbar%20Layout.png" alt="Toolbar Layout">
-</p>
 
-[👨‍🏭 MANUFAI Workbench (Required)](https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/README.md#%E2%80%8D-manufai-workbench-required)
-[](https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/README.md#-3-2-1-datum-based-alignment---tools)
-[](https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/README.md#-c3p--wdcurve-tools)
-[](https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/README.md#-robodk--process-automation)
----
+<table width="100%">
+  <tr>
+    <!-- Imagen a la izquierda -->
+    <td width="65%" align="center" valign="middle">
+      <img src="https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/Resources/Toolbar%20Layout.png" alt="Toolbar Layout" style="max-width:100%; height:auto;">
+    </td>
+    <!-- Enlaces a la derecha -->
+    <td width="35%" align="left" valign="middle">
+      <p>
+        <a href="https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/README.md#%E2%80%8D-manufai-workbench-required">👨‍🏭 MANUFAI Workbench (Required)</a>
+      </p>
+      <p>
+        <a href="https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/README.md#-3-2-1-datum-based-alignment---tools">🔨 3-2-1 Datum Based Alignment & Tools</a>
+      </p>
+      <p>
+        <a href="https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/README.md#-c3p--wdcurve-tools">⚡ C3P – WdCurve Tools</a>
+      </p>
+      <p>
+        <a href="https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/README.md#-robodk--process-automation">🤖 RoboDK & Process Automation</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
 <hr>
 
 <div align="center">
