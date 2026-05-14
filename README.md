@@ -118,7 +118,7 @@ To access all features, you must activate the Workbench:
     <td>
       <h3>Edge Extraction</h3>
       <strong>Geometric Data Isolation</strong>
-      <p>Automatically detects and extracts all edges from the 3D model.</p>
+      <p>FreeCAD supports the most common formats (STEP, IGES, Inventor, ...). After importing a CAD model, this feature works with just one click: the "Extract Edges" button automatically detects and extracts all edges from the 3D model. This is the foundational step for filtering raw geometry and preparing it for welding analysis.</p>
     </td>
   </tr>
 
@@ -129,7 +129,7 @@ To access all features, you must activate the Workbench:
     <td>
       <h3>Weldable Union Recognition</h3>
       <strong>90° Angle Detection</strong>
-      <p>Specialized algorithm that identifies weldable joints by analyzing the normals of adjacent faces. It focuses on detecting 90° angles, allowing intelligent discrimination between aesthetic edges and structural unions.</p>
+      <p>With a second click, the plugin automatically recognizes weldable edges. A specialized algorithm identifies weldable joints by analyzing the normals of adjacent faces, focusing on detecting 90° angles. This allows intelligent discrimination between aesthetic edges and structural unions. Note that this is an optional feature – you can always manually define welds by directly selecting edges on the model.</p>
     </td>
   </tr>
 
@@ -140,8 +140,9 @@ To access all features, you must activate the Workbench:
       <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/Resources/Weld_tree_item.svg" width="90" alt="Weld_tree_item">
     </td>
     <td>
-      <h3>Trajectory Generation</h3>
-      <p>Converts selected edges into processable welding trajectories.</p>
+      <h3>Weld Trajectory Generation</h3>
+      <strong>Convert edges to weld paths</strong>
+      <p>Converts selected edges into processable welding trajectories, allowing you to create continuous weld beads on the model.</p>
     </td>
   </tr>
 
@@ -153,7 +154,8 @@ To access all features, you must activate the Workbench:
     </td>
     <td>
       <h3>Intermittent Welding</h3>
-      <p>Tool for creating intermittent welds. Allows defining the spacing distance.</p>
+      <strong>Create stitch or skip pattern welds</strong>
+      <p>Allows you to define the bead length and spacing between segments, generating intermittent welds.</p>
     </td>
   </tr>
 
@@ -165,7 +167,7 @@ To access all features, you must activate the Workbench:
     <img src="https://img.youtube.com/vi/BuyjTM-gB38/maxresdefault.jpg" width="600" alt="Watch Video Tutorial">
   </a>
   <br>
-  <a href="https://youtu.be/BuyjTM-gB38"><strong>🎥 Tutorial: Automatic Weldable Edges Recognition in FreeCAD</strong></a>
+  <a href="https://youtu.be/BuyjTM-gB38"><strong>Welding FreeCAD add-on - Automatic weldable edges recognition</strong></a>
 </div>
     </td>
 </tr>
