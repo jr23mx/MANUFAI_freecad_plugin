@@ -41,8 +41,7 @@ To ensure you can replicate the workflows shown in the demonstrations, **each to
 </div>
 
 <hr>
-### Set up the MANUFAI workbench on your system
-Follow these steps to set up the **MANUFAI** workbench on your system.
+Set up the MANUFAI workbench on your system by following these steps.
 
 #### **1. Official Download**
 Access the latest version from our portal:
