@@ -77,16 +77,16 @@ Access the latest version from our portal:
     <!-- Enlaces a la derecha -->
     <td width="35%" align="left" valign="middle">
       <p>
-        <a href="https://github.com/jr23mx/MANUFAI_freecad_plugin/tree/main/README.md#%E2%80%8D-manufai-workbench-required">👨‍🏭 MANUFAI Workbench (Required)</a>
+        <a href="https://github.com/jr23mx/MANUFAI_freecad_plugin/tree/main#-%E2%80%8D-manufai-workbench-required">👨‍🏭 MANUFAI Workbench (Required)</a>
       </p>
       <p>
         <a href="https://github.com/jr23mx/MANUFAI_freecad_plugin/tree/main#-3-2-1-datum-based-alignment---tools--">🔨 3-2-1 Datum Based Alignment & Tools</a>
       </p>
       <p>
-        <a href="https://github.com/jr23mx/MANUFAI_freecad_plugin/tree/main/README.md#-c3p--wdcurve-tools">⚡ C3P – WdCurve Tools</a>
+        <a href="https://github.com/jr23mx/MANUFAI_freecad_plugin/tree/main#-c3p--wdcurve-tools">⚡ C3P – WdCurve Tools</a>
       </p>
       <p>
-        <a href="https://github.com/jr23mx/MANUFAI_freecad_plugin/tree/main/README.md#-robodk--process-automation">🤖 RoboDK & Process Automation</a>
+        <a href="https://github.com/jr23mx/MANUFAI_freecad_plugin/tree/main#-robodk--process-automation">🤖 RoboDK & Process Automation</a>
       </p>
     </td>
   </tr>
