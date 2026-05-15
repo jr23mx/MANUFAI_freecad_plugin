@@ -149,7 +149,7 @@ Click the **Modifier** button to open the configuration dialog.
 <hr>
 
 <div align="center">
-  <h1> <a href="https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/README.md#-toolbar-layout">👨‍🏭 MANUFAI Workbench (Required)</a></h1>
+  <h1> <a href="https://github.com/jr23mx/MANUFAI_freecad_plugin/tree/main#-toolbar-layout">👨‍🏭 MANUFAI Workbench (Required)</a></h1>
 </div>
 
 <hr>
@@ -486,7 +486,7 @@ Click the **Modifier** button to open the configuration dialog.
 <hr>
 
 <div align="center">
-  <h1><a href="https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/README.md#-toolbar-layout">🔨 3-2-1 Datum Based Alignment  & Tools </a> </h1>
+  <h1><a href="https://github.com/jr23mx/MANUFAI_freecad_plugin/tree/main#-toolbar-layout">🔨 3-2-1 Datum Based Alignment  & Tools </a> </h1>
 </div>
 
 <hr>
@@ -787,7 +787,7 @@ Click the **Modifier** button to open the configuration dialog.
 <hr>
 
 <div align="center">
-  <h1> <a href="https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/README.md#-toolbar-layout">⚡ C3P – WdCurve Tools</a> </h1>
+  <h1> <a href="https://github.com/jr23mx/MANUFAI_freecad_plugin/tree/main#-toolbar-layout">⚡ C3P – WdCurve Tools</a> </h1>
 </div>
 
 <hr>
@@ -928,7 +928,7 @@ Click the **Modifier** button to open the configuration dialog.
 <hr>
 
 <div align="center">
-  <h1><a href="https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/README.md#-toolbar-layout">🤖 RoboDK & Process Automation </a> </h1>
+  <h1><a href="https://github.com/jr23mx/MANUFAI_freecad_plugin/tree/main#-toolbar-layout">🤖 RoboDK & Process Automation </a> </h1>
 </div>
 
 <hr>
