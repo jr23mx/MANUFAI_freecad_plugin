@@ -136,6 +136,7 @@ Click the **Modifier** button to open the configuration dialog.
     <li>Locate the <b>Modifier</b> button in the MANUFAI toolbar.</li>
     <li>Click it to open the <b>Plugin Component Manager</b> dialog. A Setup window will open for modification.</li>
     <li>From the list, <b>check or uncheck</b> the components you wish to show or hide:</li>
+    <br><br>
     <ul>
       <li>🔧 MANUFAI Workbench <i>(required – cannot be disabled)</i></li>
       <li>🔨 3-2-1 Datum Based Alignment Tools</li>
