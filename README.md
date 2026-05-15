@@ -119,7 +119,33 @@ To access all features, you must activate the Workbench:
 <br clear="left"/>
 
 > **Tutorial Video:** [Get your license key and activate MANUFAI FreeCAD plugin](https://youtu.be/MNOla3Mc2aI)
+<hr>
 
+<div align="center">
+  <h1>🛠️ Administrador de Componentes del Plugin</h1>
+</div>
+
+<hr>
+
+After activation, you can customize which toolbars and features are displayed.  
+Click the **Modifier** button to open the configuration dialog.
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/jr23mx/MANUFAI_freecad_plugin/main/Resources/MANUFAI_welding_SVG_V5.svg" width="100" align="left" hspace="30" alt="Modifier Button Icon">
+  <ul>
+    <li>Locate the <b>Modifier</b> button in the MANUFAI toolbar.</li>
+    <li>Click it to open the <b>Plugin Component Manager</b> dialog. A Setup window will open for modification.</li>
+    <li>From the list, <b>check or uncheck</b> the components you wish to show or hide:</li>
+    <ul>
+      <li>🔧 MANUFAI Workbench <i>(required – cannot be disabled)</i></li>
+      <li>🔨 3-2-1 Datum Based Alignment Tools</li>
+      <li>⚡ C3P – WdCurve Tools</li>
+      <li>🤖 RoboDK & Process Automation</li>
+    </ul>
+    <li>Click <code>Install</code> to save the changes. The toolbar will update; you need to restart FreeCAD.</li>
+  </ul>
+</p>
+<br clear="left"/>
 <hr>
 
 <div align="center">
