@@ -149,7 +149,7 @@ Click the **Modifier** button to open the configuration dialog.
 <hr>
 
 <div align="center">
-  <h1>👨‍🏭 MANUFAI Workbench (Required)</h1>
+  <h1 href="https://github.com/jr23mx/MANUFAI_freecad_plugin/blob/main/README.md#-toolbar-layout">👨‍🏭 MANUFAI Workbench (Required)</h1>
 </div>
 
 <hr>
