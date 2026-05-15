@@ -86,7 +86,7 @@ Access the latest version from our portal:
         <a href="https://github.com/jr23mx/MANUFAI_freecad_plugin/tree/main#--c3p--wdcurve-tools-">⚡ C3P – WdCurve Tools</a>
       </p>
       <p>
-        <a href="https://github.com/jr23mx/MANUFAI_freecad_plugin/tree/main#-robodk--process-automation-->🤖 RoboDK & Process Automation</a>
+        <a href="https://github.com/jr23mx/MANUFAI_freecad_plugin/tree/main#-robodk--process-automation--">🤖 RoboDK & Process Automation</a>
       </p>
     </td>
   </tr>
