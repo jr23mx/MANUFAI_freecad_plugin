@@ -122,7 +122,7 @@ To access all features, you must activate the Workbench:
 <hr>
 
 <div align="center">
-  <h1>🛠️ Administrador de Componentes del Plugin</h1>
+  <h1>🛠️ Plugin Component Manager</h1>
 </div>
 
 <hr>
