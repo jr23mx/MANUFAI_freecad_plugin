@@ -954,11 +954,15 @@ Click the **Modifier** button to open the configuration dialog.
       </a>
       <br>
       <a href="https://youtu.be/bNV_s38_P9E"><strong>FreeCAD Plugin - Robotic Cell Modeling for automatic transfer of weld data</strong></a>
+      </a>
+      <br>
       <a href="https://youtu.be/PpmaKM3XEzY">
         <img src="https://img.youtube.com/vi/PpmaKM3XEzY/maxresdefault.jpg" width="450" alt="Weld Data Demo">
       </a>
       <br>
       <a href="https://youtu.be/PpmaKM3XEzY"><strong>FreeCAD to RoboDK welding Modeling and Simulation</strong></a>
+      </a>
+      <br>
       <a href="https://www.youtube.com/watch?v=_DmwPQABFhU">
         <img src="https://img.youtube.com/vi/_DmwPQABFhU/maxresdefault.jpg" width="450" alt="Weld Data Demo">
       </a>
