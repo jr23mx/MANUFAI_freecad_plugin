@@ -949,6 +949,11 @@ Click the **Modifier** button to open the configuration dialog.
     </ul>
     <br>
     <div align="center">
+      <a href="https://youtu.be/bNV_s38_P9E">
+        <img src="https://img.youtube.com/vi/bNV_s38_P9E/maxresdefault.jpg" width="450" alt="Weld Data Demo">
+      </a>
+      <br>
+      <a href="https://youtu.be/bNV_s38_P9E"><strong>FreeCAD Plugin - Robotic Cell Modeling for automatic transfer of weld data</strong></a>
       <a href="https://www.youtube.com/watch?v=_DmwPQABFhU">
         <img src="https://img.youtube.com/vi/_DmwPQABFhU/maxresdefault.jpg" width="450" alt="Weld Data Demo">
       </a>
