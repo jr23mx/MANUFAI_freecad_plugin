@@ -1,0 +1,62 @@
+<svg width="800" height="800" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient gradientTransform="matrix(2.545034170150757,0,0,2.9136040210723877,1.1485419124364853,-29.36380386352539)" id="svg_2" gradientUnits="userSpaceOnUse" y2="23.167" x2="24" y1="6.955" x1="24">
+   <stop stop-color="#006ceb" offset="0"/>
+   <stop stop-color="#003cc2" offset="1"/>
+  </linearGradient>
+  <linearGradient gradientTransform="matrix(2.545034170150757,0,0,2.9136040210723877,1.1485419124364853,-29.36380386352539)" id="svg_1" gradientUnits="userSpaceOnUse" y2="33.821" x2="23.934" y1="19.228" x1="23.934">
+   <stop stop-color="#69a0ff" offset="0"/>
+   <stop stop-color="#2b73fe" offset="1"/>
+  </linearGradient>
+  <linearGradient id="svg_16">
+   <stop stop-color="#000000" offset="0" id="svg_27"/>
+   <stop stop-opacity="0" stop-color="#000000" offset="1" id="svg_26"/>
+  </linearGradient>
+  <!-- Fixed: only one xlink:href -->
+  <linearGradient xlink:href="#svg_20" gradientTransform="matrix(5.5333333015441895,0,0,5.745451927185059,380.43517875671387,-15.700826644897461)" id="svg_8" x1="22.11652" y1="55.71752" x2="17.32855" y2="21.31134" gradientUnits="userSpaceOnUse"/>
+  <linearGradient id="svg_20">
+   <stop stop-color="#3465a4" offset="0" id="svg_22"/>
+   <stop stop-color="#729fcf" offset="1" id="svg_21"/>
+  </linearGradient>
+  <linearGradient href="#svg_17" gradientTransform="matrix(5.5333333015441895,0,0,5.745451927185059,380.43517875671387,-15.700826644897461)" xlink:href="#svg_17" id="svg_10" x1="53.89676" y1="51.17979" x2="47.50223" y2="21.83742" gradientUnits="userSpaceOnUse"/>
+  <linearGradient id="svg_17">
+   <stop stop-color="#204a87" offset="0" id="svg_19"/>
+   <stop stop-color="#3465a4" offset="1" id="svg_18"/>
+  </linearGradient>
+  <!-- Fixed: removed duplicate href/xlink:href, kept only xlink:href -->
+  <radialGradient xlink:href="#svg_16" id="svg_13" cx="1" cy="45" fx="1" fy="45" r="41" gradientTransform="matrix(2.0235087871551514,-6.934219243248663e-8,0,0.8684722185134888,226.5131664276123,-411.3993835449219)" gradientUnits="userSpaceOnUse"/>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_31">
+   <g stroke="null">
+
+    <g text-anchor="none" font-size="none" font-weight="none" font-family="none" stroke-dashoffset="0" stroke-miterlimit="10" fill-rule="nonzero" fill="none">
+     <g stroke="null" transform="translate(0 272) scale(5.33333 5.33333)">
+      <path stroke="null" fill="url(#svg_2)" d="m63.28301,0.97846l-6.45421,-7.3889c-1.43031,-1.63745 -3.37217,-2.55814 -5.39802,-2.55814l-37.55707,0c-2.81226,0 -5.09007,2.60768 -5.09007,5.82721l0,87.40812c0,3.21953 2.27781,5.82721 5.09007,5.82721l96.7113,0c2.81226,0 5.09007,-2.60768 5.09007,-5.82721l0,-75.7537c0,-3.21953 -2.27781,-5.82721 -5.09007,-5.82721l-43.70333,0c-1.34887,0 -2.64429,-0.61477 -3.59868,-1.70737z"/>
+      <path stroke="null" fill="url(#svg_1)" d="m62.22936,37.64908l9.80856,-11.22903c0.23669,-0.27097 0.55991,-0.42539 0.8984,-0.42539l42.2552,0c2.99296,0 5.33948,2.94274 5.06971,6.35457l-4.16368,52.44487c-0.23923,3.00101 -2.43814,5.29985 -5.06971,5.29985l-97.68859,0c-2.59339,0 -4.77194,-2.23182 -5.05953,-5.1833l-4.42836,-45.64452c-0.08399,-0.86243 0.50646,-1.61705 1.26488,-1.61705l57.11311,0z"/>
+     </g>
+    </g>
+   </g>
+   <g stroke="null">
+
+    <metadata stroke="null" id="svg_14">image/svg+xml[triplus]2016-02-26https://www.freecad.org/wiki/index.php?title=ArtworkFreeCADFreeCAD/src/Mod/Part/Gui/Resources/icons/PartWorkbench.svgFreeCAD LGPL2+https://www.gnu.org/copyleft/lesser.html[agryson] Alexander Gryson</metadata>
+    <g stroke="null" id="svg_4">
+     <path fill="url(#svg_13)" id="svg_12" d="m723.50187,303.17176a165.99999,60.32725 0 1 1 -331.99999,0a165.99999,60.32725 0 1 1 331.99999,0z"/>
+     <path stroke="#0b1521" stroke-linejoin="round" stroke-width="2" fill="#729fcf" d="m397.0352,81.97186l188.13334,34.47271l132.8,-45.96362l-166,-22.98181l-154.93334,34.47271z" id="svg_11"/>
+     <path stroke="#0b1521" stroke-linejoin="round" stroke-width="2" fill="url(#svg_10)" d="m717.96854,70.48095l0,206.83627l-132.8,57.45452l0,-218.32717l132.8,-45.96362z" id="svg_9"/>
+     <path stroke="#0b1521" stroke-dashoffset="0" stroke-miterlimit="4" stroke-linejoin="round" stroke-width="2" fill-rule="evenodd" fill="url(#svg_8)" id="svg_7" d="m397.0352,81.97186l188.13334,34.47271l0,218.32717l-188.13334,-34.47271l0,-218.32717z"/>
+     <path stroke="#729fcf" stroke-width="2" fill="none" d="m408.10187,95.92021l0.04797,194.88067l166.04798,30.27164l-0.04814,-194.96398l-166.04781,-30.18833z" id="svg_6"/>
+     <path stroke="#3465a4" stroke-width="2" fill="none" d="m596.30398,124.68257l-0.06784,192.67545l110.67281,-47.69294l0.00199,-183.09238l-110.60696,38.10987z" id="svg_5"/>
+    </g>
+   </g>
+   <g stroke="null">
+    <g stroke="null" stroke-width="0" id="svg_30"/>
+    <g stroke="null" stroke-linejoin="round" stroke-linecap="round" id="svg_29"/>
+    <g stroke="null" id="svg_28">
+     <path stroke="#111" fill="#ffffff" stroke-width="4" d="m544.50187,185.99915l221.94445,67.5l-65.27778,54l78.33333,81l-39.16667,40.5l-78.33333,-81l-52.22222,67.5l-65.27778,-229.5z"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
