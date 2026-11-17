@@ -186,9 +186,7 @@
 <p align="center">
 <a href="#weld-data-to-robodk"><img src="./docs/theme/nav-weld-data-to-robodk.svg" width="24%" alt="Export To .rdk Project"></a>
 <a href="#export-full"><img src="./docs/theme/nav-export-full.svg" width="24%" alt="Export Full"></a>
-<a href="#export-full"><img src="./docs/theme/nav-export-selected.svg" width="24%" alt="Export Selected"></a>
 <a href="#glue-manager"><img src="./docs/theme/nav-glue-manager.svg" width="24%" alt="Glue Manager"></a>
-<br>
 <a href="#drilling-manager"><img src="./docs/theme/nav-drilling-manager.svg" width="24%" alt="Drilling Manager"></a>
 </p>
 
@@ -1236,13 +1234,7 @@
 </p>
 
 <p align="center">
-<strong>Export Full</strong><br>
 <a href="./RoboDK%20%26%20Process%20Automation/Export%20Full/Materials"><img width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Export Full"></a>
-</p>
-
-<p align="center">
-<strong>Export Selected</strong><br>
-<a href="./RoboDK%20%26%20Process%20Automation/Export%20Selected/Materials"><img width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Export Selected"></a>
 </p>
 
 <a name="readme-image-112" href="#readme-image-112"><img src="./docs/theme/LINE.svg" width="100%" alt="78"></a>
