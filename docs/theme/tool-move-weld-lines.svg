@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1120" height="500" viewBox="0 0 1120 500" role="img" aria-labelledby="title description">
+<style id="manufai-theme-styles">
+.manufai-theme-1{stop-color:#FFFFFF}
+.manufai-theme-2{stop-color:#F5F8FC}
+.manufai-theme-3{stroke:#C7D4E3;stroke-opacity:1}
+.manufai-theme-4{fill:#EDF4FD;fill-opacity:1}
+.manufai-theme-5{fill:#E2EEFC;fill-opacity:1;stroke:#BED2E9;stroke-opacity:1}
+.manufai-theme-6{stroke:#D3DFED;stroke-opacity:1}
+.manufai-theme-7{fill:#172B49}
+.manufai-theme-8{fill:#526982}
+.manufai-theme-9{fill:#40536B}
+.manufai-theme-10{fill:#1765B5}
+.manufai-theme-11{fill:#1765B5}
+@media (prefers-color-scheme: dark){
+.manufai-theme-1{stop-color:#0A0E17}
+.manufai-theme-2{stop-color:#142133}
+.manufai-theme-3{stroke:#365171;stroke-opacity:.8}
+.manufai-theme-4{fill:#182A44;fill-opacity:.38}
+.manufai-theme-5{fill:#1E88E5;fill-opacity:.13;stroke:#64B5F6;stroke-opacity:.22}
+.manufai-theme-6{stroke:#7CA3D2;stroke-opacity:.16}
+.manufai-theme-7{fill:#E8F0FE}
+.manufai-theme-8{fill:#8FAFD3}
+.manufai-theme-9{fill:#C0D0E4}
+.manufai-theme-10{fill:#64B5F6}
+.manufai-theme-11{fill:#90CAF9}
+}
+</style><title id="title">Move Weld Lines</title>
+<desc id="description">Move Weld Lines Precision Trajectory Re-positioning. A multi-modal suite designed to reposition welding paths without losing their internal manufacturing data. It provides three specialized workflows to handle any alignment scenario: Smart Projection: Aligns the entire weld line to a target edge by calculating the shortest distance to the path's center, ensuring perfect surface contact while preserving the original shape. Circular Alignment: Specialized for pipes and bosses. It detects circular/arc edges and snaps one or multiple weld lines to them using the first point as a precise anchor. Manual Transformer: A real-time editing panel for fine-tuning. Rotate and translate paths using precision spinboxes (X, Y, Z, Rx, Ry, Rz) with automatic recalculation of lead times and distances.</desc>
+
+<defs>
+  <linearGradient id="panel-bg" x2="1" y2="1">
+    <stop stop-color="#0A0E17" class="manufai-theme-1"/>
+    <stop offset="1" stop-color="#142133" class="manufai-theme-2"/>
+  </linearGradient>
+</defs>
+
+<rect x=".7" y=".7" width="1118.6" height="498.6" rx="18" fill="url(#panel-bg)" stroke="#365171" stroke-opacity=".8" class="manufai-theme-3"/>
+<path d="M20 1H1100Q1119 1 1119 20V120H1V20Q1 1 20 1" fill="#182A44" fill-opacity=".38" class="manufai-theme-4"/>
+<rect x="39" y="30" width="78" height="78" rx="15" fill="#1E88E5" fill-opacity=".13" stroke="#64B5F6" stroke-opacity=".22" class="manufai-theme-5"/>
+
+<svg xmlns="http://www.w3.org/2000/svg" width="52" height="52" viewBox="0 0 799.9999999999999 799.9999999999999" x="52" y="43" preserveAspectRatio="xMidYMid meet">
+  <g>
+    <title>Layer 1</title>
+    <rect stroke="#000" id="icon-svg_1" height="150" width="801" y="325" x="-0.5" fill="#ff0000"/>
+    <path stroke-width="10" stroke="#093f07" id="icon-svg_2" d="m8.75004,265.13353l86.72876,-85.80277l0,42.90138l130.09297,0l0,-128.70415l-43.36436,0l86.72872,-85.80277l86.72872,85.80277l-43.36436,0l0,214.50692l-216.82166,0l0,42.90138l-86.72877,-85.80277l-0.00001,0z" fill="#00ff00"/>
+    <path transform="rotate(180 613.073 617.604)" stroke-width="10" stroke="#143806" id="icon-svg_3" d="m439.61576,703.4067l86.72876,-85.80276l0,42.90138l130.09297,0l0,-128.70415l-43.36436,0l86.72872,-85.80277l86.72871,85.80277l-43.36436,0l0,214.50692l-216.82166,0l0,42.90138l-86.72877,-85.80277l-0.00001,0z" fill="#00ff00"/>
+  </g>
+</svg>
+
+<path d="M1 120H1119" stroke="#7CA3D2" stroke-opacity=".16" class="manufai-theme-6"/>
+
+<text xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="titulo" inkscape:label="Título" xml:space="preserve" style="white-space:pre" x="149" y="57" fill="#E8F0FE" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-7"><tspan x="149" y="57" fill="#E8F0FE" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-7">Move Weld Lines</tspan></text>
+
+<text xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="subtitulo" inkscape:label="Subtítulo" xml:space="preserve" style="white-space:pre" x="149" y="90" fill="#8FAFD3" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-8"><tspan x="149" y="90" fill="#8FAFD3" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-8">Precision Trajectory Re-positioning.</tspan></text>
+
+<text xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="descripcion" inkscape:label="Descripción" xml:space="preserve" style="white-space:pre" x="45" y="163" fill="#C0D0E4" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-9"><tspan x="45" y="163" fill="#C0D0E4" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-9">A multi-modal suite designed to reposition welding paths without losing their internal manufacturing data.</tspan><tspan x="45" y="197" fill="#C0D0E4" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-9">It provides three specialized workflows to handle any alignment scenario:</tspan><tspan x="50" y="241" fill="#64B5F6" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-10"><tspan fill="#64B5F6" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-10">•</tspan> <tspan fill="#E8F0FE" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" font-style="normal" letter-spacing="0" text-anchor="start" x="77" class="manufai-theme-7">Smart Projection:</tspan><tspan fill="#C0D0E4" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-9"> Aligns the entire weld line to a target edge by calculating the shortest distance to</tspan></tspan><tspan x="77" y="275" fill="#C0D0E4" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-9">the path's center, ensuring perfect surface contact while preserving the original shape.</tspan><tspan x="50" y="314" fill="#64B5F6" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-10"><tspan fill="#64B5F6" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-10">•</tspan> <tspan fill="#E8F0FE" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" font-style="normal" letter-spacing="0" text-anchor="start" x="77" class="manufai-theme-7">Circular Alignment:</tspan><tspan fill="#C0D0E4" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-9"> Specialized for pipes and bosses. It detects circular/arc edges and snaps one or</tspan></tspan><tspan x="77" y="348" fill="#C0D0E4" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-9">multiple weld lines to them using the first point as a precise anchor.</tspan><tspan x="50" y="387" fill="#64B5F6" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-10"><tspan fill="#64B5F6" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-10">•</tspan> <tspan fill="#E8F0FE" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" font-style="normal" letter-spacing="0" text-anchor="start" x="77" class="manufai-theme-7">Manual Transformer:</tspan><tspan fill="#C0D0E4" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-9"> A real-time editing panel for fine-tuning. Rotate and translate paths using</tspan></tspan><tspan x="77" y="421" fill="#C0D0E4" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-9"><tspan fill="#C0D0E4" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-9">precision spinboxes (</tspan><tspan fill="#90CAF9" font-family="DejaVu Sans Mono, monospace" font-size="21" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-11"> X, Y, Z, Rx, Ry, Rz</tspan><tspan fill="#C0D0E4" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-9"> ) with automatic recalculation of lead times and</tspan></tspan><tspan x="77" y="455" fill="#C0D0E4" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-9">distances.</tspan></text>
+</svg>

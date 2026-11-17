@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1120" height="432" viewBox="0 0 1120 432" role="img" aria-labelledby="title description">
+<style id="manufai-theme-styles">
+.manufai-theme-1{stop-color:#FFFFFF}
+.manufai-theme-2{stop-color:#F5F8FC}
+.manufai-theme-3{stroke:#C7D4E3;stroke-opacity:1}
+.manufai-theme-4{fill:#EDF4FD;fill-opacity:1}
+.manufai-theme-5{fill:#E2EEFC;fill-opacity:1;stroke:#BED2E9;stroke-opacity:1}
+.manufai-theme-6{stroke:#D3DFED;stroke-opacity:1}
+.manufai-theme-7{fill:#172B49}
+.manufai-theme-8{fill:#526982}
+.manufai-theme-9{fill:#40536B}
+.manufai-theme-10{fill:#1765B5}
+.manufai-theme-11{fill:#1765B5}
+@media (prefers-color-scheme: dark){
+.manufai-theme-1{stop-color:#0A0E17}
+.manufai-theme-2{stop-color:#142133}
+.manufai-theme-3{stroke:#365171;stroke-opacity:.8}
+.manufai-theme-4{fill:#182A44;fill-opacity:.38}
+.manufai-theme-5{fill:#1E88E5;fill-opacity:.13;stroke:#64B5F6;stroke-opacity:.22}
+.manufai-theme-6{stroke:#7CA3D2;stroke-opacity:.16}
+.manufai-theme-7{fill:#E8F0FE}
+.manufai-theme-8{fill:#8FAFD3}
+.manufai-theme-9{fill:#C0D0E4}
+.manufai-theme-10{fill:#64B5F6}
+.manufai-theme-11{fill:#90CAF9}
+}
+</style><title id="title">Reset Position</title>
+<desc id="description">Reset Position Toggle transformation reset and coordinate zeroing A professional utility command designed to quickly clear or restore the transformation matrix (Placement) of selected CAD objects with native "Undo" support. Smart Toggle Logic: If the object is currently placed away from the workspace, clicking the button saves its current position to a hidden property and instantly resets its placement to the absolute origin (0,0,0). If the object is already at the origin, clicking it again automatically restores its previous saved position.</desc>
+
+<defs>
+  <linearGradient id="panel-bg" x2="1" y2="1">
+    <stop stop-color="#0A0E17" class="manufai-theme-1"/>
+    <stop offset="1" stop-color="#142133" class="manufai-theme-2"/>
+  </linearGradient>
+</defs>
+
+<rect x=".7" y=".7" width="1118.6" height="430.6" rx="18" fill="url(#panel-bg)" stroke="#365171" stroke-opacity=".8" class="manufai-theme-3"/>
+<path d="M20 1H1100Q1119 1 1119 20V120H1V20Q1 1 20 1" fill="#182A44" fill-opacity=".38" class="manufai-theme-4"/>
+<rect x="39" y="30" width="78" height="78" rx="15" fill="#1E88E5" fill-opacity=".13" stroke="#64B5F6" stroke-opacity=".22" class="manufai-theme-5"/>
+
+<svg xmlns="http://www.w3.org/2000/svg" width="52" height="52" viewBox="0 0 800 800" x="52" y="43" preserveAspectRatio="xMidYMid meet">
+  <g>
+    <title>Layer 1</title>
+    <g id="icon-svg_6">
+      <g stroke-width="35" stroke="null">
+        <path stroke="#ffff00" d="m208.03117,339.93078c-0.01446,-4.04111 2.17457,-7.85108 5.72402,-9.34448l184.02394,-77.82081a8.75989,9.89269 0 0 1 6.19652,0.02664l183.37035,79.41217c3.80511,2.06223 5.65402,5.78455 5.65402,10.07571l-0.19707,266.90064c0,4.3367 -2.4637,8.02465 -5.8975,9.37627l-181.71241,72.16601c-3.58978,1.43841 -6.0337,1.26827 -9.09391,-0.08249l-182.34394,-77.18066c-3.53728,-1.48738 -5.72402,-5.27673 -5.72402,-9.30409l-0.0312,0l0,-263.39055l0.0312,-0.83434zm367.37831,16.06563l-165.73796,72.33528l0,239.55118l165.55687,-65.74388l0.18109,-246.14258zm-174.63328,-83.29689l-160.22926,67.75885l160.94828,70.14588l158.21143,-69.05032l-158.93046,-68.85441zm-8.75228,395.01322l0,-239.94558l-166.37633,-72.51057l0,242.03272l166.37633,70.42342z" fill-rule="nonzero"/>
+      </g>
+      <path id="icon-svg_2" d="m290.76518,130.78159l110,-90.78159l110,90.78159l-55.00001,0l0,91.21841l-110,0l0,-91.21841l-55.00001,0z" fill="#00ff00"/>
+      <path transform="rotate(120 705.765 667)" stroke-width="99" id="icon-svg_4" d="m595.76518,666.78159l110.00001,-90.78159l110,90.78159l-55.00001,0l0,91.21841l-109.99999,0l0,-91.21841l-55.00001,0z" fill="#0000ff"/>
+      <path transform="rotate(-120 90.7652 666)" stroke-width="99" id="icon-svg_5" d="m-19.23482,665.78159l110.00001,-90.78159l110,90.78159l-55.00001,0l0,91.21841l-109.99999,0l0,-91.21841l-55.00001,0z" fill="#ff0000"/>
+    </g>
+  </g>
+</svg>
+
+<path d="M1 120H1119" stroke="#7CA3D2" stroke-opacity=".16" class="manufai-theme-6"/>
+
+<text xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="titulo" inkscape:label="Título" xml:space="preserve" style="white-space:pre" x="149" y="57" fill="#E8F0FE" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-7"><tspan x="149" y="57" fill="#E8F0FE" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-7">Reset Position</tspan></text>
+
+<text xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="subtitulo" inkscape:label="Subtítulo" xml:space="preserve" style="white-space:pre" x="149" y="90" fill="#8FAFD3" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-8"><tspan x="149" y="90" fill="#8FAFD3" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-8">Toggle transformation reset and coordinate zeroing</tspan></text>
+
+<text xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="descripcion" inkscape:label="Descripción" xml:space="preserve" style="white-space:pre" x="45" y="163" fill="#C0D0E4" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-9"><tspan x="45" y="163" fill="#C0D0E4" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-9">A professional utility command designed to quickly clear or restore the transformation matrix (Placement)</tspan><tspan x="45" y="197" fill="#C0D0E4" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-9">of selected CAD objects with native "Undo" support.</tspan><tspan x="50" y="241" fill="#64B5F6" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-10"><tspan fill="#64B5F6" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-10">•</tspan> <tspan fill="#E8F0FE" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" font-style="normal" letter-spacing="0" text-anchor="start" x="77" class="manufai-theme-7">Smart Toggle Logic:</tspan></tspan><tspan x="77" y="280" fill="#64B5F6" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-10"><tspan fill="#64B5F6" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-10">•</tspan> <tspan fill="#C0D0E4" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" x="104" class="manufai-theme-9">If the object is currently placed away from the workspace, clicking the button saves its current</tspan></tspan><tspan x="104" y="314" fill="#C0D0E4" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-9"><tspan fill="#C0D0E4" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-9">position to a hidden property and instantly resets its placement to the absolute origin</tspan><tspan fill="#90CAF9" font-family="DejaVu Sans Mono, monospace" font-size="21" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-11"> (0,0,0)</tspan><tspan fill="#C0D0E4" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-9"> .</tspan></tspan><tspan x="77" y="353" fill="#64B5F6" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-10"><tspan fill="#64B5F6" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-10">•</tspan> <tspan fill="#C0D0E4" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" x="104" class="manufai-theme-9">If the object is already at the origin, clicking it again automatically restores its previous saved</tspan></tspan><tspan x="104" y="387" fill="#C0D0E4" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-9">position.</tspan></text>
+</svg>

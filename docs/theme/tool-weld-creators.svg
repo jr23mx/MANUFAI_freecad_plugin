@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+     width="1120" height="281" viewBox="0 0 1120 281"
+     role="img" aria-labelledby="title description">
+
+  <title id="title">Weld Creators</title>
+  <desc id="description">This module converts part edges or potentially weldable edges identified in the previous module into welding trajectories. It provides several methods for creating welds.</desc>
+
+  <style>
+    .background-start { stop-color: #FFFFFF; }
+    .background-end { stop-color: #F5F8FC; }
+    .panel { stroke: #C7D4E3; stroke-opacity: 1; }
+    .header { fill: #EDF4FD; fill-opacity: 1; }
+    .icon-background {
+      fill: #E2EEFC;
+      fill-opacity: 1;
+      stroke: #BED2E9;
+      stroke-opacity: 1;
+    }
+    .divider { stroke: #D3DFED; stroke-opacity: 1; }
+    .heading { fill: #172B49; }
+    .subtitle { fill: #526982; }
+    .body { fill: #40536B; }
+
+    @media (prefers-color-scheme: dark) {
+      .background-start { stop-color: #0A0E17; }
+      .background-end { stop-color: #142133; }
+      .panel { stroke: #365171; stroke-opacity: .8; }
+      .header { fill: #182A44; fill-opacity: .38; }
+      .icon-background {
+        fill: #1E88E5;
+        fill-opacity: .13;
+        stroke: #64B5F6;
+        stroke-opacity: .22;
+      }
+      .divider { stroke: #7CA3D2; stroke-opacity: .16; }
+      .heading { fill: #E8F0FE; }
+      .subtitle { fill: #8FAFD3; }
+      .body { fill: #C0D0E4; }
+    }
+  </style>
+
+  <defs>
+    <linearGradient id="panel-bg" x2="1" y2="1">
+      <stop class="background-start" stop-color="#FFFFFF"/>
+      <stop class="background-end" offset="1" stop-color="#F5F8FC"/>
+    </linearGradient>
+  </defs>
+
+  <rect class="panel"
+        x=".7" y=".7" width="1118.6" height="279.6"
+        rx="18" fill="url(#panel-bg)" stroke="#C7D4E3"/>
+
+  <path class="header"
+        d="M20 1H1100Q1119 1 1119 20V120H1V20Q1 1 20 1"
+        fill="#EDF4FD"/>
+
+  <rect class="icon-background"
+        x="39" y="30" width="78" height="78"
+        rx="15" fill="#E2EEFC" stroke="#BED2E9"/>
+
+  <!-- Original Weld Creators icon -->
+  <svg x="52" y="43" width="52" height="52"
+       viewBox="0 0 64 64" preserveAspectRatio="xMidYMid meet">
+    <defs>
+      <style>
+        .cls-1 { fill: #ef4136; }
+        .cls-2 { mask: url(#mask); }
+        .cls-3 { filter: url(#luminosity-invert-noclip); }
+        .cls-4 { fill: #4b4c4d; }
+        .cls-5 { fill: #f1f1f1; }
+        .cls-6 { fill: #4b4c4e; }
+      </style>
+
+      <filter id="icon-luminosity-invert-noclip"
+              x="24.1" y="45.1" width="15.9" height="15.9"
+              color-interpolation-filters="sRGB"
+              filterUnits="userSpaceOnUse">
+        <feColorMatrix result="cm"
+          values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+        <feFlood flood-color="#fff" result="bg"/>
+        <feBlend in="cm" in2="bg"/>
+      </filter>
+
+      <mask id="icon-mask"
+            x="24.1" y="45.1" width="15.9" height="15.9"
+            maskUnits="userSpaceOnUse">
+        <g class="cls-3">
+          <path class="cls-5"
+            d="M32,58.9c-1.9,0-3.7,0-5.6,0-.2,0-.3,0-.3-.3,0-2,0-3.9,0-5.9,0-2.7,2.4-5.2,5.1-5.5,3.1-.4,6.1,1.8,6.5,5.1,0,.5,0,1,0,1.5,0,1.6,0,3.1,0,4.7,0,.3,0,.4-.4.4-1.8,0-3.6,0-5.5,0,0,0,0,0,0,0Z"/>
+        </g>
+      </mask>
+    </defs>
+
+    <g>
+      <path class="cls-1"
+        d="M37.5,3.1c.1,0,.2,0,.3,0,7.5,0,15,0,22.5,0,.5,0,.5,0,.5.6,0,5.4,0,10.9,0,16.3,0,4.8,0,9.5,0,14.3,0,7.4,0,14.9,0,22.3,0,1.3,0,2.7,0,4,0,.3,0,.4-.4.4-6.2,0-12.4,0-18.6,0-.3,0-.4,0-.3-.3,0-.5,0-1.1,0-1.6,0-.3,0-.4.3-.4.4,0,.8,0,1.1,0,5.1,0,10.2,0,15.3,0,.2,0,.3,0,.3-.3,0-8.4,0-16.9,0-25.3,0-9.1,0-18.2,0-27.3,0-.3-.1-.4-.4-.4-6,0-12,0-18.1,0-.3,0-.5,0-.7-.3-.6-.8-1.3-1.4-2-2Z"/>
+
+      <path class="cls-1"
+        d="M26.6,3.1c-.9.6-1.6,1.3-2.2,2.1-.1.1-.2.1-.4.1-1.8,0-3.6,0-5.4,0-4.3,0-8.6,0-13,0-.2,0-.3,0-.2.2,0,.1,0,.2,0,.3,0,8.5,0,17.1,0,25.6,0,8.9,0,17.8,0,26.7,0,.3,0,.4.4.4,5.5,0,10.9,0,16.4,0,.2,0,.3,0,.3.3,0,.5,0,1.1,0,1.6,0,.3,0,.4-.3.3-1.4,0-2.9,0-4.3,0-4.7,0-9.4,0-14.1,0q-.6,0-.6-.6c0-8.3,0-16.7,0-25,0-9.2,0-18.4,0-27.6,0-1.4,0-2.9,0-4.3,0-.3,0-.4.3-.4,7.7,0,15.3,0,23,0,0,0,0,0,.2,0Z"/>
+
+      <g class="cls-2">
+        <path class="cls-4"
+          d="M32,60.9c-2.5,0-5,0-7.5,0-.3,0-.4,0-.4-.4,0-2.5,0-5,0-7.5,0-3.9,2.8-7.2,6.7-7.8,4.5-.7,8.7,2.6,9.1,7.1,0,.3,0,.6,0,.9,0,2.5,0,5,0,7.4,0,.3,0,.3-.3.3-1.9,0-3.8,0-5.6,0-.7,0-1.3,0-2,0h0Z"/>
+      </g>
+
+      <path class="cls-6"
+        d="M24.1,26.5c0-.7,0-1.4,0-2.2,0-1.2,0-2.4,0-3.5.3-3.4,3-6.5,6.4-7.1,3.5-.6,6.2.7,8.2,3.6.8,1.2,1.2,2.6,1.2,4.1,0,1.7,0,3.4,0,5,0,0,0,0,0,.2-.4-.5-.8-1-1.3-1.5,0,0,0,0,0,0-.7-.4-.7-1-.7-1.7,0-1,.1-2.1-.1-3.1-.5-2.3-2.4-4.1-4.8-4.5-3-.4-5.8,1.4-6.5,4.2-.2.7-.2,1.4-.2,2.1,0,.7,0,1.3,0,2,0,.2,0,.4-.2.5-.7.5-1.3,1.2-1.9,1.9Z"/>
+
+      <path class="cls-6"
+        d="M39.9,37c-.6-.7-1.3-1.4-2-2-.1-.1,0-.2,0-.4,0-.8,0-1.7,0-2.5,0-3.1-2.2-5.5-5.2-5.9-3.2-.3-5.9,1.9-6.4,4.8-.2,1.1,0,2.3,0,3.4,0,.3,0,.5-.3.7-.6.5-1.2,1.1-1.7,1.8-.1-.1,0-.2,0-.4,0-1.5,0-3.1,0-4.6,0-4.6,3.8-8.1,8.2-8,3.7.1,6.9,3,7.5,6.6,0,.5.1,1,.1,1.6,0,1.5,0,3,0,4.5,0,0,0,.2,0,.2Z"/>
+
+      <path class="cls-6"
+        d="M24.1,16c0-.2,0-.4,0-.6,0-1.7,0-3.4,0-5.1.2-3.2,2.5-5.9,5.5-6.9,4.5-1.5,9.5,1.4,10.2,6.4,0,.3,0,.7,0,1,0,1.7,0,3.4,0,5.1-.1,0-.2,0-.2-.2-.5-.7-1.1-1.3-1.7-1.8-.1-.1-.1-.2-.1-.4,0-.9,0-1.7,0-2.6,0-3-2.1-5.5-5.1-5.9-3.3-.4-6,1.8-6.5,4.8-.2,1.1,0,2.2,0,3.3,0,.4,0,.7-.4,1-.6.5-1.1,1.1-1.7,1.7Z"/>
+
+      <path class="cls-6"
+        d="M39.8,47.5c-.5-.8-1.2-1.4-1.9-2-.1,0,0-.2,0-.3,0-.9,0-1.8,0-2.7,0-2.9-2.2-5.3-4.9-5.7-3.1-.5-5.9,1.5-6.6,4.3-.2.7-.2,1.3-.2,2,0,.7,0,1.5,0,2.2,0,.1,0,.3-.1.4-.7.6-1.3,1.2-1.9,1.9,0,0,0,0,0,0,0-.1,0-.2,0-.3,0-1.5,0-3.1,0-4.6,0-3.4,1.6-5.8,4.7-7.3,3.6-1.7,8-.3,10,3.1.7,1.2,1.1,2.6,1.1,4,0,1.6,0,3.1,0,4.7,0,.1,0,.2,0,.3,0,0,0,0,0,0Z"/>
+    </g>
+  </svg>
+
+  <path class="divider"
+        d="M1 120H1119"
+        stroke="#D3DFED"/>
+
+  <g font-family="Arial, Helvetica, sans-serif"
+     text-anchor="start">
+
+    <text id="titulo"
+          inkscape:label="Title"
+          class="heading"
+          x="149" y="57"
+          font-size="29" font-weight="700">
+      <tspan x="149" y="57">Weld Creators</tspan>
+    </text>
+
+    <text id="subtitulo"
+          inkscape:label="Subtitle"
+          class="subtitle"
+          x="149" y="90"
+          font-size="20">
+      <tspan x="149" y="90">Trajectory Generation</tspan>
+    </text>
+
+    <text id="descripcion"
+          inkscape:label="Description"
+          class="body"
+          x="45" y="163"
+          font-size="22">
+      <tspan x="45" y="163">This module converts part edges or potentially weldable edges identified in the</tspan>
+      <tspan x="45" y="197">previous module into welding trajectories. It provides several methods for</tspan>
+      <tspan x="45" y="231">creating welds.</tspan>
+    </text>
+
+  </g>
+</svg>

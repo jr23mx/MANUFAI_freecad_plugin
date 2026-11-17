@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1120" height="359" viewBox="0 0 1120 359" role="img" aria-labelledby="title description">
+<style id="manufai-theme-styles">
+.manufai-theme-1{stop-color:#FFFFFF}
+.manufai-theme-2{stop-color:#F5F8FC}
+.manufai-theme-3{stroke:#C7D4E3;stroke-opacity:1}
+.manufai-theme-4{fill:#EDF4FD;fill-opacity:1}
+.manufai-theme-5{fill:#E2EEFC;fill-opacity:1;stroke:#BED2E9;stroke-opacity:1}
+.manufai-theme-6{stroke:#D3DFED;stroke-opacity:1}
+.manufai-theme-7{fill:#172B49}
+.manufai-theme-8{fill:#526982}
+.manufai-theme-9{fill:#40536B}
+.manufai-theme-10{fill:#1765B5}
+@media (prefers-color-scheme: dark){
+.manufai-theme-1{stop-color:#0A0E17}
+.manufai-theme-2{stop-color:#142133}
+.manufai-theme-3{stroke:#365171;stroke-opacity:.8}
+.manufai-theme-4{fill:#182A44;fill-opacity:.38}
+.manufai-theme-5{fill:#1E88E5;fill-opacity:.13;stroke:#64B5F6;stroke-opacity:.22}
+.manufai-theme-6{stroke:#7CA3D2;stroke-opacity:.16}
+.manufai-theme-7{fill:#E8F0FE}
+.manufai-theme-8{fill:#8FAFD3}
+.manufai-theme-9{fill:#C0D0E4}
+.manufai-theme-10{fill:#64B5F6}
+}
+</style><title id="title">Selection Mode (X-Ray &amp; Filter)</title><desc id="description">Selection Mode (X-Ray &amp; Filter) Visual isolation and Selection Lock. A specialized view mode designed for working in complex assemblies. X-Ray Vision: Makes the 3D geometry transparent while keeping weld lines solid and visible. Click-Through Blocker: Selection Filter. Strictly blocks the selection of 3D geometry (faces/bodies), ensuring that clicks only register on weld lines. This prevents accidental selection of the background model.</desc>
+<defs><linearGradient id="panel-bg" x2="1" y2="1"><stop stop-color="#0A0E17" class="manufai-theme-1"/><stop offset="1" stop-color="#142133" class="manufai-theme-2"/></linearGradient></defs>
+<rect x=".7" y=".7" width="1118.6" height="357.6" rx="18" fill="url(#panel-bg)" stroke="#365171" stroke-opacity=".8" class="manufai-theme-3"/>
+<path d="M20 1H1100Q1119 1 1119 20V120H1V20Q1 1 20 1" fill="#182A44" fill-opacity=".38" class="manufai-theme-4"/>
+
+<rect x="39" y="30" width="78" height="78" rx="15" fill="#1E88E5" fill-opacity=".13" stroke="#64B5F6" stroke-opacity=".22" class="manufai-theme-5"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="52" height="52" viewBox="0 0 800 800" x="52" y="43" preserveAspectRatio="xMidYMid meet">
+ <g>
+  <title>Layer 1</title>
+  <path id="icon-svg_2" d="m412.22386,350.55556l-247.22386,97.44444c0.22386,0.55555 -1.77614,166.55555 -1.77614,167.55555c0,1 144,100 144,100c0,0 225,-125 224.77614,-125.55555c0.22386,0.55555 -8.77614,-170.44444 -8.77614,-170.44444c0,0 -111,-69 -111,-69z" stroke-width="5" stroke="#ff0000" fill="#00ffff"/>
+  <path id="icon-svg_4" d="m412.22386,349.55556l4.77614,-201.55556l107,-65l109,67l-1,376l-105,64l-3,-151l-111.77614,-89.44444z" stroke-width="5" stroke="#ff0000" fill="#00ff00"/>
+  <g id="icon-svg_22">
+   <g id="icon-svg_23">
+    <line fill="none" x1="415.50001" y1="146.49996" x2="530.50001" y2="81.5" id="icon-svg_5" stroke-linejoin="undefined" stroke-linecap="undefined" stroke-width="20" stroke="#000"/>
+    <line fill="none" x1="527.50001" y1="217.49996" x2="638.50001" y2="151.5" id="icon-svg_6" stroke-linejoin="undefined" stroke-linecap="undefined" stroke-width="20" stroke="#000"/>
+    <line fill="none" x1="305.50001" y1="718.49998" x2="638.50001" y2="529.5" id="icon-svg_7" stroke-linejoin="undefined" stroke-linecap="undefined" stroke-width="20" stroke="#000"/>
+    <line fill="none" x1="296.5" y1="542.5" x2="528.49999" y2="413.49999" id="icon-svg_8" stroke-linejoin="undefined" stroke-linecap="undefined" stroke-width="20" stroke="#000"/>
+    <line fill="none" x1="161.5" y1="449.5" x2="411.50001" y2="348.5" id="icon-svg_9" stroke-linejoin="undefined" stroke-linecap="undefined" stroke-width="20" stroke="#000"/>
+    <line fill="none" x1="403.49999" y1="346.50002" x2="525.50001" y2="418.49998" id="icon-svg_10" stroke-linejoin="undefined" stroke-linecap="undefined" stroke-width="20" stroke="#000"/>
+    <line fill="none" x1="165.5" y1="451.50002" x2="307.50001" y2="540.50001" id="icon-svg_11" stroke-linejoin="undefined" stroke-linecap="undefined" stroke-width="20" stroke="#000"/>
+    <line fill="none" x1="157.5" y1="613.50002" x2="316.5" y2="718.50001" id="icon-svg_12" stroke-linejoin="undefined" stroke-linecap="undefined" stroke-width="20" stroke="#000"/>
+    <line fill="none" x1="413.5" y1="144.50001" x2="532.50001" y2="213.50001" id="icon-svg_13" stroke-linejoin="undefined" stroke-linecap="undefined" stroke-width="20" stroke="#000"/>
+    <line fill="none" x1="521.5" y1="83.50001" x2="642.50001" y2="153.50001" id="icon-svg_14" stroke-linejoin="undefined" stroke-linecap="undefined" stroke-width="20" stroke="#000"/>
+    <line fill="none" x1="532.49998" y1="584.49999" x2="532.50002" y2="213.5" id="icon-svg_15" stroke-linejoin="undefined" stroke-linecap="undefined" stroke-width="20" stroke="#000"/>
+    <line fill="none" x1="634.25207" y1="537.5" x2="637.50002" y2="144.5" id="icon-svg_16" stroke-linejoin="undefined" stroke-linecap="undefined" stroke-width="20" stroke="#000"/>
+    <line fill="none" x1="415.25207" y1="353.50002" x2="418.50002" y2="139.5" id="icon-svg_17" stroke-linejoin="undefined" stroke-linecap="undefined" stroke-width="20" stroke="#000"/>
+    <line fill="none" x1="162.25207" y1="622.50002" x2="165.50002" y2="441.5" id="icon-svg_18" stroke-linejoin="undefined" stroke-linecap="undefined" stroke-width="20" stroke="#000"/>
+    <line fill="none" x1="302.25207" y1="712.50001" x2="305.50002" y2="536.5" id="icon-svg_19" stroke-linejoin="undefined" stroke-linecap="undefined" stroke-width="20" stroke="#000"/>
+    <line fill="none" stroke-width="20" x1="387.5" y1="356.50002" x2="516.5" y2="427.50002" id="icon-svg_20" stroke-linejoin="undefined" stroke-linecap="undefined" stroke="#ff0000"/>
+    <line fill="none" stroke-width="20" x1="515.50001" y1="607.49996" x2="512.49998" y2="419.49996" id="icon-svg_21" stroke-linejoin="undefined" stroke-linecap="undefined" stroke="#ff0000"/>
+    <path fill="none" stroke="#000" stroke-width="20" opacity="NaN" d="m165.22386,447.55555" id="icon-svg_26"/>
+   </g>
+  </g>
+ </g>
+
+</svg>
+<path d="M1 120H1119" stroke="#7CA3D2" stroke-opacity=".16" class="manufai-theme-6"/>
+<text xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="titulo" inkscape:label="Título" xml:space="preserve" style="white-space:pre" x="149" y="57" fill="#E8F0FE" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-7"><tspan x="149" y="57" fill="#E8F0FE" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-7">Selection Mode (X-Ray &amp; Filter)</tspan></text><text xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="subtitulo" inkscape:label="Subtítulo" xml:space="preserve" style="white-space:pre" x="149" y="90" fill="#8FAFD3" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-8"><tspan x="149" y="90" fill="#8FAFD3" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-8">Visual isolation and Selection Lock.</tspan></text><text xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="descripcion" inkscape:label="Descripción" xml:space="preserve" style="white-space:pre" x="45" y="163" fill="#C0D0E4" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-9"><tspan x="45" y="163" fill="#C0D0E4" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-9">A specialized view mode designed for working in complex assemblies.</tspan><tspan x="50" y="207" fill="#64B5F6" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-10"><tspan fill="#64B5F6" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-10">•</tspan> <tspan fill="#E8F0FE" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" font-style="normal" letter-spacing="0" text-anchor="start" x="77" class="manufai-theme-7">X-Ray Vision:</tspan><tspan fill="#C0D0E4" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-9"> Makes the 3D geometry transparent while keeping weld lines solid and visible.</tspan></tspan><tspan x="50" y="246" fill="#64B5F6" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-10"><tspan fill="#64B5F6" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-10">•</tspan> <tspan fill="#E8F0FE" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" font-style="normal" letter-spacing="0" text-anchor="start" x="77" class="manufai-theme-7">Click-Through Blocker: Selection Filter.</tspan><tspan fill="#C0D0E4" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-9"> Strictly blocks the selection of 3D geometry (faces/bodies),</tspan></tspan><tspan x="77" y="280" fill="#C0D0E4" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-9"><tspan fill="#C0D0E4" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-9">ensuring that clicks</tspan><tspan fill="#E8F0FE" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-7"> only register on weld lines</tspan><tspan fill="#C0D0E4" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-9"> . This prevents accidental selection of the background</tspan></tspan><tspan x="77" y="314" fill="#C0D0E4" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-9">model.</tspan></text></svg>

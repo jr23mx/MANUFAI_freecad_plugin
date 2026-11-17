@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1120" height="403" viewBox="0 0 1120 403" role="img" aria-labelledby="title description">
+<style id="manufai-theme-styles">
+.manufai-theme-1{stop-color:#FFFFFF}
+.manufai-theme-2{stop-color:#F5F8FC}
+.manufai-theme-3{stroke:#C7D4E3;stroke-opacity:1}
+.manufai-theme-4{fill:#EDF4FD;fill-opacity:1}
+.manufai-theme-5{fill:#E2EEFC;fill-opacity:1;stroke:#BED2E9;stroke-opacity:1}
+.manufai-theme-6{stroke:#D3DFED;stroke-opacity:1}
+.manufai-theme-7{fill:#172B49}
+.manufai-theme-8{fill:#526982}
+.manufai-theme-9{fill:#40536B}
+.manufai-theme-10{fill:#1765B5}
+.manufai-theme-11{fill:#1765B5}
+@media (prefers-color-scheme: dark){
+.manufai-theme-1{stop-color:#0A0E17}
+.manufai-theme-2{stop-color:#142133}
+.manufai-theme-3{stroke:#365171;stroke-opacity:.8}
+.manufai-theme-4{fill:#182A44;fill-opacity:.38}
+.manufai-theme-5{fill:#1E88E5;fill-opacity:.13;stroke:#64B5F6;stroke-opacity:.22}
+.manufai-theme-6{stroke:#7CA3D2;stroke-opacity:.16}
+.manufai-theme-7{fill:#E8F0FE}
+.manufai-theme-8{fill:#8FAFD3}
+.manufai-theme-9{fill:#C0D0E4}
+.manufai-theme-10{fill:#90CAF9}
+.manufai-theme-11{fill:#64B5F6}
+}
+</style><title id="title">Export STL</title>
+<desc id="description">Export STL Export selected objects or the complete part to STL format. Converts selected CAD objects or the complete model into an .stl file for use in other applications. Selected Object Export: Allows specific CAD objects to be exported individually. Complete Part Export: Exports the entire part when a full model transfer is required. STL Geometry: Converts the external geometry into a triangulated surface representation. Software Compatibility: Facilitates geometry transfer for visualization, meshing, simulation, or other STL-compatible workflows.</desc>
+
+<defs>
+  <linearGradient id="panel-bg" x2="1" y2="1">
+    <stop stop-color="#0A0E17" class="manufai-theme-1"/>
+    <stop offset="1" stop-color="#142133" class="manufai-theme-2"/>
+  </linearGradient>
+</defs>
+
+<rect x=".7" y=".7" width="1118.6" height="401.6" rx="18" fill="url(#panel-bg)" stroke="#365171" stroke-opacity=".8" class="manufai-theme-3"/>
+<path d="M20 1H1100Q1119 1 1119 20V120H1V20Q1 1 20 1" fill="#182A44" fill-opacity=".38" class="manufai-theme-4"/>
+<rect x="39" y="30" width="78" height="78" rx="15" fill="#1E88E5" fill-opacity=".13" stroke="#64B5F6" stroke-opacity=".22" class="manufai-theme-5"/>
+
+<svg xmlns="http://www.w3.org/2000/svg" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd" viewBox="0 0 500 511.552" x="52" y="43" width="52" height="52" preserveAspectRatio="xMidYMid meet">
+  <path fill-rule="nonzero" d="M117.907 0H319.59c3.925 0 7.439 1.831 9.719 4.672l114.28 123.665c2.206 2.374 3.271 5.402 3.271 8.411l.057 310.001c0 35.423-29.4 64.803-64.804 64.803H117.907c-35.565 0-64.804-29.237-64.804-64.803V64.803C53.103 29.125 82.228 0 117.907 0zm207.589 37.152v52.941c2.397 31.333 23.569 42.982 52.935 43.496l36.155-.042-89.09-96.395zm96.505 121.293l-43.776-.033c-42.59-.686-74.121-21.969-77.533-66.543l-.095-66.953h-182.69c-21.923 0-39.889 17.964-39.889 39.887v381.946c0 21.82 18.071 39.887 39.889 39.887h264.206c21.719 0 39.888-18.152 39.888-39.887V158.445z"/>
+  <path fill="red" d="M28.041 194.606h443.918c15.423 0 28.041 12.637 28.041 28.042v188.536c0 15.405-12.638 28.042-28.041 28.042H28.041C12.639 439.226 0 426.608 0 411.184V222.648c0-15.424 12.619-28.042 28.041-28.042z"/>
+  <path fill="#fff" fill-rule="nonzero" d="M101.788 375.254l5.418-31.926c11.868 2.967 22.541 4.45 32.022 4.45 9.482 0 17.124-.387 22.928-1.16v-9.675l-17.414-1.547c-15.735-1.42-26.539-5.192-32.409-11.319-5.868-6.128-8.803-15.19-8.803-27.185 0-16.512 3.579-27.863 10.739-34.054 7.159-6.192 19.316-9.289 36.472-9.289 17.155 0 32.636 1.613 46.438 4.839l-4.838 30.957c-11.996-1.935-21.606-2.903-28.83-2.903-7.223 0-13.351.324-18.381.968v9.482l13.931 1.353c16.898 1.677 28.572 5.708 35.021 12.094 6.45 6.385 9.675 15.253 9.675 26.604 0 8.127-1.096 14.996-3.29 20.607-2.192 5.612-4.805 9.868-7.835 12.77-3.032 2.903-7.321 5.127-12.868 6.675-5.546 1.549-10.416 2.483-14.608 2.807-4.192.322-9.772.482-16.736.482-16.77 0-32.313-1.677-46.632-5.03zm205.487-87.844h-28.056v89.972h-38.698V287.41h-28.056v-30.958h94.81v30.958zm90.937 89.972h-77.395v-120.93h38.698v89.973h38.697v30.957z"/>
+</svg>
+
+<path d="M1 120H1119" stroke="#7CA3D2" stroke-opacity=".16" class="manufai-theme-6"/>
+
+<text xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="titulo" inkscape:label="Título" xml:space="preserve" style="white-space:pre" x="149" y="57" fill="#E8F0FE" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-7"><tspan x="149" y="57" fill="#E8F0FE" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-7">Export STL</tspan></text>
+
+<text xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="subtitulo" inkscape:label="Subtítulo" xml:space="preserve" style="white-space:pre" x="149" y="90" fill="#8FAFD3" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-8"><tspan x="149" y="90" fill="#8FAFD3" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-8">Export selected objects or the complete part to STL format.</tspan></text>
+
+<text xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="descripcion" inkscape:label="Descripción" xml:space="preserve" style="white-space:pre" x="45" y="163" fill="#C0D0E4" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-9"><tspan x="45" y="163" fill="#C0D0E4" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-9"><tspan fill="#C0D0E4" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-9">Converts selected CAD objects or the complete model into an</tspan><tspan fill="#90CAF9" font-family="DejaVu Sans Mono, monospace" font-size="21" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-10"> .stl</tspan><tspan fill="#C0D0E4" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-9"> file for use in other applications.</tspan></tspan><tspan x="50" y="207" fill="#64B5F6" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-11"><tspan fill="#64B5F6" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-11">•</tspan> <tspan fill="#E8F0FE" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" font-style="normal" letter-spacing="0" text-anchor="start" x="77" class="manufai-theme-7">Selected Object Export:</tspan><tspan fill="#C0D0E4" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-9"> Allows specific CAD objects to be exported individually.</tspan></tspan><tspan x="50" y="246" fill="#64B5F6" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-11"><tspan fill="#64B5F6" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-11">•</tspan> <tspan fill="#E8F0FE" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" font-style="normal" letter-spacing="0" text-anchor="start" x="77" class="manufai-theme-7">Complete Part Export:</tspan><tspan fill="#C0D0E4" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-9"> Exports the entire part when a full model transfer is required.</tspan></tspan><tspan x="50" y="285" fill="#64B5F6" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-11"><tspan fill="#64B5F6" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-11">•</tspan> <tspan fill="#E8F0FE" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" font-style="normal" letter-spacing="0" text-anchor="start" x="77" class="manufai-theme-7">STL Geometry:</tspan><tspan fill="#C0D0E4" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-9"> Converts the external geometry into a triangulated surface representation.</tspan></tspan><tspan x="50" y="324" fill="#64B5F6" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-11"><tspan fill="#64B5F6" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-11">•</tspan> <tspan fill="#E8F0FE" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" font-style="normal" letter-spacing="0" text-anchor="start" x="77" class="manufai-theme-7">Software Compatibility:</tspan><tspan fill="#C0D0E4" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-9"> Facilitates geometry transfer for visualization, meshing, simulation, or other</tspan></tspan><tspan x="77" y="358" fill="#C0D0E4" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-9">STL-compatible workflows.</tspan></text>
+</svg>

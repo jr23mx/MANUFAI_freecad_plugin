@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1120" height="291" viewBox="0 0 1120 291" role="img" aria-labelledby="title description">
+<style id="manufai-theme-styles">
+.manufai-theme-1{stop-color:#FFFFFF}
+.manufai-theme-2{stop-color:#F5F8FC}
+.manufai-theme-3{stroke:#C7D4E3;stroke-opacity:1}
+.manufai-theme-4{fill:#EDF4FD;fill-opacity:1}
+.manufai-theme-5{fill:#E2EEFC;fill-opacity:1;stroke:#BED2E9;stroke-opacity:1}
+.manufai-theme-6{stroke:#D3DFED;stroke-opacity:1}
+.manufai-theme-7{fill:#172B49}
+.manufai-theme-8{fill:#526982}
+.manufai-theme-9{fill:#40536B}
+.manufai-theme-10{fill:#1765B5}
+@media (prefers-color-scheme: dark){
+.manufai-theme-1{stop-color:#0A0E17}
+.manufai-theme-2{stop-color:#142133}
+.manufai-theme-3{stroke:#365171;stroke-opacity:.8}
+.manufai-theme-4{fill:#182A44;fill-opacity:.38}
+.manufai-theme-5{fill:#1E88E5;fill-opacity:.13;stroke:#64B5F6;stroke-opacity:.22}
+.manufai-theme-6{stroke:#7CA3D2;stroke-opacity:.16}
+.manufai-theme-7{fill:#E8F0FE}
+.manufai-theme-8{fill:#8FAFD3}
+.manufai-theme-9{fill:#C0D0E4}
+.manufai-theme-10{fill:#64B5F6}
+}
+</style><title id="title">Datum A</title>
+<desc id="description">Datum A Define the primary reference for the alignment system. Establishes the main reference plane or axis used to begin the 3-2-1 alignment process. Primary Constraint: Locks 3 degrees of freedom. Reference Selection: Can use flat face normals, hole centerlines, or edge pairs.</desc>
+
+<defs>
+  <linearGradient id="panel-bg" x2="1" y2="1">
+    <stop stop-color="#0A0E17" class="manufai-theme-1"/>
+    <stop offset="1" stop-color="#142133" class="manufai-theme-2"/>
+  </linearGradient>
+</defs>
+
+<rect x=".7" y=".7" width="1118.6" height="289.6" rx="18" fill="url(#panel-bg)" stroke="#365171" stroke-opacity=".8" class="manufai-theme-3"/>
+<path d="M20 1H1100Q1119 1 1119 20V120H1V20Q1 1 20 1" fill="#182A44" fill-opacity=".38" class="manufai-theme-4"/>
+<rect x="39" y="30" width="78" height="78" rx="15" fill="#1E88E5" fill-opacity=".13" stroke="#64B5F6" stroke-opacity=".22" class="manufai-theme-5"/>
+
+<svg xmlns="http://www.w3.org/2000/svg" id="icon-Layer_1" version="1.1" viewBox="0 0 500 500" x="52" y="43" width="52" height="52" preserveAspectRatio="xMidYMid meet">
+  <!-- Generator: Adobe Illustrator 29.8.2, SVG Export Plug-In . SVG Version: 2.1.1 Build 3) -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: #cb333b;
+        stroke-width: 12px;
+      }
+
+      .st1 {
+        fill: #cb333b;
+      }
+    </style>
+  </defs>
+  <path class="st1" d="M371.93,257.49H117.45V3.01h254.48v254.48ZM145.12,231.74h202.57V28.52h-202.57v203.22Z"/>
+  <path class="st1" d="M279.2,202.06l-6.58-21.49c-.29-.58-.66-.88-1.1-.88h-53.93c-.44,0-.81.3-1.1.88l-6.36,21.49c-.44,1.46-1.39,2.19-2.85,2.19h-27.84c-.88,0-1.53-.25-1.97-.77-.44-.51-.51-1.28-.22-2.3l47.36-148.21c.44-1.46,1.39-2.19,2.85-2.19h34.42c1.46,0,2.41.73,2.85,2.19l47.36,148.21c.15.29.22.66.22,1.1,0,1.32-.81,1.97-2.42,1.97h-27.84c-1.46,0-2.41-.73-2.85-2.19ZM225.26,155.8h38.59c.88,0,1.17-.44.88-1.32l-19.73-65.12c-.15-.58-.37-.84-.66-.77-.29.07-.51.33-.66.77l-19.29,65.12c-.15.88.14,1.32.88,1.32Z"/>
+  <line class="st0" x1="244.59" y1="242.63" x2="244.59" y2="363.87"/>
+  <path class="st1" d="M332.69,499.73h-176l88-152.68,88,152.68Z"/>
+</svg>
+
+<path d="M1 120H1119" stroke="#7CA3D2" stroke-opacity=".16" class="manufai-theme-6"/>
+
+<text xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="titulo" inkscape:label="Título" xml:space="preserve" style="white-space:pre" x="149" y="57" fill="#E8F0FE" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-7"><tspan x="149" y="57" fill="#E8F0FE" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-7">Datum A</tspan></text>
+
+<text xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="subtitulo" inkscape:label="Subtítulo" xml:space="preserve" style="white-space:pre" x="149" y="90" fill="#8FAFD3" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-8"><tspan x="149" y="90" fill="#8FAFD3" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-8">Define the primary reference for the alignment system.</tspan></text>
+
+<text xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="descripcion" inkscape:label="Descripción" xml:space="preserve" style="white-space:pre" x="45" y="163" fill="#C0D0E4" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-9"><tspan x="45" y="163" fill="#C0D0E4" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-9">Establishes the main reference plane or axis used to begin the 3-2-1 alignment process.</tspan><tspan x="50" y="207" fill="#64B5F6" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-10"><tspan fill="#64B5F6" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-10">•</tspan> <tspan fill="#E8F0FE" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" font-style="normal" letter-spacing="0" text-anchor="start" x="77" class="manufai-theme-7">Primary Constraint:</tspan><tspan fill="#C0D0E4" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-9"> Locks 3 degrees of freedom.</tspan></tspan><tspan x="50" y="246" fill="#64B5F6" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-10"><tspan fill="#64B5F6" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-10">•</tspan> <tspan fill="#E8F0FE" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" font-style="normal" letter-spacing="0" text-anchor="start" x="77" class="manufai-theme-7">Reference Selection:</tspan><tspan fill="#C0D0E4" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-9"> Can use flat face normals, hole centerlines, or edge pairs.</tspan></tspan></text>
+</svg>

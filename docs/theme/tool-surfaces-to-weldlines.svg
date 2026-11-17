@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+     width="1120" height="281" viewBox="0 0 1120 281"
+     role="img" aria-labelledby="title description">
+
+  <title id="title">Surfaces to WeldLines</title>
+  <desc id="description">Automatically creates weld lines from the selected surfaces. It uses the edges of the parts as guides to place the lines at the joints, following the shape and size of each surface.</desc>
+
+  <style>
+    .background-start { stop-color: #FFFFFF; }
+    .background-end { stop-color: #F5F8FC; }
+    .panel { stroke: #C7D4E3; stroke-opacity: 1; }
+    .header { fill: #EDF4FD; fill-opacity: 1; }
+    .icon-background {
+      fill: #E2EEFC;
+      fill-opacity: 1;
+      stroke: #BED2E9;
+      stroke-opacity: 1;
+    }
+    .divider { stroke: #D3DFED; stroke-opacity: 1; }
+    .heading { fill: #172B49; }
+    .subtitle { fill: #526982; }
+    .body { fill: #40536B; }
+
+    @media (prefers-color-scheme: dark) {
+      .background-start { stop-color: #0A0E17; }
+      .background-end { stop-color: #142133; }
+      .panel { stroke: #365171; stroke-opacity: .8; }
+      .header { fill: #182A44; fill-opacity: .38; }
+      .icon-background {
+        fill: #1E88E5;
+        fill-opacity: .13;
+        stroke: #64B5F6;
+        stroke-opacity: .22;
+      }
+      .divider { stroke: #7CA3D2; stroke-opacity: .16; }
+      .heading { fill: #E8F0FE; }
+      .subtitle { fill: #8FAFD3; }
+      .body { fill: #C0D0E4; }
+    }
+  </style>
+
+  <defs>
+    <linearGradient id="panel-bg" x2="1" y2="1">
+      <stop class="background-start" stop-color="#FFFFFF"/>
+      <stop class="background-end" offset="1" stop-color="#F5F8FC"/>
+    </linearGradient>
+  </defs>
+
+  <rect class="panel"
+        x=".7" y=".7" width="1118.6" height="279.6"
+        rx="18" fill="url(#panel-bg)" stroke="#C7D4E3"/>
+
+  <path class="header"
+        d="M20 1H1100Q1119 1 1119 20V120H1V20Q1 1 20 1"
+        fill="#EDF4FD"/>
+
+  <rect class="icon-background"
+        x="39" y="30" width="78" height="78"
+        rx="15" fill="#E2EEFC" stroke="#BED2E9"/>
+
+  <!-- Attached WeldWorkbench icon, embedded as editable vector shapes. -->
+  <svg x="50" y="41" width="56" height="56" viewBox="0 0 800 800" preserveAspectRatio="xMidYMid meet">
+ <defs>
+  <radialGradient r="0.57243" gradientTransform="rotate(5.999999999999998,0.07421875,0) translate(0,0) scale(1,0.95)" cy="0" cx="0.07422" spreadMethod="pad" id="svg_13">
+   <stop offset="0" stop-opacity="0.99609" stop-color="#ffffff"/>
+   <stop offset="1" stop-opacity="0.99609" stop-color="#007fff"/>
+  </radialGradient>
+  <radialGradient r="0.87965" cy="1" cx="0" spreadMethod="pad" id="svg_15">
+   <stop offset="0" stop-opacity="0.99219" stop-color="#073666"/>
+   <stop offset="1" stop-opacity="0.99609" stop-color="#007fff"/>
+  </radialGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <rect stroke-width="5" stroke="#000" id="svg_10" height="681.99996" width="210" y="55" x="65" fill="url(#svg_13)"/>
+  <rect transform="rotate(90 512.5 632)" stroke-width="5" stroke="#000" id="svg_11" height="470.99997" width="210" y="396.50003" x="407.5001" fill="url(#svg_15)"/>
+  <line stroke="#ff0000" fill="none" stroke-width="40" x1="277" y1="735.00001" x2="277" y2="530" id="svg_3"/>
+  <line stroke="#ff6100" id="svg_1" y2="68.88111" x2="290.08701" y1="511.1888" x1="734.9588" stroke-width="30" fill="none"/>
+  <path transform="rotate(-135 388.539 412.308)" stroke="#007f00" id="svg_5" d="m282.12906,411.98292l106.41028,-135.00384l106.41028,135.00384l-53.20514,0l0,135.65346l-106.41027,0l0,-135.65346l-53.20514,0z" stroke-width="30" fill="#00bf00"/>
+ </g>
+</svg>
+
+  <path class="divider"
+        d="M1 120H1119"
+        stroke="#D3DFED"/>
+
+  <g font-family="Arial, Helvetica, sans-serif"
+     text-anchor="start">
+
+    <text id="titulo"
+          inkscape:label="Title"
+          class="heading"
+          x="149" y="57"
+          font-size="29" font-weight="700">
+      <tspan x="149" y="57">Surfaces to WeldLines</tspan>
+    </text>
+
+    <text id="subtitulo"
+          inkscape:label="Subtitle"
+          class="subtitle"
+          x="149" y="90"
+          font-size="20">
+      <tspan x="149" y="90">Automatic projection</tspan>
+    </text>
+
+    <text id="descripcion"
+          inkscape:label="Description"
+          class="body"
+          x="45" y="163"
+          font-size="22">
+      <tspan x="45" y="163">Automatically creates weld lines from the selected surfaces. It uses the</tspan>
+      <tspan x="45" y="197">edges of the parts as guides to place the lines at the joints, following</tspan>
+      <tspan x="45" y="231">the shape and size of each surface.</tspan>
+    </text>
+
+  </g>
+</svg>
+
