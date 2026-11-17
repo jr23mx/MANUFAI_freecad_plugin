@@ -23,7 +23,7 @@
 <a name="readme-image-006" href="#readme-image-006"><img src="./docs/theme/installation.svg" width="100%" alt="Download &amp; installation"></a>
 
 <p align="center">
-<a href="https://www.manufai.com/freecad"><img src="./docs/theme/open-download.svg" width="280" alt="Download plugin"></a> <a href="https://youtu.be/3LZCjwZW4YY"><img src="./docs/theme/installation-tutorial.svg" width="280" alt="Installation tutorial"></a>
+<a href="https://www.manufai.com/freecad"><img src="./docs/theme/open-download.svg" width="280" alt="Download plugin"></a> <a href="https://youtu.be/3LZCjwZP4YY"><img src="./docs/theme/installation-tutorial.svg" width="280" alt="Installation tutorial"></a>
 </p>
 
 <a name="readme-image-007" href="#readme-image-007"><img src="./docs/theme/double.svg" width="100%" alt="78"></a>
