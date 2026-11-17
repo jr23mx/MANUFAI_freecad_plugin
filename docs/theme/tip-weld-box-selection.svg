@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+     width="1120" height="281" viewBox="0 0 1120 281"
+     role="img" aria-labelledby="title description">
+
+  <title id="title">Quick tip: Weld box selection</title>
+  <desc id="description">Hold Shift and left-click in the 3D view to start box selection. Draw a box around the welds you want. CAD parts are ignored. Normal selection returns when you finish. Press Esc to cancel.</desc>
+
+  <style>
+    .background-start { stop-color: #FFFFFF; }
+    .background-end { stop-color: #F5F8FC; }
+    .panel { stroke: #C7D4E3; stroke-opacity: 1; }
+    .header { fill: #EDF4FD; fill-opacity: 1; }
+    .icon-background {
+      fill: #E2EEFC;
+      fill-opacity: 1;
+      stroke: #BED2E9;
+      stroke-opacity: 1;
+    }
+    .divider { stroke: #D3DFED; stroke-opacity: 1; }
+    .heading { fill: #172B49; }
+    .subtitle { fill: #526982; }
+    .body { fill: #40536B; }
+
+
+    @media (prefers-color-scheme: dark) {
+      .background-start { stop-color: #0A0E17; }
+      .background-end { stop-color: #142133; }
+      .panel { stroke: #365171; stroke-opacity: .8; }
+      .header { fill: #182A44; fill-opacity: .38; }
+      .icon-background {
+        fill: #1E88E5;
+        fill-opacity: .13;
+        stroke: #64B5F6;
+        stroke-opacity: .22;
+      }
+      .divider { stroke: #7CA3D2; stroke-opacity: .16; }
+      .heading { fill: #E8F0FE; }
+      .subtitle { fill: #8FAFD3; }
+      .body { fill: #C0D0E4; }
+
+
+    }
+  </style>
+
+  <defs>
+    <linearGradient id="panel-bg" x2="1" y2="1">
+      <stop class="background-start" stop-color="#FFFFFF"/>
+      <stop class="background-end" offset="1" stop-color="#F5F8FC"/>
+    </linearGradient>
+  </defs>
+
+  <rect class="panel"
+        x=".7" y=".7" width="1118.6" height="279.6"
+        rx="18" fill="url(#panel-bg)" stroke="#C7D4E3"/>
+
+  <path class="header"
+        d="M20 1H1100Q1119 1 1119 20V120H1V20Q1 1 20 1"
+        fill="#EDF4FD"/>
+
+  <rect class="icon-background"
+        x="39" y="30" width="78" height="78"
+        rx="15" fill="#E2EEFC" stroke="#BED2E9"/>
+
+  <!-- Original Std_BoxSelection icon, embedded as editable vector shapes. -->
+  <svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="56"
+   height="56"
+   id="svg2980"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="view-select.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.1" x="50" y="41" viewBox="0 0 64 64" preserveAspectRatio="xMidYMid meet">
+  <defs
+     id="defs2982">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3765">
+      <stop
+         style="stop-color:#d3d7cf;stop-opacity:1;"
+         offset="0"
+         id="stop3767" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1"
+         id="stop3769" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3864">
+      <stop
+         id="stop3866"
+         offset="0"
+         style="stop-color:#71b2f8;stop-opacity:1;" />
+      <stop
+         id="stop3868"
+         offset="1"
+         style="stop-color:#002795;stop-opacity:1;" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 32 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="64 : 32 : 1"
+       inkscape:persp3d-origin="32 : 21.333333 : 1"
+       id="perspective2988" />
+    <inkscape:perspective
+       id="perspective2872"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2902"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2902-9"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3765"
+       id="linearGradient3771"
+       x1="35"
+       y1="51"
+       x2="31"
+       y2="18"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3765"
+       id="linearGradient3000"
+       gradientUnits="userSpaceOnUse"
+       x1="35"
+       y1="51"
+       x2="31"
+       y2="18" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.5"
+     inkscape:cx="65.659551"
+     inkscape:cy="24.566255"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:document-units="px"
+     inkscape:grid-bbox="true"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2991"
+       empspacing="2"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata2985">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <path
+       style="fill:none;stroke:#204a87;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6, 12;stroke-dashoffset:6"
+       d="M 5,5 59,5 59,59 5,59 z"
+       id="rect3002"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#729fcf;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6, 12;stroke-dashoffset:6"
+       d="M 5,5 59,5 59,59 5,59 z"
+       id="rect3002-3" />
+    <g
+       id="g2996"
+       transform="matrix(-1,0,0,1,64,0)">
+      <path
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="path3761"
+         d="M 7,49 15,57 35,37 41,49 57,7 15,23 27,29 z"
+         style="fill:url(#linearGradient3000);fill-opacity:1;stroke:#2e3436;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="path3763"
+         d="M 9.8181818,49 30.363636,28.363636 20,23.272727 53.545455,10.454545 40.727273,44 35.636364,33.636364 15,54.181818 z"
+         style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+  </g>
+</svg>
+
+  <path class="divider"
+        d="M1 120H1119"
+        stroke="#D3DFED"/>
+
+  <g font-family="Arial, Helvetica, sans-serif"
+     text-anchor="start">
+
+    <text id="titulo"
+          inkscape:label="Title"
+          class="heading"
+          x="149" y="57"
+          font-size="29" font-weight="700">
+      <tspan x="149" y="57">Weld box selection</tspan>
+    </text>
+
+    <text id="subtitulo"
+          inkscape:label="Subtitle"
+          class="subtitle"
+          x="149" y="90"
+          font-size="20">
+      <tspan x="149" y="90">Quick tip</tspan>
+    </text>
+
+    <text id="descripcion"
+          inkscape:label="Description"
+          class="body"
+          x="45" y="163"
+          font-size="22">
+      <tspan x="45" y="163">Hold Shift and left-click in the 3D view to start box selection.</tspan>
+      <tspan x="45" y="197">Draw a box around the welds you want. CAD parts are ignored.</tspan>
+      <tspan x="45" y="231">Normal selection returns when you finish. Press Esc to cancel.</tspan>
+    </text>
+
+  </g>
+</svg>
+

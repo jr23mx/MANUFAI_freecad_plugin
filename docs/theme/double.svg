@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 12">
+  <style id="manufai-theme-styles">
+.manufai-theme-1{stroke:#1765B5}
+@media (prefers-color-scheme: dark){
+.manufai-theme-1{stroke:#64B5F6}
+}
+</style><path d="M0 3H1120 M0 9H1120" fill="none" stroke="#64B5F6" stroke-width="2" class="manufai-theme-1"/>
+</svg>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="420" height="88" viewBox="0 0 420 88" role="img" aria-labelledby="title description">
+<style id="manufai-theme-styles">
+.manufai-theme-1{fill:#F5F8FC;stroke:#C7D4E3;stroke-opacity:1}
+.manufai-theme-2{fill:#1765B5}
+.manufai-theme-3{fill:#254B73}
+@media (prefers-color-scheme: dark){
+.manufai-theme-1{fill:#101E32;stroke:#365171;stroke-opacity:initial}
+.manufai-theme-2{fill:#418fde}
+.manufai-theme-3{fill:#C5E1FC}
+}
+</style><title id="title">Datum B</title><desc id="description">Datum B</desc>
+<rect x=".7" y=".7" width="418.6" height="86.6" rx="13" fill="#101E32" stroke="#365171" class="manufai-theme-1"/><svg xmlns="http://www.w3.org/2000/svg" id="icon-Layer_1" version="1.1" viewBox="0 0 500 500" x="20" y="22" width="42" height="42" preserveAspectRatio="xMidYMid meet">
+  <!-- Generator: Adobe Illustrator 29.8.2, SVG Export Plug-In . SVG Version: 2.1.1 Build 3)  -->
+  <defs>
+    <style>
+      .st0 {
+        font-family: Barlow-Bold, Barlow;
+        font-size: 220px;
+        font-weight: 700;
+      }
+
+      .st0, .st1 {
+        fill: #418fde;
+      }
+
+      .st2 {
+        fill: none;
+        stroke: #418fde;
+        stroke-width: 12px;
+      }
+    </style>
+  </defs>
+  <path class="st1" d="M377.24,256.12H122.76V1.64h254.48v254.48ZM150.43,230.37h202.57V27.15h-202.57v203.22Z"/>
+  <line class="st2" x1="249.9" y1="241.26" x2="249.91" y2="362.5"/>
+  <path class="st1" d="M338.01,498.36h-176l88-152.68,88,152.68Z"/>
+  </svg><text xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="icono" inkscape:label="Letra del icono" xml:space="preserve" style="white-space:pre" x="35.41568" y="39.35608" fill="#418fde" font-family="Barlow-Bold, Barlow" font-size="18.48" font-weight="700" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-2"><tspan x="35.41568" y="39.35608" fill="#418fde" font-family="Barlow-Bold, Barlow" font-size="18.48" font-weight="700" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-2">B</tspan></text><text xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="titulo" inkscape:label="Título" xml:space="preserve" style="white-space:pre" x="81" y="51" fill="#C5E1FC" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-3"><tspan x="81" y="51" fill="#C5E1FC" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-3">Datum B</tspan></text></svg>

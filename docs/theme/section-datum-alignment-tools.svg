@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="113" role="img" aria-labelledby="title description">
+ <style id="manufai-theme-styles">
+.manufai-theme-1{fill:#F4F8FD;stroke:#C7D4E3;stroke-opacity:1}
+.manufai-theme-2{fill:#1765B5}
+@media (prefers-color-scheme: dark){
+.manufai-theme-1{fill:#0E192A;stroke:#365171;stroke-opacity:initial}
+.manufai-theme-2{fill:#64b5f6}
+}
+</style><title id="title">MANUFAI Workbench</title>
+
+ <desc id="description">Core welding tools · Required component</desc>
+ <g>
+  <title>Layer 1</title>
+  <rect x="0.7" y="0.7" width="1118.6" height="111.6" rx="16" fill="#0E192A" stroke="#365171" id="svg_1" class="manufai-theme-1"/>
+  <text style="cursor: move;" transform="matrix(1 0 0 1 0 0)" fill="#64b5f6" stroke="null" x="18.7934" y="74.27778" id="svg_7" stroke-width="0" font-size="52" font-family="Arial, Helvetica, sans-serif" text-anchor="start" xml:space="preserve" font-weight="bold" class="manufai-theme-2">3-2-1 DATUM BASED ALIGNMENT &amp; TOOLS</text>
+ </g>
+</svg>

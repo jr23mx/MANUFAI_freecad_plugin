@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="420" height="88" viewBox="0 0 420 88" role="img" aria-labelledby="title description">
+<style id="manufai-theme-styles">
+.manufai-theme-1{fill:#F5F8FC;stroke:#C7D4E3;stroke-opacity:1}
+.manufai-theme-2{fill:#254B73}
+@media (prefers-color-scheme: dark){
+.manufai-theme-1{fill:#101E32;stroke:#365171;stroke-opacity:initial}
+.manufai-theme-2{fill:#C5E1FC}
+}
+</style><title id="title">Create Center Point</title><desc id="description">Create Center Point</desc>
+<rect x=".7" y=".7" width="418.6" height="86.6" rx="13" fill="#101E32" stroke="#365171" class="manufai-theme-1"/><svg xmlns="http://www.w3.org/2000/svg" id="icon-Layer_1" version="1.1" viewBox="0 0 500 500" x="20" y="22" width="42" height="42" preserveAspectRatio="xMidYMid meet">
+  <!-- Generator: Adobe Illustrator 29.8.2, SVG Export Plug-In . SVG Version: 2.1.1 Build 3)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #873e35;
+      }
+    </style>
+  </defs>
+  <path class="st0" d="M449.29,394.88c-4.06-1.7-8.74-.77-11.83,2.35l-30.71,30.72-69.53-69.53c25.34-30.93,31.6-73.3,16.31-110.24-15.3-36.94-49.68-62.48-89.46-66.45v-98.27h43.43c4.39,0,8.35-2.65,10.03-6.7,1.68-4.06.75-8.73-2.35-11.83l-54.29-54.29c-2.04-2.04-4.8-3.18-7.68-3.18s-5.64,1.14-7.68,3.18l-54.29,54.29c-3.11,3.1-4.03,7.77-2.35,11.83s5.64,6.7,10.03,6.7h43.43v98.27c-39.79,3.97-74.17,29.5-89.46,66.45s-9.03,79.31,16.31,110.24l-69.53,69.53-30.71-30.72c-3.1-3.11-7.77-4.03-11.83-2.35-4.06,1.68-6.7,5.64-6.7,10.03v76.77c0,2.88,1.14,5.64,3.18,7.68,2.04,2.04,4.8,3.18,7.68,3.18h76.77c4.39,0,8.35-2.65,10.03-6.7s.75-8.73-2.35-11.83l-30.71-30.71,69.53-69.53c39.92,32.74,97.4,32.74,137.32,0l69.53,69.53-30.71,30.71c-3.11,3.1-4.03,7.77-2.35,11.83,1.68,4.06,5.64,6.7,10.03,6.7h76.77c2.88,0,5.64-1.14,7.68-3.18,2.04-2.04,3.18-4.8,3.18-7.68v-76.77c0-4.39-2.64-8.35-6.7-10.03h0ZM340.06,289.75c0,19.27-6.46,37.99-18.33,53.18l-57.67-57.67v-81.61c43.38,5.5,75.93,42.37,76,86.1ZM225.13,61.75l28.08-28.08,28.08,28.08h-56.15ZM166.35,289.75c.07-43.73,32.62-80.6,76-86.1v81.61l-57.67,57.67c-11.88-15.18-18.33-33.9-18.33-53.18h0ZM72.13,470.82v-39.71l19.85,19.86,19.85,19.85h-39.7ZM253.2,376.61c-19.27,0-37.99-6.46-53.17-18.33l53.17-53.18,53.17,53.18c-15.18,11.87-33.9,18.33-53.17,18.33h0ZM434.28,470.82h-39.7l19.85-19.85,19.85-19.86v39.71Z"/>
+</svg><text xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="titulo" inkscape:label="Título" xml:space="preserve" style="white-space:pre" x="81" y="51" fill="#C5E1FC" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-2"><tspan x="81" y="51" fill="#C5E1FC" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-2">Create Center Point</tspan></text></svg>

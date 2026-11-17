@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="98" viewBox="0 0 1120 98" role="img" aria-labelledby="title description">
+<style id="manufai-theme-styles">
+.manufai-theme-1{fill:#F4F8FD;stroke:#C7D4E3;stroke-opacity:1}
+.manufai-theme-2{fill:#172B49}
+@media (prefers-color-scheme: dark){
+.manufai-theme-1{fill:#0E192A;stroke:#365171;stroke-opacity:initial}
+.manufai-theme-2{fill:#E8F0FE}
+}
+</style><title id="title">WEIGHT</title><desc id="description">WEIGHT</desc>
+<rect x=".7" y=".7" width="1118.6" height="96.6" rx="16" fill="#0E192A" stroke="#365171" class="manufai-theme-1"/>
+<text id="titulo" xml:space="preserve" style="white-space:pre" x="560" y="65" fill="#E8F0FE" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" font-style="normal" letter-spacing="0" text-anchor="middle" class="manufai-theme-2"><tspan x="560" y="65" fill="#E8F0FE" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" font-style="normal" letter-spacing="0" text-anchor="middle" class="manufai-theme-2">WEIGHT</tspan></text>
+</svg>

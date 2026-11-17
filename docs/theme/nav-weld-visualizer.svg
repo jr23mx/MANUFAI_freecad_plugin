@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="420" height="88" viewBox="0 0 420 88" role="img" aria-labelledby="title description">
+<style id="manufai-theme-styles">
+.manufai-theme-1{fill:#F5F8FC;stroke:#C7D4E3;stroke-opacity:1}
+.manufai-theme-2{fill:#254B73}
+@media (prefers-color-scheme: dark){
+.manufai-theme-1{fill:#101E32;stroke:#365171;stroke-opacity:initial}
+.manufai-theme-2{fill:#C5E1FC}
+}
+</style><title id="title">Show Weld Sphere</title><desc id="description">Show Weld Sphere</desc>
+<rect x=".7" y=".7" width="418.6" height="86.6" rx="13" fill="#101E32" stroke="#365171" class="manufai-theme-1"/><svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" viewBox="0 0 800 800" x="20" y="22" preserveAspectRatio="xMidYMid meet">
+ <defs>
+  <filter height="200%" width="200%" y="-50%" x="-50%" id="icon-svg_5_blur">
+   <feGaussianBlur stdDeviation="10" in="SourceGraphic"/>
+  </filter>
+  <filter height="200%" width="200%" y="-50%" x="-50%" id="icon-svg_10_blur">
+   <feGaussianBlur stdDeviation="10" in="SourceGraphic"/>
+  </filter>
+  <filter height="200%" width="200%" y="-50%" x="-50%" id="icon-svg_14_blur">
+   <feGaussianBlur stdDeviation="10" in="SourceGraphic"/>
+  </filter>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <ellipse opacity="0.75" stroke="#000" ry="180" rx="180" id="icon-svg_1" cy="607.5" cx="191.99999" fill="#ff0000"/>
+  <ellipse opacity="0.75" stroke="#000" ry="180" rx="180" id="icon-svg_2" cy="384.5" cx="393.99999" fill="#ff0000"/>
+  <ellipse opacity="0.75" stroke="#000" ry="180" rx="180" id="icon-svg_3" cy="187.5" cx="610.99999" fill="#ff0000"/>
+  <rect transform="rotate(-45 401.328 398.328)" stroke="#000" id="icon-svg_4" height="35.24138" width="1093.39906" y="380.70689" x="-145.37195" fill="#ff2216"/>
+  <ellipse opacity="0.75" stroke="#000" filter="url(#icon-svg_5_blur)" stroke-width="0" ry="70" rx="65" id="icon-svg_5" cy="578" cx="95.5" fill="#ff7c75"/>
+  <ellipse opacity="0.75" filter="url(#icon-svg_5_blur)" stroke-width="0" ry="70" rx="63.5" id="icon-svg_6" cy="356" cx="303.5" stroke="#000" fill="#ff7c75"/>
+  <path id="icon-svg_9" d="m353,638" opacity="NaN" stroke-width="0" stroke="#000" fill="#ff7c75"/>
+  <path filter="url(#icon-svg_10_blur)" id="icon-svg_10" d="m301,745c0,0 17,-67 17,-67c0,0 7,-36 7,-36c0,0 -2,-28 -2,-30c0,-2 -3,-28 -3,-28c0,0 1,-28 1,-28c0,0 42,10 42,10c0,0 6,24 6,26c0,2 0,19 0,19c0,0 -4,32 -4,32c0,0 2,10 0,12c-2,2 -9,22 -11,25c-2,3 -10,18 -12,21c-2,3 -14,20 -15,21c-1,1 -7,6 -7,6" opacity="0.75" stroke-width="0" stroke="#000" fill="#602926"/>
+  <path transform="rotate(5.49612 516.309 454.482)" stroke="#000" filter="url(#icon-svg_10_blur)" id="icon-svg_11" d="m472.10732,562.08608c0,0 22.10101,-76.29098 22.10101,-76.29098c0,0 9.10041,-40.99217 9.10041,-40.99217c0,0 -2.60012,-31.8828 -2.60012,-34.16014c0,-2.27734 -3.90018,-31.8828 -3.90018,-31.8828c0,0 1.30006,-31.8828 1.30006,-31.8828c0,0 54.60249,11.38671 54.60249,11.38671c0,0 7.80036,27.32811 7.80036,29.60545c0,2.27734 0,21.63475 0,21.63475c0,0 -5.20024,36.43748 -5.20024,36.43748c0,0 2.60012,11.38671 0,13.66406c-2.60012,2.27734 -11.70053,25.05077 -14.30065,28.46678c-2.60012,3.41601 -13.00059,20.49608 -15.60071,23.9121c-2.60012,3.41601 -18.20083,22.77343 -19.50089,23.9121c-1.30006,1.13867 -9.10041,6.83203 -9.10041,6.83203" opacity="0.75" stroke-width="0" fill="#602926"/>
+  <ellipse filter="url(#icon-svg_5_blur)" stroke-width="0" ry="70" rx="63.5" id="icon-svg_12" cy="139" cx="529.5" stroke="#000" fill="#ff7c75"/>
+  <path stroke="#000" filter="url(#icon-svg_14_blur)" id="icon-svg_14" d="m676.92857,327c0,0 34.43878,-52 34.43878,-52c0,0 8.26531,-68 8.26531,-68c0,0 5.5102,-75 5.5102,-75c0,0 1.37755,-31 1.37755,-31c0,0 -6.88776,-25 -6.88776,-25c0,0 44.08163,45 44.08163,45c0,0 11.02041,29 11.02041,29c0,0 8.26531,36 8.26531,36c0,0 -1.37755,29 -1.37755,29c0,0 -1.37755,23 -1.37755,23c0,0 -17.90816,33 -17.90816,35c0,2 -31.68367,39 -31.68367,40c0,1 -28.92857,12 -28.92857,12c0,0 -53.72449,24 -53.72449,24" opacity="0.75" stroke-width="0" fill="#602926"/>
+ </g>
+</svg><text xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="titulo" inkscape:label="Título" xml:space="preserve" style="white-space:pre" x="81" y="51" fill="#C5E1FC" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-2"><tspan x="81" y="51" fill="#C5E1FC" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-2">Show Weld Sphere</tspan></text></svg>

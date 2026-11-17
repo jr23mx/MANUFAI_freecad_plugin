@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1120" height="281" viewBox="0 0 1120 281"
+     role="img" aria-labelledby="title description">
+  <title id="title">Quick tip: Light and dark themes</title>
+  <desc id="description">MANUFAI - FreeCAD Plugin automatically follows FreeCAD's light or dark theme. Change the theme in FreeCAD, then restart the application to apply the change to the plugin.</desc>
+
+  <style>
+    .background-start { stop-color: #FFFFFF; }
+    .background-end { stop-color: #F5F8FC; }
+    .panel { stroke: #C7D4E3; stroke-opacity: 1; }
+    .header { fill: #EDF4FD; fill-opacity: 1; }
+    .icon-background {
+      fill: #E2EEFC;
+      fill-opacity: 1;
+      stroke: #BED2E9;
+      stroke-opacity: 1;
+    }
+    .divider { stroke: #D3DFED; stroke-opacity: 1; }
+    .heading { fill: #172B49; }
+    .subtitle { fill: #526982; }
+    .body { fill: #40536B; }
+
+
+    @media (prefers-color-scheme: dark) {
+      .background-start { stop-color: #0A0E17; }
+      .background-end { stop-color: #142133; }
+      .panel { stroke: #365171; stroke-opacity: .8; }
+      .header { fill: #182A44; fill-opacity: .38; }
+      .icon-background {
+        fill: #1E88E5;
+        fill-opacity: .13;
+        stroke: #64B5F6;
+        stroke-opacity: .22;
+      }
+      .divider { stroke: #7CA3D2; stroke-opacity: .16; }
+      .heading { fill: #E8F0FE; }
+      .subtitle { fill: #8FAFD3; }
+      .body { fill: #C0D0E4; }
+
+
+    }
+  </style>
+
+  <defs>
+    <linearGradient id="panel-bg" x2="1" y2="1">
+      <stop class="background-start" stop-color="#FFFFFF"/>
+      <stop class="background-end" offset="1" stop-color="#F5F8FC"/>
+    </linearGradient>
+  </defs>
+
+  <rect class="panel" x=".7" y=".7" width="1118.6" height="279.6"
+        rx="18" fill="url(#panel-bg)" stroke="#C7D4E3"/>
+  <path class="header" d="M20 1H1100Q1119 1 1119 20V120H1V20Q1 1 20 1"
+        fill="#EDF4FD"/>
+  <rect class="icon-background" x="39" y="30" width="78" height="78"
+        rx="15" fill="#E2EEFC" stroke="#BED2E9"/>
+
+  <!-- Sun and moon: editable vector shapes with no external assets. -->
+  <g transform="translate(50 41)" stroke-linecap="round" stroke-linejoin="round">
+    <g fill="none" stroke="#D58B14" stroke-width="2.4">
+      <path d="M19 2v4M19 32v4M2 19h4M32 19h4
+               M7 7l3 3M28 28l3 3M7 31l3-3M28 10l3-3"/>
+      <circle cx="19" cy="19" r="8" fill="#FFD66B"/>
+    </g>
+    <path d="M49 23a17 17 0 1 1-23 23A17 17 0 0 0 49 23Z"
+          fill="#729FCF" stroke="#204A87" stroke-width="2.1"/>
+    <path d="M46 8v6M43 11h6M53 17v4M51 19h4"
+          fill="none" stroke="#527EB4" stroke-width="1.8"/>
+  </g>
+
+  <path class="divider" d="M1 120H1119" stroke="#D3DFED"/>
+
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="start">
+    <text id="heading" class="heading" x="149" y="57"
+          font-size="29" font-weight="700">Light and dark themes</text>
+    <text id="subtitle" class="subtitle" x="149" y="90"
+          font-size="20">Quick tip</text>
+    <text id="body" class="body" x="45" y="163" font-size="22">
+      <tspan x="45" y="163">MANUFAI - FreeCAD Plugin automatically follows FreeCAD's light or dark theme.</tspan>
+      <tspan x="45" y="197">Change the theme in FreeCAD, then restart the application</tspan>
+      <tspan x="45" y="231">to apply the change to the plugin.</tspan>
+    </text>
+  </g>
+</svg>
+

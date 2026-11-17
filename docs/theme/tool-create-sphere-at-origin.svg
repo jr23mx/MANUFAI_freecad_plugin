@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1120" height="281" viewBox="0 0 1120 281" role="img" aria-labelledby="title description">
+<style id="manufai-theme-styles">
+.manufai-theme-1{stop-color:#FFFFFF}
+.manufai-theme-2{stop-color:#F5F8FC}
+.manufai-theme-3{stroke:#C7D4E3;stroke-opacity:1}
+.manufai-theme-4{fill:#EDF4FD;fill-opacity:1}
+.manufai-theme-5{fill:#E2EEFC;fill-opacity:1;stroke:#BED2E9;stroke-opacity:1}
+.manufai-theme-6{stroke:#D3DFED;stroke-opacity:1}
+.manufai-theme-7{fill:#172B49}
+.manufai-theme-8{fill:#526982}
+.manufai-theme-9{fill:#40536B}
+@media (prefers-color-scheme: dark){
+.manufai-theme-1{stop-color:#0A0E17}
+.manufai-theme-2{stop-color:#142133}
+.manufai-theme-3{stroke:#365171;stroke-opacity:.8}
+.manufai-theme-4{fill:#182A44;fill-opacity:.38}
+.manufai-theme-5{fill:#1E88E5;fill-opacity:.13;stroke:#64B5F6;stroke-opacity:.22}
+.manufai-theme-6{stroke:#7CA3D2;stroke-opacity:.16}
+.manufai-theme-7{fill:#E8F0FE}
+.manufai-theme-8{fill:#8FAFD3}
+.manufai-theme-9{fill:#C0D0E4}
+}
+</style><title id="title">Create Sphere at Origin</title>
+<desc id="description">Create Sphere at Origin Generates a visual reference at the Global Origin (0,0,0). It places a reference sphere at the absolute zero of the workspace. This provides an immediate visual check to determine the offset distance of imported models relative to the workspace center before starting any alignment procedures.</desc>
+
+<defs>
+  <linearGradient id="panel-bg" x2="1" y2="1">
+    <stop stop-color="#0A0E17" class="manufai-theme-1"/>
+    <stop offset="1" stop-color="#142133" class="manufai-theme-2"/>
+  </linearGradient>
+</defs>
+
+<rect x=".7" y=".7" width="1118.6" height="279.6" rx="18" fill="url(#panel-bg)" stroke="#365171" stroke-opacity=".8" class="manufai-theme-3"/>
+<path d="M20 1H1100Q1119 1 1119 20V120H1V20Q1 1 20 1" fill="#182A44" fill-opacity=".38" class="manufai-theme-4"/>
+<rect x="39" y="30" width="78" height="78" rx="15" fill="#1E88E5" fill-opacity=".13" stroke="#64B5F6" stroke-opacity=".22" class="manufai-theme-5"/>
+
+<svg xmlns="http://www.w3.org/2000/svg" id="icon-Layer_1" version="1.1" viewBox="0 0 500 500" x="52" y="43" width="52" height="52" preserveAspectRatio="xMidYMid meet">
+  <!-- Generator: Adobe Illustrator 29.8.2, SVG Export Plug-In . SVG Version: 2.1.1 Build 3) -->
+  <defs>
+    <style>
+      .st0, .st1 {
+        fill: #507282;
+      }
+
+      .st1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path class="st1" d="M251.04,145.18c16.9,0,30.6,13.7,30.6,30.6s-13.7,30.6-30.6,30.6c-16.9,0-30.6-13.7-30.6-30.6s13.7-30.6,30.6-30.6Z"/>
+  <polygon class="st0" points="389.93 183.91 289.77 183.91 289.77 167.66 389.93 167.66 389.93 183.91"/>
+  <polygon class="st0" points="112.16 167.66 212.32 167.66 212.32 183.91 112.16 183.91 112.16 167.66"/>
+  <polygon class="st0" points="259.17 36.9 259.17 137.06 242.92 137.06 242.92 36.9 259.17 36.9"/>
+  <polygon class="st1" points="387.47 302.02 259.17 352.31 259.17 488.73 387.47 438.44 387.47 302.02"/>
+  <polygon class="st1" points="375.48 297.99 251.04 256.21 126.61 297.99 251.04 346.76 375.48 297.99"/>
+  <path class="st1" d="M251.04,491.92v-136.43l-136.43-53.47v136.43l136.43,53.48ZM231.43,368.87v94.29l-97.2-38.1v-94.29l97.2,38.1h0Z"/>
+  <path class="st0" d="M257.88,11.81l32.57,40.74.03-.03c2.8,3.5,2.23,8.62-1.27,11.42-1.5,1.2-3.29,1.78-5.07,1.78h0s-33.09,0-33.09,0h-33.09c-7.25,0-10.77-8.73-5.81-13.8l32.58-40.76c-.47-.42,5.78-5.79,11.39-1.3.71.57,1.3,1.23,1.76,1.95h0Z"/>
+  <path class="st0" d="M87.07,168.95l40.74-32.57-.03-.03c3.5-2.8,8.62-2.23,11.42,1.27,1.2,1.5,1.78,3.29,1.78,5.07h0v66.18c0,7.25-8.73,10.77-13.8,5.81l-40.76-32.58c-.42.47-5.79-5.78-1.3-11.39.57-.71,1.23-1.3,1.95-1.76h0Z"/>
+  <path class="st0" d="M415.02,168.95l-40.74-32.57.03-.03c-3.5-2.8-8.62-2.23-11.42,1.27-1.2,1.5-1.78,3.29-1.78,5.07h0v66.18c0,7.25,8.73,10.77,13.8,5.81l40.76-32.58c.42.47,5.79-5.78,1.3-11.39-.57-.71-1.23-1.3-1.95-1.76h0Z"/>
+</svg>
+
+<path d="M1 120H1119" stroke="#7CA3D2" stroke-opacity=".16" class="manufai-theme-6"/>
+
+<text xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="titulo" inkscape:label="Título" xml:space="preserve" style="white-space:pre" x="149" y="57" fill="#E8F0FE" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-7"><tspan x="149" y="57" fill="#E8F0FE" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-7">Create Sphere at Origin</tspan></text>
+
+<text xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="subtitulo" inkscape:label="Subtítulo" xml:space="preserve" style="white-space:pre" x="149" y="90" fill="#8FAFD3" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-8"><tspan x="149" y="90" fill="#8FAFD3" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-8">Generates a visual reference at the Global Origin (0,0,0).</tspan></text>
+
+<text xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="descripcion" inkscape:label="Descripción" xml:space="preserve" style="white-space:pre" x="45" y="163" fill="#C0D0E4" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-9"><tspan x="45" y="163" fill="#C0D0E4" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-9">It places a reference sphere at the absolute zero of the workspace. This provides an immediate visual</tspan><tspan x="45" y="197" fill="#C0D0E4" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-9">check to determine the offset distance of imported models relative to the workspace center before starting</tspan><tspan x="45" y="231" fill="#C0D0E4" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-9">any alignment procedures.</tspan></text>
+</svg>

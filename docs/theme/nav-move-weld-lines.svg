@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="420" height="88" viewBox="0 0 420 88" role="img" aria-labelledby="title description">
+<style id="manufai-theme-styles">
+.manufai-theme-1{fill:#F5F8FC;stroke:#C7D4E3;stroke-opacity:1}
+.manufai-theme-2{fill:#254B73}
+@media (prefers-color-scheme: dark){
+.manufai-theme-1{fill:#101E32;stroke:#365171;stroke-opacity:initial}
+.manufai-theme-2{fill:#C5E1FC}
+}
+</style><title id="title">Move Weld Lines</title><desc id="description">Move Weld Lines</desc>
+<rect x=".7" y=".7" width="418.6" height="86.6" rx="13" fill="#101E32" stroke="#365171" class="manufai-theme-1"/><svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" viewBox="0 0 799.9999999999999 799.9999999999999" x="20" y="22" preserveAspectRatio="xMidYMid meet">
+
+ <g>
+  <title>Layer 1</title>
+  <rect stroke="#000" id="icon-svg_1" height="150" width="801" y="325" x="-0.5" fill="#ff0000"/>
+  <path stroke-width="10" stroke="#093f07" id="icon-svg_2" d="m8.75004,265.13353l86.72876,-85.80277l0,42.90138l130.09297,0l0,-128.70415l-43.36436,0l86.72872,-85.80277l86.72872,85.80277l-43.36436,0l0,214.50692l-216.82166,0l0,42.90138l-86.72877,-85.80277l-0.00001,0z" fill="#00ff00"/>
+  <path transform="rotate(180 613.073 617.604)" stroke-width="10" stroke="#143806" id="icon-svg_3" d="m439.61576,703.4067l86.72876,-85.80276l0,42.90138l130.09297,0l0,-128.70415l-43.36436,0l86.72872,-85.80277l86.72871,85.80277l-43.36436,0l0,214.50692l-216.82166,0l0,42.90138l-86.72877,-85.80277l-0.00001,0z" fill="#00ff00"/>
+ </g>
+</svg><text xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="titulo" inkscape:label="Título" xml:space="preserve" style="white-space:pre" x="81" y="51" fill="#C5E1FC" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-2"><tspan x="81" y="51" fill="#C5E1FC" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-2">Move Weld Lines</tspan></text></svg>

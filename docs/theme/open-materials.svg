@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="420" height="88" viewBox="0 0 420 88" role="img" aria-labelledby="title description">
+<style id="manufai-theme-styles">
+.manufai-theme-1{fill:#F5F8FC;stroke:#C7D4E3;stroke-opacity:1}
+.manufai-theme-2{fill:#E2EEFC;fill-opacity:1}
+.manufai-theme-3{stroke:#1765B5}
+.manufai-theme-4{fill:#254B73}
+@media (prefers-color-scheme: dark){
+.manufai-theme-1{fill:#101E32;stroke:#365171;stroke-opacity:initial}
+.manufai-theme-2{fill:#1E88E5;fill-opacity:.2}
+.manufai-theme-3{stroke:#64B5F6}
+.manufai-theme-4{fill:#C5E1FC}
+}
+</style><title id="title">Test files &amp; output</title><desc id="description">Test files &amp; output</desc>
+<rect x=".7" y=".7" width="418.6" height="86.6" rx="13" fill="#101E32" stroke="#365171" class="manufai-theme-1"/><rect x="18" y="23" width="42" height="42" rx="10" fill="#1E88E5" fill-opacity=".2" class="manufai-theme-2"/><path d="M27 38h10l4 5h13v14H27zM27 38v-5h13l4 5" stroke="#64B5F6" stroke-width="1.8" fill="none" class="manufai-theme-3"/><text xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="titulo" inkscape:label="Título" xml:space="preserve" style="white-space:pre" x="78" y="51" fill="#C5E1FC" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-4"><tspan x="78" y="51" fill="#C5E1FC" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-4">Test files &amp; output</tspan></text></svg>

@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1120" height="514" viewBox="0 0 1120 514" role="img" aria-labelledby="title description">
+<style id="manufai-theme-styles">
+.manufai-theme-1{stop-color:#FFFFFF}
+.manufai-theme-2{stop-color:#F5F8FC}
+.manufai-theme-3{stroke:#C7D4E3;stroke-opacity:1}
+.manufai-theme-4{fill:#EDF4FD;fill-opacity:1}
+.manufai-theme-5{fill:#E2EEFC;fill-opacity:1;stroke:#BED2E9;stroke-opacity:1}
+.manufai-theme-6{stroke:#D3DFED;stroke-opacity:1}
+.manufai-theme-7{fill:#172B49}
+.manufai-theme-8{fill:#40536B}
+.manufai-theme-9{fill:#1765B5}
+.manufai-theme-10{fill:#1765B5}
+@media (prefers-color-scheme: dark){
+.manufai-theme-1{stop-color:#0A0E17}
+.manufai-theme-2{stop-color:#142133}
+.manufai-theme-3{stroke:#365171;stroke-opacity:.8}
+.manufai-theme-4{fill:#182A44;fill-opacity:.38}
+.manufai-theme-5{fill:#1E88E5;fill-opacity:.13;stroke:#64B5F6;stroke-opacity:.22}
+.manufai-theme-6{stroke:#7CA3D2;stroke-opacity:.16}
+.manufai-theme-7{fill:#E8F0FE}
+.manufai-theme-8{fill:#C0D0E4}
+.manufai-theme-9{fill:#64B5F6}
+.manufai-theme-10{fill:#90CAF9}
+}
+</style><title id="title">Plugin Component Manager</title><desc id="description">Plugin Component Manager  ModifierOpen the Plugin Component Manager to choose which toolbars and features are displayed. Click the Modifier button in the MANUFAI toolbar. The Plugin Component Manager setup window opens. Check or uncheck the components you want to show or hide. Click Install to save the changes, then restart FreeCAD. MANUFAI Workbench — required; cannot be disabled. 3-2-1 Datum Based Alignment Tools. C3P – WdCurve Tools. RoboDK &amp; Process Automation.</desc>
+<defs><linearGradient id="panel-bg" x2="1" y2="1"><stop stop-color="#0A0E17" class="manufai-theme-1"/><stop offset="1" stop-color="#142133" class="manufai-theme-2"/></linearGradient></defs>
+<rect x=".7" y=".7" width="1118.6" height="512.6" rx="18" fill="url(#panel-bg)" stroke="#365171" stroke-opacity=".8" class="manufai-theme-3"/>
+<path d="M20 1H1100Q1119 1 1119 20V114H1V20Q1 1 20 1" fill="#182A44" fill-opacity=".38" class="manufai-theme-4"/>
+<rect x="39" y="30" width="78" height="78" rx="15" fill="#1E88E5" fill-opacity=".13" stroke="#64B5F6" stroke-opacity=".22" class="manufai-theme-5"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="icon-Icon_Name" data-name="Icon Name" viewBox="0 0 16 16" x="52" y="43" width="52" height="52" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #bcbec0;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #58595b;
+      }
+
+      .cls-3 {
+        fill: #f15a29;
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient);
+        stroke-width: .2px;
+      }
+
+      .cls-5, .cls-6 {
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-6 {
+        stroke-width: .1px;
+      }
+
+      .cls-6, .cls-4 {
+        fill: #231f20;
+      }
+    </style>
+    <linearGradient id="icon-linear-gradient" x1="10.43" y1="7.57" x2="10.36" y2="5.76" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000"/>
+      <stop offset=".88" stop-color="#ff933f" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <circle class="cls-1" cx="8" cy="8.01" r="7.75"/>
+  <path class="cls-4" d="M9.01,2.98s-.49-.02-1.1.12c-.3-.07-.6-.12-.91-.12-2.22,0-4.03,1.77-4.12,3.98h-.02s0,.05,0,.13c0,0,0,.02,0,.03,0,.02,0,.03,0,.05.01.34.06,1.03.24,1.35h.02c.24.66.62,1.26,1.16,1.73.08.07.15.13.23.19.09.06.21.05.27-.04.07-.09.05-.21-.04-.28-.07-.05-.14-.11-.21-.17-.45-.39-.79-.89-1.01-1.43h.67c.21.42.51.8.89,1.09.02.02.05.03.08.03.04,0,.08-.02.1-.05.04-.06.03-.14-.02-.18-.31-.24-.56-.55-.74-.89h1.65s.77,2.95,1.84,3.81c0,0,1.96,1.07,3.84,0v-6.7s-.21-2.39-2.84-2.64ZM4.17,6.96c.02-.45.14-.9.36-1.29.05.02.1.04.16.04.17,0,.32-.11.37-.28h.69c0,.13-.02.26-.01.41,0,0,0,.03,0,.09-.21,0-.38.17-.38.38,0,.1.04.2.11.27.07.07.17.11.27.11.02,0,.04,0,.05-.01.01.09.03.19.05.28h-1.68ZM5.75,4.01c-.21,0-.39.17-.39.38s.17.39.39.39c.05,0,.09-.01.13-.03-.05.14-.08.29-.1.44h-.72c-.05-.15-.2-.26-.36-.26-.1,0-.2.04-.27.11-.07.07-.11.17-.11.27,0,.06.01.11.04.16-.27.45-.42.95-.45,1.48h-.62c.08-1.99,1.72-3.59,3.73-3.59.04,0,.07,0,.11,0-.39.19-.75.47-1,.88-.05-.15-.19-.26-.36-.26Z"/>
+  <path class="cls-2" d="M11.51,6.69v5.36c-1.69.98-3.44-.1-3.44-.1-.96-.79-1.54-3.52-1.54-3.52l-.28-1.52c-.1-.46-.12-.96-.12-.96-.13-2.78,2.85-2.63,2.85-2.63,2.36.23,2.55,2.44,2.55,2.44v.94Z"/>
+  <path class="cls-1" d="M5.87,7.27l-2.58.03s-.04.51.18.91l2.64-.05"/>
+  <g>
+    <path class="cls-6" d="M6.37,9.38c-.05,0-.1.03-.11.08l-.12.37s-.04.01-.06.02l-.35-.17s-.1-.01-.14.02l-.34.34s-.04.09-.02.14l.17.35s-.02.04-.02.06l-.37.12s-.08.06-.08.11v.48c0,.05.03.1.08.11l.37.12s.02.04.02.06l-.17.35s-.01.1.02.14l.34.34s.09.05.14.02l.35-.17s.04.02.06.02l.12.37s.06.08.11.08h.48c.05,0,.1-.03.11-.08l.12-.37s.04-.01.06-.02l.35.17s.1.01.14-.02l.34-.34s.05-.09.02-.14l-.17-.35s.02-.04.02-.06l.37-.12s.08-.06.08-.11v-.48c0-.05-.03-.1-.08-.11l-.37-.12s-.01-.04-.02-.06l.17-.35s.01-.1-.02-.14l-.34-.34s-.09-.05-.14-.02l-.35.17s-.04-.02-.06-.02l-.12-.37s-.06-.08-.11-.08h-.48Z"/>
+    <path class="cls-1" d="M6.13,10.09s.09-.04.14-.06c.04-.01.06-.04.08-.08l.11-.34h.31l.11.34s.04.06.07.08c.05.01.09.03.14.06.03.02.07.02.11,0l.32-.16.22.22-.16.32s-.02.07,0,.11c.02.05.04.09.06.14.01.04.04.06.08.08l.34.11v.31l-.34.11s-.06.04-.08.08c-.01.05-.03.09-.06.14-.02.04-.02.07,0,.11l.16.32-.22.22-.32-.16s-.07-.02-.11,0c-.05.02-.09.04-.14.06-.03.01-.06.04-.08.08l-.11.34h-.31l-.11-.34s-.04-.06-.08-.08c-.05-.01-.09-.03-.14-.06-.03-.02-.07-.02-.11,0l-.32.16-.22-.22.16-.32s.02-.07,0-.11c-.02-.05-.04-.09-.06-.14-.01-.04-.04-.06-.07-.08l-.34-.11v-.31l.34-.11s.06-.04.07-.08c.02-.05.03-.09.06-.14.02-.03.02-.07,0-.11l-.16-.32.22-.22.32.16s.03.01.05.01c.02,0,.04,0,.05-.01"/>
+    <path class="cls-4" d="M6.01,11.05c0,.33.27.6.6.6s.6-.27.6-.6-.27-.6-.6-.6-.6.27-.6.6"/>
+    <path class="cls-1" d="M6.25,11.05c0-.2.16-.36.36-.36s.36.16.36.36-.16.36-.36.36-.36-.16-.36-.36"/>
+  </g>
+  <polygon class="cls-5" points="9.64 7.27 11.51 7.27 11.51 5.99 9.23 5.99 9.64 7.27"/>
+  <path class="cls-3" d="M15.75,6.88l-.83.04.04-.83-.56.61-.55-.62.04.83-.83-.04.61.56-.62.55.83-.04-.04.83.36-.39c-.16,2.64-1.99,4.99-4.69,5.66-3.34.83-6.72-1.2-7.55-4.54S3.17,2.78,6.5,1.96c2.74-.68,5.5.57,6.86,2.87l.43-.11c-1.44-2.54-4.43-3.92-7.4-3.19C2.83,2.42.65,6.04,1.54,9.61s4.5,5.75,8.07,4.86c2.89-.72,4.84-3.22,5.02-6.05l.33.36-.04-.83.83.04-.61-.56.62-.55Z"/>
+</svg>
+<path d="M1 114H1119" stroke="#7CA3D2" stroke-opacity=".16" class="manufai-theme-6"/>
+<text xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="titulo" inkscape:label="Título" xml:space="preserve" style="white-space:pre" x="149" y="57" fill="#E8F0FE" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-7"><tspan x="149" y="57" fill="#E8F0FE" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-7">Plugin Component Manager</tspan></text><text xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="descripcion" inkscape:label="Descripción" xml:space="preserve" style="white-space:pre" x="45" y="157" fill="#E8F0FE" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-7"><tspan x="45" y="157" fill="#E8F0FE" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-7"><tspan fill="#E8F0FE" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-7">Modifier</tspan><tspan fill="#C0D0E4" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-8"> Open the Plugin Component Manager to choose which toolbars and features are displayed.</tspan></tspan><tspan x="50" y="201" fill="#64B5F6" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-9"><tspan fill="#64B5F6" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-9">1.</tspan> <tspan fill="#C0D0E4" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" x="77" class="manufai-theme-8">Click the</tspan><tspan fill="#E8F0FE" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-7"> Modifier</tspan><tspan fill="#C0D0E4" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-8"> button in the MANUFAI toolbar. The Plugin Component Manager setup window</tspan></tspan><tspan x="77" y="235" fill="#C0D0E4" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-8">opens.</tspan><tspan x="50" y="274" fill="#64B5F6" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-9"><tspan fill="#64B5F6" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-9">2.</tspan> <tspan fill="#C0D0E4" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" x="77" class="manufai-theme-8">Check or uncheck the components you want to show or hide.</tspan></tspan><tspan x="50" y="313" fill="#64B5F6" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-9"><tspan fill="#64B5F6" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-9">3.</tspan> <tspan fill="#C0D0E4" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" x="77" class="manufai-theme-8">Click</tspan><tspan fill="#90CAF9" font-family="DejaVu Sans Mono, monospace" font-size="21" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-10"> Install</tspan><tspan fill="#C0D0E4" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-8"> to save the changes, then restart FreeCAD.</tspan></tspan><tspan x="50" y="352" fill="#64B5F6" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-9"><tspan fill="#64B5F6" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-9">•</tspan> <tspan fill="#E8F0FE" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" font-style="normal" letter-spacing="0" text-anchor="start" x="77" class="manufai-theme-7">MANUFAI Workbench</tspan><tspan fill="#C0D0E4" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-8"> — required; cannot be disabled.</tspan></tspan><tspan x="50" y="391" fill="#64B5F6" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-9"><tspan fill="#64B5F6" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-9">•</tspan> <tspan fill="#C0D0E4" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" x="77" class="manufai-theme-8">3-2-1 Datum Based Alignment Tools.</tspan></tspan><tspan x="50" y="430" fill="#64B5F6" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-9"><tspan fill="#64B5F6" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-9">•</tspan> <tspan fill="#C0D0E4" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" x="77" class="manufai-theme-8">C3P – WdCurve Tools.</tspan></tspan><tspan x="50" y="469" fill="#64B5F6" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-9"><tspan fill="#64B5F6" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-9">•</tspan> <tspan fill="#C0D0E4" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" x="77" class="manufai-theme-8">RoboDK &amp; Process Automation.</tspan></tspan></text></svg>

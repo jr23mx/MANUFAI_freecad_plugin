@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="113" aria-labelledby="title description" role="img">
+ <style id="manufai-theme-styles">
+.manufai-theme-1{fill:#F4F8FD;stroke:#C7D4E3;stroke-opacity:1}
+.manufai-theme-2{fill:#1765B5}
+@media (prefers-color-scheme: dark){
+.manufai-theme-1{fill:#0E192A;stroke:#365171;stroke-opacity:initial}
+.manufai-theme-2{fill:#64b5f6}
+}
+</style><title id="title">MANUFAI Workbench</title>
+
+ <desc id="description">Core welding tools · Required component</desc>
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_1" stroke="#365171" fill="#0E192A" rx="16" height="111.6" width="1118.6" y="0.7" x="0.7" class="manufai-theme-1"/>
+  <text style="cursor: move;" transform="matrix(1 0 0 1 0 0)" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="73" stroke-width="0" id="svg_7" y="81.5" x="138.31594" stroke="null" fill="#64b5f6" class="manufai-theme-2">MANUFAI WORKBENCH</text>
+ </g>
+</svg>

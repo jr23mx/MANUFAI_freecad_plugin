@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="420" height="88" viewBox="0 0 420 88" role="img" aria-labelledby="title description">
+<style id="manufai-theme-styles">
+.manufai-theme-1{fill:#F5F8FC;stroke:#C7D4E3;stroke-opacity:1}
+.manufai-theme-2{fill:#254B73}
+@media (prefers-color-scheme: dark){
+.manufai-theme-1{fill:#101E32;stroke:#365171;stroke-opacity:initial}
+.manufai-theme-2{fill:#C5E1FC}
+}
+</style><title id="title">Discretize</title><desc id="description">Discretize</desc>
+<rect x=".7" y=".7" width="418.6" height="86.6" rx="13" fill="#101E32" stroke="#365171" class="manufai-theme-1"/><svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" viewBox="0 0 800 800" x="20" y="22" preserveAspectRatio="xMidYMid meet">
+ <g>
+  <title>Layer 1</title>
+  <ellipse fill="none" cx="400.00001" cy="403" id="icon-svg_1" rx="300" ry="300" stroke="#ff0000" stroke-width="50"/>
+  <ellipse fill="#00ff00" stroke="#00ff00" stroke-width="50" cx="100.72386" cy="344.1111" id="icon-svg_4" rx="22" ry="20"/>
+  <ellipse fill="#00ff00" stroke="#00ff00" stroke-width="50" cx="393.72386" cy="102.1111" id="icon-svg_5" rx="22" ry="20"/>
+  <ellipse fill="#00ff00" stroke="#00ff00" stroke-width="50" cx="699.72386" cy="336.1111" id="icon-svg_6" rx="22" ry="20"/>
+  <ellipse fill="#00ff00" stroke="#00ff00" stroke-width="50" cx="225.72386" cy="645.1111" id="icon-svg_8" rx="22" ry="20"/>
+  <ellipse fill="#00ff00" stroke="#00ff00" stroke-width="50" cx="561.72386" cy="659.1111" id="icon-svg_9" rx="22" ry="20"/>
+ </g>
+
+</svg><text xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="titulo" inkscape:label="Título" xml:space="preserve" style="white-space:pre" x="81" y="51" fill="#C5E1FC" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-2"><tspan x="81" y="51" fill="#C5E1FC" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-2">Discretize</tspan></text></svg>

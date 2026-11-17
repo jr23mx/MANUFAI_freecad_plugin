@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="420" height="88" viewBox="0 0 420 88" role="img" aria-labelledby="title description">
+<style id="manufai-theme-styles">
+.manufai-theme-1{fill:#F5F8FC;stroke:#C7D4E3;stroke-opacity:1}
+.manufai-theme-2{fill:#254B73}
+@media (prefers-color-scheme: dark){
+.manufai-theme-1{fill:#101E32;stroke:#365171;stroke-opacity:initial}
+.manufai-theme-2{fill:#C5E1FC}
+}
+</style><title id="title">Surface Weld</title><desc id="description">Surface Weld</desc>
+<rect x=".7" y=".7" width="418.6" height="86.6" rx="13" fill="#101E32" stroke="#365171" class="manufai-theme-1"/><svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" viewBox="0 0 800 800" x="20" y="22" preserveAspectRatio="xMidYMid meet">
+ <defs>
+  <radialGradient r="0.57243" gradientTransform="rotate(5.999999999999998,0.07421875,0) translate(0,0) scale(1,0.95)" cy="0" cx="0.07422" spreadMethod="pad" id="icon-svg_13">
+   <stop offset="0" stop-opacity="0.99609" stop-color="#ffffff"/>
+   <stop offset="1" stop-opacity="0.99609" stop-color="#007fff"/>
+  </radialGradient>
+  <radialGradient r="0.87965" cy="1" cx="0" spreadMethod="pad" id="icon-svg_15">
+   <stop offset="0" stop-opacity="0.99219" stop-color="#073666"/>
+   <stop offset="1" stop-opacity="0.99609" stop-color="#007fff"/>
+  </radialGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <path id="icon-svg_8" d="m-305.46,509.54814l0.5,-2.00001l0.5,2.00001l-1.00001,0z" stroke-width="10" stroke="#000" fill="#000000"/>
+  <rect stroke-width="5" stroke="#000" id="icon-svg_10" height="681.99996" width="210" y="55" x="65" fill="url(#icon-svg_13)"/>
+  <rect transform="rotate(90 512.5 632)" stroke-width="5" stroke="#000" id="icon-svg_11" height="470.99997" width="210" y="396.50003" x="407.5001" fill="url(#icon-svg_15)"/>
+  <rect transform="rotate(45 477.774 324.27)" stroke-width="5" stroke="#000" id="icon-svg_12" height="38.00103" width="526.77517" y="305.26903" x="214.38613" fill="#ff7f00"/>
+ </g>
+</svg><text xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="titulo" inkscape:label="Título" xml:space="preserve" style="white-space:pre" x="81" y="51" fill="#C5E1FC" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-2"><tspan x="81" y="51" fill="#C5E1FC" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-2">Surface Weld</tspan></text></svg>

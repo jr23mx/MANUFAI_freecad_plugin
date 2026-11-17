@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="420" height="88" viewBox="0 0 420 88" role="img" aria-labelledby="title description">
+<style id="manufai-theme-styles">
+.manufai-theme-1{fill:#F5F8FC;stroke:#C7D4E3;stroke-opacity:1}
+.manufai-theme-2{fill:#254B73}
+@media (prefers-color-scheme: dark){
+.manufai-theme-1{fill:#101E32;stroke:#365171;stroke-opacity:initial}
+.manufai-theme-2{fill:#C5E1FC}
+}
+</style><title id="title">Datum A</title><desc id="description">Datum A</desc>
+<rect x=".7" y=".7" width="418.6" height="86.6" rx="13" fill="#101E32" stroke="#365171" class="manufai-theme-1"/><svg xmlns="http://www.w3.org/2000/svg" id="icon-Layer_1" version="1.1" viewBox="0 0 500 500" x="20" y="22" width="42" height="42" preserveAspectRatio="xMidYMid meet">
+  <!-- Generator: Adobe Illustrator 29.8.2, SVG Export Plug-In . SVG Version: 2.1.1 Build 3)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: #cb333b;
+        stroke-width: 12px;
+      }
+
+      .st1 {
+        fill: #cb333b;
+      }
+    </style>
+  </defs>
+  <path class="st1" d="M371.93,257.49H117.45V3.01h254.48v254.48ZM145.12,231.74h202.57V28.52h-202.57v203.22Z"/>
+  <path class="st1" d="M279.2,202.06l-6.58-21.49c-.29-.58-.66-.88-1.1-.88h-53.93c-.44,0-.81.3-1.1.88l-6.36,21.49c-.44,1.46-1.39,2.19-2.85,2.19h-27.84c-.88,0-1.53-.25-1.97-.77-.44-.51-.51-1.28-.22-2.3l47.36-148.21c.44-1.46,1.39-2.19,2.85-2.19h34.42c1.46,0,2.41.73,2.85,2.19l47.36,148.21c.15.29.22.66.22,1.1,0,1.32-.81,1.97-2.42,1.97h-27.84c-1.46,0-2.41-.73-2.85-2.19ZM225.26,155.8h38.59c.88,0,1.17-.44.88-1.32l-19.73-65.12c-.15-.58-.37-.84-.66-.77-.29.07-.51.33-.66.77l-19.29,65.12c-.15.88.14,1.32.88,1.32Z"/>
+  <line class="st0" x1="244.59" y1="242.63" x2="244.59" y2="363.87"/>
+  <path class="st1" d="M332.69,499.73h-176l88-152.68,88,152.68Z"/>
+</svg><text xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="titulo" inkscape:label="Título" xml:space="preserve" style="white-space:pre" x="81" y="51" fill="#C5E1FC" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-2"><tspan x="81" y="51" fill="#C5E1FC" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-2">Datum A</tspan></text></svg>
