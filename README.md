@@ -216,7 +216,7 @@
 </p>
 
 <p align="center">
-<a href="./MANUFAI%20Workbench/Make%20Weld%20Trajectories/Edge%20Split/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Edge Split"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
+<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; <a href="./MANUFAI%20Workbench/Make%20Weld%20Trajectories/Edge%20Split/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Edge Split"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
 </p>
 
 <a id="find-weldable-edges" name="find-weldable-edges"></a>
@@ -232,7 +232,7 @@
 </p>
 
 <p align="center">
-<a href="./MANUFAI%20Workbench/Make%20Weld%20Trajectories/Find%20Weldable%20Edges/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Find Weldable Edges"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
+<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; <a href="./MANUFAI%20Workbench/Make%20Weld%20Trajectories/Find%20Weldable%20Edges/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Find Weldable Edges"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
 </p>
 
 <a name="readme-image-018" href="#readme-image-018"><img src="./docs/theme/LINE.svg" width="100%" alt="78"></a>
@@ -254,7 +254,7 @@
 </p>
 
 <p align="center">
-<a href="./MANUFAI%20Workbench/Make%20Weld%20Trajectories/Weld%20Creators/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Surfaces to WeldLines"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
+<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; <a href="./MANUFAI%20Workbench/Make%20Weld%20Trajectories/Weld%20Creators/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Surfaces to WeldLines"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
 </p>
 
 
@@ -265,7 +265,7 @@
 <a name="readme-image-019" href="#readme-image-019"><img src="./docs/theme/tool-weld-creators.svg" width="100%" alt="Weld Creators — Trajectory Generation"></a>
 
 <p align="center">
-<a href="./MANUFAI%20Workbench/Make%20Weld%20Trajectories/Weld%20Creators/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Weld Creators"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
+<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; <a href="./MANUFAI%20Workbench/Make%20Weld%20Trajectories/Weld%20Creators/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Weld Creators"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
 </p>
 
 <a id="weld-creators-make-weld" name="weld-creators-make-weld"></a>
@@ -281,7 +281,7 @@
 </p>
 
 <p align="center">
-<a href="./MANUFAI%20Workbench/Make%20Weld%20Trajectories/Weld%20Creators/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Make Weld"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
+<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; <a href="./MANUFAI%20Workbench/Make%20Weld%20Trajectories/Weld%20Creators/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Make Weld"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
 </p>
 
 <a id="weld-creators-make-weld-with-all-edges" name="weld-creators-make-weld-with-all-edges"></a>
@@ -297,7 +297,7 @@
 </p>
 
 <p align="center">
-<a href="./MANUFAI%20Workbench/Make%20Weld%20Trajectories/Weld%20Creators/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Make Weld with All Edges"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
+<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; <a href="./MANUFAI%20Workbench/Make%20Weld%20Trajectories/Weld%20Creators/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Make Weld with All Edges"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
 </p>
 
 <a id="weld-creators-make-weld-with-specific-length" name="weld-creators-make-weld-with-specific-length"></a>
@@ -313,7 +313,7 @@
 </p>
 
 <p align="center">
-<a href="./MANUFAI%20Workbench/Make%20Weld%20Trajectories/Weld%20Creators/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Make Weld with Specific Length"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
+<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; <a href="./MANUFAI%20Workbench/Make%20Weld%20Trajectories/Weld%20Creators/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Make Weld with Specific Length"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
 </p>
 
 <a id="weld-creators-make-weld-with-chosen-points" name="weld-creators-make-weld-with-chosen-points"></a>
@@ -329,7 +329,7 @@
 </p>
 
 <p align="center">
-<a href="./MANUFAI%20Workbench/Make%20Weld%20Trajectories/Weld%20Creators/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Make Weld with Chosen Points"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
+<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; <a href="./MANUFAI%20Workbench/Make%20Weld%20Trajectories/Weld%20Creators/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Make Weld with Chosen Points"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
 </p>
 
 <a id="weld-creators-make-weld-with-multiple-specific-lengths" name="weld-creators-make-weld-with-multiple-specific-lengths"></a>
@@ -345,7 +345,7 @@
 </p>
 
 <p align="center">
-<a href="./MANUFAI%20Workbench/Make%20Weld%20Trajectories/Weld%20Creators/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Make Weld with Multiple Specific Lengths"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
+<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; <a href="./MANUFAI%20Workbench/Make%20Weld%20Trajectories/Weld%20Creators/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Make Weld with Multiple Specific Lengths"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
 </p>
 
 
@@ -362,7 +362,7 @@
 </p>
 
 <p align="center">
-<a href="./MANUFAI%20Workbench/Make%20Weld%20Trajectories/Weld%20Creators/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for By Bead Quantity"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
+<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; <a href="./MANUFAI%20Workbench/Make%20Weld%20Trajectories/Weld%20Creators/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for By Bead Quantity"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
 </p>
 
 <a id="weld-creators-by-bead-length" name="weld-creators-by-bead-length"></a>
@@ -378,7 +378,7 @@
 </p>
 
 <p align="center">
-<a href="./MANUFAI%20Workbench/Make%20Weld%20Trajectories/Weld%20Creators/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for By Bead Length"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
+<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; <a href="./MANUFAI%20Workbench/Make%20Weld%20Trajectories/Weld%20Creators/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for By Bead Length"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
 </p>
 
 <a id="weld-creators-by-bead-pitch" name="weld-creators-by-bead-pitch"></a>
@@ -394,7 +394,7 @@
 </p>
 
 <p align="center">
-<a href="./MANUFAI%20Workbench/Make%20Weld%20Trajectories/Weld%20Creators/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for By Bead Pitch"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
+<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; <a href="./MANUFAI%20Workbench/Make%20Weld%20Trajectories/Weld%20Creators/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for By Bead Pitch"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
 </p>
 <a id="weld-creators-polyline" name="weld-creators-polyline"></a>
 
@@ -411,7 +411,7 @@
 </p>
 
 <p align="center">
-<a href="./MANUFAI%20Workbench/Make%20Weld%20Trajectories/Weld%20Creators/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Advanced PolyLine"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
+<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; <a href="./MANUFAI%20Workbench/Make%20Weld%20Trajectories/Weld%20Creators/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Advanced PolyLine"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
 </p>
 
 
@@ -431,7 +431,7 @@
 </p>
 
 <p align="center">
-<a href="./MANUFAI%20Workbench/Make%20Weld%20Trajectories/Weld%20Creators/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Project Weld"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
+<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; <a href="./MANUFAI%20Workbench/Make%20Weld%20Trajectories/Weld%20Creators/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Project Weld"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
 </p>
 
 
@@ -450,7 +450,7 @@
 </p>
 
 <p align="center">
-<a href="./MANUFAI%20Workbench/Make%20Weld%20Trajectories/Add%20Normals/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Add Normals"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
+<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; <a href="./MANUFAI%20Workbench/Make%20Weld%20Trajectories/Add%20Normals/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Add Normals"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
 </p>
 
 <a name="readme-image-030" href="#readme-image-030"><img src="./docs/theme/LINE.svg" width="100%" alt="78"></a>
@@ -468,7 +468,7 @@
 </p>
 
 <p align="center">
-<a href="./MANUFAI%20Workbench/Make%20Weld%20Trajectories/Surface%20Weld/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Surface Weld"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
+<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; <a href="./MANUFAI%20Workbench/Make%20Weld%20Trajectories/Surface%20Weld/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Surface Weld"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
 </p>
 
 <a name="readme-image-032" href="#readme-image-032"><img src="./docs/theme/LINE.svg" width="100%" alt="78"></a>
@@ -486,7 +486,7 @@
 </p>
 
 <p align="center">
-<a href="./MANUFAI%20Workbench/Make%20Weld%20Trajectories/Weld%20Loader/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Weld Loader"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
+<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; <a href="./MANUFAI%20Workbench/Make%20Weld%20Trajectories/Weld%20Loader/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Weld Loader"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
 </p>
 
 <a name="readme-image-034" href="#readme-image-034"><img src="./docs/theme/double.svg" width="100%" alt="78"></a>
@@ -508,7 +508,7 @@
 </p>
 
 <p align="center">
-<a href="./MANUFAI%20Workbench/Positions/Make%20Positions%20Groups/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Make Positions Groups"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
+<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; <a href="./MANUFAI%20Workbench/Positions/Make%20Positions%20Groups/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Make Positions Groups"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
 </p>
 
 
@@ -525,7 +525,7 @@
 </p>
 
 <p align="center">
-<a href="./MANUFAI%20Workbench/Positions/Assign%20Welds%20To%20Robots/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Assign Welds To Robots"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
+<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; <a href="./MANUFAI%20Workbench/Positions/Assign%20Welds%20To%20Robots/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Assign Welds To Robots"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
 </p>
 
 
@@ -544,7 +544,7 @@
 </p>
 
 <p align="center">
-<a href="./MANUFAI%20Workbench/Positions/SubAssembly/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for SubAssembly"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
+<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; <a href="./MANUFAI%20Workbench/Positions/SubAssembly/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for SubAssembly"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
 </p>
 
 
@@ -561,7 +561,7 @@
 </p>
 
 <p align="center">
-<a href="./MANUFAI%20Workbench/Positions/Assign%20Positions/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Assign Positions"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
+<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; <a href="./MANUFAI%20Workbench/Positions/Assign%20Positions/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Assign Positions"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
 </p>
 
 
@@ -580,7 +580,7 @@
 </p>
 
 <p align="center">
-<a href="./MANUFAI%20Workbench/Positions/Move%20SubAssembly/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Move SubAssembly"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
+<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; <a href="./MANUFAI%20Workbench/Positions/Move%20SubAssembly/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Move SubAssembly"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
 </p>
 
 
@@ -597,7 +597,7 @@
 </p>
 
 <p align="center">
-<a href="./MANUFAI%20Workbench/Positions/Move%20Welds/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Move Welds"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
+<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; <a href="./MANUFAI%20Workbench/Positions/Move%20Welds/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Move Welds"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
 </p>
 
 
@@ -620,7 +620,7 @@
 </p>
 
 <p align="center">
-<a href="./MANUFAI%20Workbench/Length/Weld%20Length%20Report/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Weld Length Report"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
+<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; <a href="./MANUFAI%20Workbench/Length/Weld%20Length%20Report/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Weld Length Report"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
 </p>
 
 <a name="readme-image-047" href="#readme-image-047"><img src="./docs/theme/double.svg" width="100%" alt="78"></a>
@@ -642,7 +642,7 @@
 </p>
 
 <p align="center">
-<a href="./MANUFAI%20Workbench/Cycle%20Time/Process/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Process"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
+<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; <a href="./MANUFAI%20Workbench/Cycle%20Time/Process/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Process"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
 </p>
 
 
@@ -659,7 +659,7 @@
 </p>
 
 <p align="center">
-<a href="./MANUFAI%20Workbench/Cycle%20Time/Assign%20Process/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Assign Process"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
+<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; <a href="./MANUFAI%20Workbench/Cycle%20Time/Assign%20Process/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Assign Process"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
 </p>
 
 
@@ -678,7 +678,7 @@
 </p>
 
 <p align="center">
-<a href="./MANUFAI%20Workbench/Cycle%20Time/Welding%20Parameters/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Welding Parameters"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
+<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; <a href="./MANUFAI%20Workbench/Cycle%20Time/Welding%20Parameters/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Welding Parameters"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
 </p>
 
 
@@ -695,7 +695,7 @@
 </p>
 
 <p align="center">
-<a href="./MANUFAI%20Workbench/Cycle%20Time/Assign%20Welding%20Parameters/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Assign Welding Parameters"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
+<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; <a href="./MANUFAI%20Workbench/Cycle%20Time/Assign%20Welding%20Parameters/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Assign Welding Parameters"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
 </p>
 
 
@@ -714,7 +714,7 @@
 </p>
 
 <p align="center">
-<a href="./MANUFAI%20Workbench/Cycle%20Time/Cycle%20Time/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Cycle Time"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
+<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; <a href="./MANUFAI%20Workbench/Cycle%20Time/Cycle%20Time/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Cycle Time"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
 </p>
 
 <a name="readme-image-056" href="#readme-image-056"><img src="./docs/theme/double.svg" width="100%" alt="78"></a>
@@ -736,7 +736,7 @@
 </p>
 
 <p align="center">
-<a href="./MANUFAI%20Workbench/Weight/Create%20Materials/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Create Materials"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
+<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; <a href="./MANUFAI%20Workbench/Weight/Create%20Materials/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Create Materials"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
 </p>
 
 
@@ -753,7 +753,7 @@
 </p>
 
 <p align="center">
-<a href="./MANUFAI%20Workbench/Weight/Assign%20Materials/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Assign Materials"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
+<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; <a href="./MANUFAI%20Workbench/Weight/Assign%20Materials/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Assign Materials"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
 </p>
 
 
@@ -772,7 +772,7 @@
 </p>
 
 <p align="center">
-<a href="./MANUFAI%20Workbench/Weight/Weight%20of%20Welding%20and%20Welded%20Part/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Weight of Welding and Welded Part"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
+<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; <a href="./MANUFAI%20Workbench/Weight/Weight%20of%20Welding%20and%20Welded%20Part/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Weight of Welding and Welded Part"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
 </p>
 
 <a name="readme-image-062" href="#readme-image-062"><img src="./docs/theme/double.svg" width="100%" alt="78"></a>
@@ -794,7 +794,7 @@
 </p>
 
 <p align="center">
-<a href="./MANUFAI%20Workbench/Welding%20Sequence%20AI%20Advisor/Export%20STL/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Export STL"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
+<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; <a href="./MANUFAI%20Workbench/Welding%20Sequence%20AI%20Advisor/Export%20STL/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Export STL"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
 </p>
 
 <a name="readme-image-065" href="#readme-image-065"><img src="./docs/theme/LINE.svg" width="100%" alt="78"></a>
@@ -821,7 +821,7 @@
 </p>
 
 <p align="center">
-<a href="./MANUFAI%20Workbench/Welding%20Sequence%20AI%20Advisor/Export%20As%20DK%20Project/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Export As DK Project"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
+<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; <a href="./MANUFAI%20Workbench/Welding%20Sequence%20AI%20Advisor/Export%20As%20DK%20Project/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Export As DK Project"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
 </p>
 
 <a name="readme-image-067" href="#readme-image-067"><img src="./docs/theme/double.svg" width="100%" alt="78"></a>
@@ -843,7 +843,7 @@
 </p>
 
 <p align="center">
-<a href="./MANUFAI%20Workbench/Sequence%20and%20Process%20Visualization/Assign%20Sequence/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Assign Sequence"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
+<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; <a href="./MANUFAI%20Workbench/Sequence%20and%20Process%20Visualization/Assign%20Sequence/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Assign Sequence"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
 </p>
 
 
@@ -862,7 +862,7 @@
 </p>
 
 <p align="center">
-<a href="./MANUFAI%20Workbench/Sequence%20and%20Process%20Visualization/Weld%20Simulation/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Weld Simulation"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
+<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; <a href="./MANUFAI%20Workbench/Sequence%20and%20Process%20Visualization/Weld%20Simulation/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Weld Simulation"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
 </p>
 
 <a name="readme-image-072" href="#readme-image-072"><img src="./docs/theme/LINE.svg" width="100%" alt="78"></a>
@@ -880,7 +880,7 @@
 </p>
 
 <p align="center">
-<a href="./MANUFAI%20Workbench/Sequence%20and%20Process%20Visualization/Show%20Weld%20Sphere/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Show Weld Sphere"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
+<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; <a href="./MANUFAI%20Workbench/Sequence%20and%20Process%20Visualization/Show%20Weld%20Sphere/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Show Weld Sphere"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
 </p>
 
 <a name="readme-image-074" href="#readme-image-074"><img src="./docs/theme/LINE.svg" width="100%" alt="78"></a>
@@ -898,7 +898,7 @@
 </p>
 
 <p align="center">
-<a href="./MANUFAI%20Workbench/Sequence%20and%20Process%20Visualization/Visualizer/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Visualizer"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
+<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; <a href="./MANUFAI%20Workbench/Sequence%20and%20Process%20Visualization/Visualizer/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Visualizer"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
 </p>
 
 
@@ -923,7 +923,7 @@
 </p>
 
 <p align="center">
-<a href="./3-2-1%20Datum%20Based%20Alignment%20%26%20Tools/Toggle%20Visibility%20Recursive/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Toggle Visibility Recursive"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
+<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; <a href="./3-2-1%20Datum%20Based%20Alignment%20%26%20Tools/Toggle%20Visibility%20Recursive/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Toggle Visibility Recursive"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
 </p>
 
 <a name="readme-image-079" href="#readme-image-079"><img src="./docs/theme/LINE.svg" width="100%" alt="78"></a>
@@ -941,7 +941,7 @@
 </p>
 
 <p align="center">
-<a href="./3-2-1%20Datum%20Based%20Alignment%20%26%20Tools/Create%20Center%20Point/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Create Center Point"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
+<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; <a href="./3-2-1%20Datum%20Based%20Alignment%20%26%20Tools/Create%20Center%20Point/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Create Center Point"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
 </p>
 
 <a name="readme-image-081" href="#readme-image-081"><img src="./docs/theme/LINE.svg" width="100%" alt="78"></a>
@@ -959,7 +959,7 @@
 </p>
 
 <p align="center">
-<a href="./3-2-1%20Datum%20Based%20Alignment%20%26%20Tools/Create%20Sphere%20at%20Origin/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Create Sphere at Origin"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
+<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; <a href="./3-2-1%20Datum%20Based%20Alignment%20%26%20Tools/Create%20Sphere%20at%20Origin/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Create Sphere at Origin"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
 </p>
 
 <a name="readme-image-083" href="#toolbar-layout"><img src="./docs/theme/category%203-2-1%20Datum%20Based%20Alignment.svg" width="100%" alt="category 3-2-1 Datum Based Alignment"></a>
@@ -991,7 +991,7 @@
 <a id="3-2-1-alignment" name="3-2-1-alignment"></a>
 
 <p align="center">
-<a href="./3-2-1%20Datum%20Based%20Alignment%20%26%20Tools/3-2-1%20Datum-Based%20Alignment/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for 3-2-1 Datum-Based Alignment"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
+<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; <a href="./3-2-1%20Datum%20Based%20Alignment%20%26%20Tools/3-2-1%20Datum-Based%20Alignment/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for 3-2-1 Datum-Based Alignment"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
 </p>
 
 
@@ -1008,7 +1008,7 @@
 </p>
 
 <p align="center">
-<a href="./3-2-1%20Datum%20Based%20Alignment%20%26%20Tools/Move%20Model%20To%20Origin/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Move Model To Origin"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
+<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; <a href="./3-2-1%20Datum%20Based%20Alignment%20%26%20Tools/Move%20Model%20To%20Origin/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Move Model To Origin"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
 </p>
 
 <a name="readme-image-089" href="#toolbar-layout"><img src="./docs/theme/category%20tools.svg" width="100%" alt="category tools"></a>
@@ -1028,7 +1028,7 @@
 </p>
 
 <p align="center">
-<a href="./3-2-1%20Datum%20Based%20Alignment%20%26%20Tools/Reset%20Position/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Reset Position"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
+<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; <a href="./3-2-1%20Datum%20Based%20Alignment%20%26%20Tools/Reset%20Position/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Reset Position"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
 </p>
 
 
@@ -1047,7 +1047,7 @@
 </p>
 
 <p align="center">
-<a href="./3-2-1%20Datum%20Based%20Alignment%20%26%20Tools/Show%20Welding%20Widget/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Show Welding Widget"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
+<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; <a href="./3-2-1%20Datum%20Based%20Alignment%20%26%20Tools/Show%20Welding%20Widget/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Show Welding Widget"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
 </p>
 
 <a name="readme-image-094" href="#readme-image-094"><img src="./docs/theme/LINE.svg" width="100%" alt="78"></a>
@@ -1065,7 +1065,7 @@
 </p>
 
 <p align="center">
-<a href="./3-2-1%20Datum%20Based%20Alignment%20%26%20Tools/Launch%20Find%20Data%20Panel/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Launch Find Data Panel"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
+<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; <a href="./3-2-1%20Datum%20Based%20Alignment%20%26%20Tools/Launch%20Find%20Data%20Panel/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Launch Find Data Panel"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
 </p>
 
 <a name="readme-image-096" href="#readme-image-096"><img src="./docs/theme/LINE.svg" width="100%" alt="78"></a>
@@ -1083,7 +1083,7 @@
 </p>
 
 <p align="center">
-<a href="./3-2-1%20Datum%20Based%20Alignment%20%26%20Tools/Focus%20Object/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Focus Object"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
+<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; <a href="./3-2-1%20Datum%20Based%20Alignment%20%26%20Tools/Focus%20Object/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Focus Object"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
 </p>
 
 <a name="readme-image-098" href="#readme-image-098"><img src="./docs/theme/LINE.svg" width="100%" alt="78"></a>
@@ -1101,7 +1101,7 @@
 </p>
 
 <p align="center">
-<a href="./3-2-1%20Datum%20Based%20Alignment%20%26%20Tools/Move%20Weld%20Lines/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Move Weld Lines"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
+<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; <a href="./3-2-1%20Datum%20Based%20Alignment%20%26%20Tools/Move%20Weld%20Lines/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Move Weld Lines"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
 </p>
 
 <a name="readme-image-100" href="#readme-image-100"><img src="./docs/theme/LINE.svg" width="100%" alt="78"></a>
@@ -1119,7 +1119,7 @@
 </p>
 
 <p align="center">
-<a href="./3-2-1%20Datum%20Based%20Alignment%20%26%20Tools/Discretize/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Discretize"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
+<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; <a href="./3-2-1%20Datum%20Based%20Alignment%20%26%20Tools/Discretize/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Discretize"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
 </p>
 
  
@@ -1143,7 +1143,7 @@
 </p>
 
 <p align="center">
-<a href="./C3P%20-%20WdCurve%20Tools/Line%20Weld%20Table/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Line Weld Table"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
+<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; <a href="./C3P%20-%20WdCurve%20Tools/Line%20Weld%20Table/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Line Weld Table"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
 </p>
 
 
@@ -1160,7 +1160,7 @@
 </p>
 
 <p align="center">
-<a href="./C3P%20-%20WdCurve%20Tools/Show%20Names/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Show Names"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
+<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; <a href="./C3P%20-%20WdCurve%20Tools/Show%20Names/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Show Names"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
 </p>
 
 <a id="selection-mode" name="selection-mode"></a>
@@ -1176,7 +1176,7 @@
 </p>
 
 <p align="center">
-<a href="./C3P%20-%20WdCurve%20Tools/Selection%20Mode%20%28X-Ray%20%26%20Filter%29/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Selection Mode (X-Ray &amp; Filter)"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
+<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; <a href="./C3P%20-%20WdCurve%20Tools/Selection%20Mode%20%28X-Ray%20%26%20Filter%29/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Selection Mode (X-Ray &amp; Filter)"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
 </p>
 
  
@@ -1216,7 +1216,7 @@
 </p>
 
 <p align="center">
-<a href="./RoboDK%20%26%20Process%20Automation/Export%20To%20.rdk%20Project/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Export To .rdk Project"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
+<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; <a href="./RoboDK%20%26%20Process%20Automation/Export%20To%20.rdk%20Project/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Export To .rdk Project"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
 </p>
 
 <a name="readme-image-110" href="#readme-image-110"><img src="./docs/theme/LINE.svg" width="100%" alt="78"></a>
@@ -1234,7 +1234,7 @@
 </p>
 
 <p align="center">
-<a href="./RoboDK%20%26%20Process%20Automation/Export%20Full/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Export Full"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
+<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; <a href="./RoboDK%20%26%20Process%20Automation/Export%20Full/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Export Full"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
 </p>
 
 <a name="readme-image-112" href="#readme-image-112"><img src="./docs/theme/LINE.svg" width="100%" alt="78"></a>
@@ -1252,7 +1252,7 @@
 </p>
 
 <p align="center">
-<a href="./RoboDK%20%26%20Process%20Automation/Glue%20Manager/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Glue Manager"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
+<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; <a href="./RoboDK%20%26%20Process%20Automation/Glue%20Manager/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Glue Manager"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
 </p>
 
 <a name="readme-image-114" href="#readme-image-114"><img src="./docs/theme/LINE.svg" width="100%" alt="78"></a>
@@ -1270,7 +1270,7 @@
 </p>
 
 <p align="center">
-<a href="./RoboDK%20%26%20Process%20Automation/Drilling%20Manager/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Drilling Manager"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
+<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; <a href="./RoboDK%20%26%20Process%20Automation/Drilling%20Manager/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Drilling Manager"></a> &nbsp; <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
 </p>
 
 <a name="readme-image-116" href="#readme-image-116"><img src="./docs/theme/double.svg" width="100%" alt="78"></a>
