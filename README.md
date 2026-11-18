@@ -151,11 +151,10 @@
 <a href="#toggle-visibility-recursive"><img src="./docs/theme/nav-toggle-visibility-recursive.svg" width="24%" alt="Toggle Visibility Recursive"></a>
 <a href="#create-center-point"><img src="./docs/theme/nav-create-center-point.svg" width="24%" alt="Create Center Point"></a>
 <a href="#create-sphere-at-origin"><img src="./docs/theme/nav-create-sphere-at-origin.svg" width="24%" alt="Create Sphere at Origin"></a>
-<a href="#datum-a"><img src="./docs/theme/nav-datum-a.svg" width="24%" alt="Datum A"></a>
 <br>
+<a href="#datum-a"><img src="./docs/theme/nav-datum-a.svg" width="24%" alt="Datum A"></a>
 <a href="#datum-b"><img src="./docs/theme/nav-datum-b.svg" width="24%" alt="Datum B"></a>
 <a href="#datum-c"><img src="./docs/theme/nav-datum-c.svg" width="24%" alt="Datum C"></a>
-<a href="#3-2-1-alignment"><img src="./docs/theme/nav-3-2-1-alignment.svg" width="24%" alt="3-2-1 Datum-Based Alignment"></a>
 <a href="#move-model-to-origin"><img src="./docs/theme/nav-move-model-to-origin.svg" width="24%" alt="Move Model To Origin"></a>
 <br>
 <a href="#reset-pos"><img src="./docs/theme/nav-reset-pos.svg" width="24%" alt="Reset Position"></a>
