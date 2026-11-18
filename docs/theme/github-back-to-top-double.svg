@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 256 256" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Ir al inicio</title>
+  <desc id="desc">Doble flecha hacia arriba sobre un botón circular oscuro con borde azul. Fondo transparente.</desc>
+  <defs>
+    <linearGradient id="surface" x1="56" y1="34" x2="208" y2="230" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1C2A40"/>
+      <stop offset="0.48" stop-color="#101923"/>
+      <stop offset="1" stop-color="#0D1117"/>
+    </linearGradient>
+    <linearGradient id="rim" x1="50" y1="34" x2="212" y2="226" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A5D6FF"/>
+      <stop offset="0.36" stop-color="#58A6FF"/>
+      <stop offset="0.72" stop-color="#1F6FEB"/>
+      <stop offset="1" stop-color="#23416A"/>
+    </linearGradient>
+    <linearGradient id="arrow" x1="128" y1="83" x2="128" y2="161" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#B6DDFF"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="128" cy="128" r="125" gradientUnits="userSpaceOnUse">
+      <stop offset="0.78" stop-color="#388BFD" stop-opacity="0.13"/>
+      <stop offset="1" stop-color="#388BFD" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <circle cx="128" cy="128" r="125" fill="url(#halo)"/>
+  <circle cx="128" cy="128" r="106" fill="url(#surface)" stroke="url(#rim)" stroke-width="2.5"/>
+  <circle cx="128" cy="128" r="98" stroke="#8CBFFF" stroke-opacity="0.08"/>
+  <path d="M91 123L128 86L165 123M91 164L128 127L165 164" stroke="#58A6FF" stroke-opacity="0.08" stroke-width="21" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M91 120L128 83L165 120M91 161L128 124L165 161" stroke="url(#arrow)" stroke-width="13.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
