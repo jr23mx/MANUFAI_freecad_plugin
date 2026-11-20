@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="420" height="88" viewBox="0 0 420 88" role="img" aria-labelledby="title description">
+<style id="manufai-theme-styles">
+.manufai-theme-1{fill:#F5F8FC;stroke:#C7D4E3;stroke-opacity:1}
+.manufai-theme-2{fill:#254B73}
+@media (prefers-color-scheme: dark){
+.manufai-theme-1{fill:#101E32;stroke:#365171;stroke-opacity:initial}
+.manufai-theme-2{fill:#C5E1FC}
+}
+</style><title id="title">Isolate Part</title><desc id="description">Isolate Part</desc>
+<rect x=".7" y=".7" width="418.6" height="86.6" rx="13" fill="#101E32" stroke="#365171" class="manufai-theme-1"/><svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" viewBox="0 0 32 32" role="img" aria-labelledby="icon-title icon-desc" x="20" y="22" preserveAspectRatio="xMidYMid meet">
+  <title id="icon-title">Green Part</title>
+  <desc id="icon-desc">The isolated green flanged component with its original colors and diagonal orientation. Transparent background.</desc>
+  <g transform="translate(16 16) scale(2.27938782) translate(-23.30900000 -23.87575000)">
+    <g transform="rotate(-42 16 16)" stroke="#263d47" stroke-width="0.8" stroke-linejoin="round" id="icon-green-component">
+      <path fill="#459b32" d="M10 27.4V28.6C10 30.8 22 30.8 22 28.6V27.4Z" />
+      <ellipse cx="16" cy="27.4" rx="6" ry="1.6" fill="#8bce61" />
+      <path fill="#60b13d" stroke="none" d="M12 23H20V27C20 29.1 12 29.1 12 27Z" />
+      <path fill="#44962d" stroke="none" d="M16 23H20V27C20 28 18.2 28.6 16 28.6Z" />
+      <path fill="none" d="M12 23H20V27C20 29.1 12 29.1 12 27Z" />
+      <ellipse cx="16" cy="23" rx="4" ry="1.4" fill="#94d36d" />
+      <path fill="#69b944" d="M14.5 20.3H17.5V23C17.5 24 14.5 24 14.5 23Z" />
+      <ellipse cx="16" cy="20.3" rx="1.5" ry="0.65" fill="#ace080" stroke-width="0.65" />
+    </g>
+  </g>
+</svg><text xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="titulo" inkscape:label="Título" xml:space="preserve" style="white-space:pre" x="81" y="51" fill="#C5E1FC" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-2"><tspan x="81" y="51" fill="#C5E1FC" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" font-style="normal" letter-spacing="0" text-anchor="start" class="manufai-theme-2">Isolate Part</tspan></text></svg>
