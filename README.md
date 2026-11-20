@@ -88,6 +88,10 @@
 <a href="#surface-weld"><img src="./docs/theme/nav-surface-weld.svg" width="24%" alt="Surface Weld"></a>
 <!-- INDEX BUTTON: Weld Loader -->
 <a href="#weld-loader"><img src="./docs/theme/nav-weld-loader.svg" width="24%" alt="Weld Loader"></a>
+<!-- INDEX BUTTON: Show Welding Widget -->
+<a href="#show-welding-widget-command"><img src="./docs/theme/nav-show-welding-widget-command.svg" width="24%" alt="Show Welding Widget"></a>
+<!-- INDEX BUTTON: Launch Find Data Panel -->
+<a href="#launch-find-data-panel"><img src="./docs/theme/nav-launch-find-data-panel.svg" width="24%" alt="Launch Find Data Panel"></a>
 </p>
 
 </details>
@@ -173,9 +177,9 @@
 
 </details>
 
-<!-- INDEX GROUP: Sequence and Process Visualization -->
+<!-- INDEX GROUP: Simulation and Visibility -->
 <details>
-<summary><img src="./docs/theme/index-simulation.svg" width="96%" alt="Sequence and Process Visualization"></summary>
+<summary><img src="./docs/theme/index-simulation.svg" width="96%" alt="Simulation and Visibility"></summary>
 
 <p align="center">
 <!-- INDEX BUTTON: Assign Sequence -->
@@ -186,6 +190,15 @@
 <a href="#weld-visualizer"><img src="./docs/theme/nav-weld-visualizer.svg" width="24%" alt="Show Weld Sphere"></a>
 <!-- INDEX BUTTON: Visualizer -->
 <a href="#visualizer-cmd"><img src="./docs/theme/nav-visualizer-cmd.svg" width="24%" alt="Visualizer"></a>
+<br>
+<!-- INDEX BUTTON: Show Names -->
+<a href="#show-names"><img src="./docs/theme/nav-show-names.svg" width="24%" alt="Show Names"></a>
+<!-- INDEX BUTTON: Selection Mode (X-Ray & Filter) -->
+<a href="#selection-mode"><img src="./docs/theme/nav-selection-mode.svg" width="24%" alt="Selection Mode (X-Ray &amp; Filter)"></a>
+<!-- INDEX BUTTON: Toggle Visibility Recursive -->
+<a href="#toggle-visibility-recursive"><img src="./docs/theme/nav-toggle-visibility-recursive.svg" width="24%" alt="Toggle Visibility Recursive"></a>
+<!-- INDEX BUTTON: Focus Object -->
+<a href="#focus-object-command"><img src="./docs/theme/nav-focus-object-command.svg" width="24%" alt="Focus Object"></a>
 </p>
 
 </details>
@@ -197,32 +210,23 @@
 <summary><img src="./docs/theme/index-datum-alignment-tools.svg" width="96%" alt="3-2-1 Datum Based Alignment &amp; Tools"></summary>
 
 <p align="center">
-<!-- INDEX BUTTON: Toggle Visibility Recursive -->
-<a href="#toggle-visibility-recursive"><img src="./docs/theme/nav-toggle-visibility-recursive.svg" width="24%" alt="Toggle Visibility Recursive"></a>
 <!-- INDEX BUTTON: Create Center Point -->
 <a href="#create-center-point"><img src="./docs/theme/nav-create-center-point.svg" width="24%" alt="Create Center Point"></a>
 <!-- INDEX BUTTON: Create Sphere at Origin -->
 <a href="#create-sphere-at-origin"><img src="./docs/theme/nav-create-sphere-at-origin.svg" width="24%" alt="Create Sphere at Origin"></a>
 <!-- INDEX BUTTON: Datum A -->
 <a href="#datum-a"><img src="./docs/theme/nav-datum-a.svg" width="24%" alt="Datum A"></a>
-<br>
 <!-- INDEX BUTTON: Datum B -->
 <a href="#datum-b"><img src="./docs/theme/nav-datum-b.svg" width="24%" alt="Datum B"></a>
+<br>
 <!-- INDEX BUTTON: Datum C -->
 <a href="#datum-c"><img src="./docs/theme/nav-datum-c.svg" width="24%" alt="Datum C"></a>
 <!-- INDEX BUTTON: 3-2-1 Datum-Based Alignment -->
 <a href="#3-2-1-alignment"><img src="./docs/theme/nav-3-2-1-alignment.svg" width="24%" alt="3-2-1 Datum-Based Alignment"></a>
 <!-- INDEX BUTTON: Move Model To Origin -->
 <a href="#move-model-to-origin"><img src="./docs/theme/nav-move-model-to-origin.svg" width="24%" alt="Move Model To Origin"></a>
-<br>
 <!-- INDEX BUTTON: Reset Position -->
 <a href="#reset-pos"><img src="./docs/theme/nav-reset-pos.svg" width="24%" alt="Reset Position"></a>
-<!-- INDEX BUTTON: Show Welding Widget -->
-<a href="#show-welding-widget-command"><img src="./docs/theme/nav-show-welding-widget-command.svg" width="24%" alt="Show Welding Widget"></a>
-<!-- INDEX BUTTON: Launch Find Data Panel -->
-<a href="#launch-find-data-panel"><img src="./docs/theme/nav-launch-find-data-panel.svg" width="24%" alt="Launch Find Data Panel"></a>
-<!-- INDEX BUTTON: Focus Object -->
-<a href="#focus-object-command"><img src="./docs/theme/nav-focus-object-command.svg" width="24%" alt="Focus Object"></a>
 <br>
 <!-- INDEX BUTTON: Move Weld Lines -->
 <a href="#move-weld-lines"><img src="./docs/theme/nav-move-weld-lines.svg" width="24%" alt="Move Weld Lines"></a>
@@ -239,10 +243,6 @@
 <p align="center">
 <!-- INDEX BUTTON: Line Weld Table -->
 <a href="#line-weld-table"><img src="./docs/theme/nav-line-weld-table.svg" width="24%" alt="Line Weld Table"></a>
-<!-- INDEX BUTTON: Show Names -->
-<a href="#show-names"><img src="./docs/theme/nav-show-names.svg" width="24%" alt="Show Names"></a>
-<!-- INDEX BUTTON: Selection Mode (X-Ray & Filter) -->
-<a href="#selection-mode"><img src="./docs/theme/nav-selection-mode.svg" width="24%" alt="Selection Mode (X-Ray &amp; Filter)"></a>
 </p>
 
 </details>
@@ -717,6 +717,60 @@
 <!-- NAVIGATION: Back to tool index -->
 <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
 </p>
+
+<!-- ========== BUTTON: Show Welding Widget ========== -->
+<a id="show-welding-widget-command" name="show-welding-widget-command"></a>
+
+<!-- SVG: Show Welding Widget -->
+<a name="readme-image-093" href="#readme-image-093"><img src="./docs/theme/tool-show-welding-widget-command.svg" width="100%" alt="Show Welding Widget — 2D Blueprint to 3D Model Synchronization."></a>
+
+<!-- VIDEO: FreeCAD Plugin - Show Welding Widget -->
+<p align="center">
+<a href="https://www.youtube.com/watch?v=SjJHcsazPro">
+          <img src="https://img.youtube.com/vi/SjJHcsazPro/maxresdefault.jpg" width="450" alt="FreeCAD Plugin - Show Welding Widget">
+        </a>
+<br>
+<a href="https://youtu.be/SjJHcsazPro"><strong>FreeCAD Plugin - Show Welding Widget</strong></a>
+</p>
+
+<!-- MATERIALS: Show Welding Widget -->
+<p align="center">
+<!-- NAVIGATION: Back to top -->
+<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; 
+<!-- MATERIALS BUTTON: Show Welding Widget -->
+<a href="./3-2-1%20Datum%20Based%20Alignment%20%26%20Tools/Show%20Welding%20Widget/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Show Welding Widget"></a> &nbsp; 
+<!-- NAVIGATION: Back to tool index -->
+<a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
+</p>
+
+<a name="readme-image-094" href="#readme-image-094"><img src="./docs/theme/LINE.svg" width="100%" alt="78"></a>
+
+<!-- ========== BUTTON: Launch Find Data Panel ========== -->
+<a id="launch-find-data-panel" name="launch-find-data-panel"></a>
+
+<!-- SVG: Launch Find Data Panel -->
+<a name="readme-image-095" href="#readme-image-095"><img src="./docs/theme/tool-launch-find-data-panel.svg" width="100%" alt="Launch Find Data Panel — Centralized control for weld tracking and interoperability."></a>
+
+<!-- VIDEO: FreeCAD Plugin - Launch Find Data Panel -->
+<p align="center">
+<a href="https://www.youtube.com/watch?v=0TlnWFqXXWM">
+          <img src="https://img.youtube.com/vi/0TlnWFqXXWM/maxresdefault.jpg" width="450" alt="FreeCAD Plugin - Launch Find Data Panel">
+        </a>
+<br>
+<a href="https://youtu.be/0TlnWFqXXWM"><strong>FreeCAD Plugin - Launch Find Data Panel</strong></a>
+</p>
+
+<!-- MATERIALS: Launch Find Data Panel -->
+<p align="center">
+<!-- NAVIGATION: Back to top -->
+<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; 
+<!-- MATERIALS BUTTON: Launch Find Data Panel -->
+<a href="./3-2-1%20Datum%20Based%20Alignment%20%26%20Tools/Launch%20Find%20Data%20Panel/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Launch Find Data Panel"></a> &nbsp; 
+<!-- NAVIGATION: Back to tool index -->
+<a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
+</p>
+
+<a name="readme-image-096" href="#readme-image-096"><img src="./docs/theme/LINE.svg" width="100%" alt="78"></a>
 
 <a name="readme-image-034" href="#readme-image-034"><img src="./docs/theme/double.svg" width="100%" alt="78"></a>
 
@@ -1221,9 +1275,9 @@
 
 <a id="simulation" name="simulation"></a>
 
-<!-- SECTION: Sequence and Process Visualization -->
-<!-- SVG: Sequence and Process Visualization -->
-<a name="readme-image-068" href="#toolbar-layout"><img src="./docs/theme/category-simulation.svg" width="100%" alt="Sequence and Process Visualization"></a>
+<!-- SECTION: Simulation and Visibility -->
+<!-- SVG: Simulation and Visibility -->
+<a name="readme-image-068" href="#toolbar-layout"><img src="./docs/theme/category-simulation.svg" width="100%" alt="Simulation and Visibility"></a>
 
 <!-- ========== BUTTON: Assign Sequence ========== -->
 <a id="assign-sequence" name="assign-sequence"></a>
@@ -1335,13 +1389,57 @@
 
  
 
-<a name="readme-image-076" href="#readme-image-076"><img src="./docs/theme/double.svg" width="100%" alt="78"></a>
+<!-- ========== BUTTON: Show Names ========== -->
+<a id="show-names" name="show-names"></a>
 
-<a id="datum-alignment-tools" name="datum-alignment-tools"></a>
+<!-- SVG: Show Names -->
+<a name="readme-image-105" href="#readme-image-105"><img src="./docs/theme/tool-show-names.svg" width="100%" alt="Show Names — Orientation &amp; ID HUD."></a>
 
-<!-- SECTION: 3-2-1 Datum Based Alignment & Tools -->
-<!-- SVG: 3-2-1 Datum Based Alignment & Tools -->
-<a name="readme-image-077" href="#toolbar-layout"><img src="./docs/theme/section-datum-alignment-tools.svg" width="100%" alt="3-2-1 Datum Based Alignment &amp; Tools"></a>
+<!-- VIDEO: FreeCAD Plugin - Show Names -->
+<p align="center">
+<a href="https://www.youtube.com/watch?v=rHTBzO_KlUM">
+          <img src="https://img.youtube.com/vi/rHTBzO_KlUM/maxresdefault.jpg" width="450" alt="FreeCAD Plugin - Show Names">
+        </a>
+<br>
+<a href="https://youtu.be/rHTBzO_KlUM"><strong>FreeCAD Plugin - Show Names</strong></a>
+</p>
+
+<!-- MATERIALS: Show Names -->
+<p align="center">
+<!-- NAVIGATION: Back to top -->
+<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; 
+<!-- MATERIALS BUTTON: Show Names -->
+<a href="./C3P%20-%20WdCurve%20Tools/Show%20Names/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Show Names"></a> &nbsp; 
+<!-- NAVIGATION: Back to tool index -->
+<a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
+</p>
+
+<!-- ========== BUTTON: Selection Mode (X-Ray & Filter) ========== -->
+<a id="selection-mode" name="selection-mode"></a>
+
+<!-- SVG: Selection Mode (X-Ray & Filter) -->
+<a name="readme-image-106" href="#readme-image-106"><img src="./docs/theme/tool-selection-mode.svg" width="100%" alt="Selection Mode (X-Ray &amp; Filter) — Visual isolation and Selection Lock."></a>
+
+<!-- VIDEO: FreeCAD Plugin - Selection Mode (X-Ray & Filter) -->
+<p align="center">
+<a href="https://www.youtube.com/watch?v=OYs8zfXLmLg">
+          <img src="https://img.youtube.com/vi/OYs8zfXLmLg/maxresdefault.jpg" width="450" alt="FreeCAD Plugin - Selection Mode (X-Ray &amp; Filter)">
+        </a>
+<br>
+<a href="https://youtu.be/OYs8zfXLmLg"><strong>FreeCAD Plugin - Selection Mode (X-Ray &amp; Filter)</strong></a>
+</p>
+
+<!-- MATERIALS: Selection Mode (X-Ray & Filter) -->
+<p align="center">
+<!-- NAVIGATION: Back to top -->
+<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; 
+<!-- MATERIALS BUTTON: Selection Mode (X-Ray & Filter) -->
+<a href="./C3P%20-%20WdCurve%20Tools/Selection%20Mode%20%28X-Ray%20%26%20Filter%29/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Selection Mode (X-Ray &amp; Filter)"></a> &nbsp; 
+<!-- NAVIGATION: Back to tool index -->
+<a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
+</p>
+
+ 
 
 <!-- ========== BUTTON: Toggle Visibility Recursive ========== -->
 <a id="toggle-visibility-recursive" name="toggle-visibility-recursive"></a>
@@ -1369,6 +1467,41 @@
 </p>
 
 <a name="readme-image-079" href="#readme-image-079"><img src="./docs/theme/LINE.svg" width="100%" alt="78"></a>
+
+<!-- ========== BUTTON: Focus Object ========== -->
+<a id="focus-object-command" name="focus-object-command"></a>
+
+<!-- SVG: Focus Object -->
+<a name="readme-image-097" href="#readme-image-097"><img src="./docs/theme/tool-focus-object-command.svg" width="100%" alt="Focus Object — Instant Navigation."></a>
+
+<!-- VIDEO: FreeCAD Plugin - Focus Object -->
+<p align="center">
+<a href="https://www.youtube.com/watch?v=KZhHsQ0q4Go">
+          <img src="https://img.youtube.com/vi/KZhHsQ0q4Go/maxresdefault.jpg" width="450" alt="FreeCAD Plugin - Focus Object">
+        </a>
+<br>
+<a href="https://youtu.be/KZhHsQ0q4Go"><strong>FreeCAD Plugin - Focus Object</strong></a>
+</p>
+
+<!-- MATERIALS: Focus Object -->
+<p align="center">
+<!-- NAVIGATION: Back to top -->
+<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; 
+<!-- MATERIALS BUTTON: Focus Object -->
+<a href="./3-2-1%20Datum%20Based%20Alignment%20%26%20Tools/Focus%20Object/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Focus Object"></a> &nbsp; 
+<!-- NAVIGATION: Back to tool index -->
+<a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
+</p>
+
+<a name="readme-image-098" href="#readme-image-098"><img src="./docs/theme/LINE.svg" width="100%" alt="78"></a>
+
+<a name="readme-image-076" href="#readme-image-076"><img src="./docs/theme/double.svg" width="100%" alt="78"></a>
+
+<a id="datum-alignment-tools" name="datum-alignment-tools"></a>
+
+<!-- SECTION: 3-2-1 Datum Based Alignment & Tools -->
+<!-- SVG: 3-2-1 Datum Based Alignment & Tools -->
+<a name="readme-image-077" href="#toolbar-layout"><img src="./docs/theme/section-datum-alignment-tools.svg" width="100%" alt="3-2-1 Datum Based Alignment &amp; Tools"></a>
 
 <!-- ========== BUTTON: Create Center Point ========== -->
 <a id="create-center-point" name="create-center-point"></a>
@@ -1529,87 +1662,6 @@
 
 <a name="readme-image-092" href="#readme-image-092"><img src="./docs/theme/LINE.svg" width="100%" alt="78"></a>
 
-<!-- ========== BUTTON: Show Welding Widget ========== -->
-<a id="show-welding-widget-command" name="show-welding-widget-command"></a>
-
-<!-- SVG: Show Welding Widget -->
-<a name="readme-image-093" href="#readme-image-093"><img src="./docs/theme/tool-show-welding-widget-command.svg" width="100%" alt="Show Welding Widget — 2D Blueprint to 3D Model Synchronization."></a>
-
-<!-- VIDEO: FreeCAD Plugin - Show Welding Widget -->
-<p align="center">
-<a href="https://www.youtube.com/watch?v=SjJHcsazPro">
-          <img src="https://img.youtube.com/vi/SjJHcsazPro/maxresdefault.jpg" width="450" alt="FreeCAD Plugin - Show Welding Widget">
-        </a>
-<br>
-<a href="https://youtu.be/SjJHcsazPro"><strong>FreeCAD Plugin - Show Welding Widget</strong></a>
-</p>
-
-<!-- MATERIALS: Show Welding Widget -->
-<p align="center">
-<!-- NAVIGATION: Back to top -->
-<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; 
-<!-- MATERIALS BUTTON: Show Welding Widget -->
-<a href="./3-2-1%20Datum%20Based%20Alignment%20%26%20Tools/Show%20Welding%20Widget/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Show Welding Widget"></a> &nbsp; 
-<!-- NAVIGATION: Back to tool index -->
-<a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
-</p>
-
-<a name="readme-image-094" href="#readme-image-094"><img src="./docs/theme/LINE.svg" width="100%" alt="78"></a>
-
-<!-- ========== BUTTON: Launch Find Data Panel ========== -->
-<a id="launch-find-data-panel" name="launch-find-data-panel"></a>
-
-<!-- SVG: Launch Find Data Panel -->
-<a name="readme-image-095" href="#readme-image-095"><img src="./docs/theme/tool-launch-find-data-panel.svg" width="100%" alt="Launch Find Data Panel — Centralized control for weld tracking and interoperability."></a>
-
-<!-- VIDEO: FreeCAD Plugin - Launch Find Data Panel -->
-<p align="center">
-<a href="https://www.youtube.com/watch?v=0TlnWFqXXWM">
-          <img src="https://img.youtube.com/vi/0TlnWFqXXWM/maxresdefault.jpg" width="450" alt="FreeCAD Plugin - Launch Find Data Panel">
-        </a>
-<br>
-<a href="https://youtu.be/0TlnWFqXXWM"><strong>FreeCAD Plugin - Launch Find Data Panel</strong></a>
-</p>
-
-<!-- MATERIALS: Launch Find Data Panel -->
-<p align="center">
-<!-- NAVIGATION: Back to top -->
-<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; 
-<!-- MATERIALS BUTTON: Launch Find Data Panel -->
-<a href="./3-2-1%20Datum%20Based%20Alignment%20%26%20Tools/Launch%20Find%20Data%20Panel/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Launch Find Data Panel"></a> &nbsp; 
-<!-- NAVIGATION: Back to tool index -->
-<a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
-</p>
-
-<a name="readme-image-096" href="#readme-image-096"><img src="./docs/theme/LINE.svg" width="100%" alt="78"></a>
-
-<!-- ========== BUTTON: Focus Object ========== -->
-<a id="focus-object-command" name="focus-object-command"></a>
-
-<!-- SVG: Focus Object -->
-<a name="readme-image-097" href="#readme-image-097"><img src="./docs/theme/tool-focus-object-command.svg" width="100%" alt="Focus Object — Instant Navigation."></a>
-
-<!-- VIDEO: FreeCAD Plugin - Focus Object -->
-<p align="center">
-<a href="https://www.youtube.com/watch?v=KZhHsQ0q4Go">
-          <img src="https://img.youtube.com/vi/KZhHsQ0q4Go/maxresdefault.jpg" width="450" alt="FreeCAD Plugin - Focus Object">
-        </a>
-<br>
-<a href="https://youtu.be/KZhHsQ0q4Go"><strong>FreeCAD Plugin - Focus Object</strong></a>
-</p>
-
-<!-- MATERIALS: Focus Object -->
-<p align="center">
-<!-- NAVIGATION: Back to top -->
-<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; 
-<!-- MATERIALS BUTTON: Focus Object -->
-<a href="./3-2-1%20Datum%20Based%20Alignment%20%26%20Tools/Focus%20Object/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Focus Object"></a> &nbsp; 
-<!-- NAVIGATION: Back to tool index -->
-<a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
-</p>
-
-<a name="readme-image-098" href="#readme-image-098"><img src="./docs/theme/LINE.svg" width="100%" alt="78"></a>
-
 <!-- ========== BUTTON: Move Weld Lines ========== -->
 <a id="move-weld-lines" name="move-weld-lines"></a>
 
@@ -1697,58 +1749,6 @@
 <a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
 </p>
 
-
-<!-- ========== BUTTON: Show Names ========== -->
-<a id="show-names" name="show-names"></a>
-
-<!-- SVG: Show Names -->
-<a name="readme-image-105" href="#readme-image-105"><img src="./docs/theme/tool-show-names.svg" width="100%" alt="Show Names — Orientation &amp; ID HUD."></a>
-
-<!-- VIDEO: FreeCAD Plugin - Show Names -->
-<p align="center">
-<a href="https://www.youtube.com/watch?v=rHTBzO_KlUM">
-          <img src="https://img.youtube.com/vi/rHTBzO_KlUM/maxresdefault.jpg" width="450" alt="FreeCAD Plugin - Show Names">
-        </a>
-<br>
-<a href="https://youtu.be/rHTBzO_KlUM"><strong>FreeCAD Plugin - Show Names</strong></a>
-</p>
-
-<!-- MATERIALS: Show Names -->
-<p align="center">
-<!-- NAVIGATION: Back to top -->
-<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; 
-<!-- MATERIALS BUTTON: Show Names -->
-<a href="./C3P%20-%20WdCurve%20Tools/Show%20Names/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Show Names"></a> &nbsp; 
-<!-- NAVIGATION: Back to tool index -->
-<a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
-</p>
-
-<!-- ========== BUTTON: Selection Mode (X-Ray & Filter) ========== -->
-<a id="selection-mode" name="selection-mode"></a>
-
-<!-- SVG: Selection Mode (X-Ray & Filter) -->
-<a name="readme-image-106" href="#readme-image-106"><img src="./docs/theme/tool-selection-mode.svg" width="100%" alt="Selection Mode (X-Ray &amp; Filter) — Visual isolation and Selection Lock."></a>
-
-<!-- VIDEO: FreeCAD Plugin - Selection Mode (X-Ray & Filter) -->
-<p align="center">
-<a href="https://www.youtube.com/watch?v=OYs8zfXLmLg">
-          <img src="https://img.youtube.com/vi/OYs8zfXLmLg/maxresdefault.jpg" width="450" alt="FreeCAD Plugin - Selection Mode (X-Ray &amp; Filter)">
-        </a>
-<br>
-<a href="https://youtu.be/OYs8zfXLmLg"><strong>FreeCAD Plugin - Selection Mode (X-Ray &amp; Filter)</strong></a>
-</p>
-
-<!-- MATERIALS: Selection Mode (X-Ray & Filter) -->
-<p align="center">
-<!-- NAVIGATION: Back to top -->
-<a href="#top" title="Back to top"><img src="./docs/theme/github-back-to-top-double.svg" width="58" height="58" alt="Back to top" align="center"></a> &nbsp; 
-<!-- MATERIALS BUTTON: Selection Mode (X-Ray & Filter) -->
-<a href="./C3P%20-%20WdCurve%20Tools/Selection%20Mode%20%28X-Ray%20%26%20Filter%29/Materials"><img align="center" width="280" src="./docs/theme/open-materials.svg" alt="Test files &amp; output for Selection Mode (X-Ray &amp; Filter)"></a> &nbsp; 
-<!-- NAVIGATION: Back to tool index -->
-<a href="#toolbar-layout" title="Back to tool index"><img src="./docs/theme/github-back-to-top.svg" width="58" height="58" alt="Back to tool index" align="center"></a>
-</p>
-
- 
 
 <a name="readme-image-107" href="#readme-image-107"><img src="./docs/theme/double.svg" width="100%" alt="78"></a>
 
@@ -1883,7 +1883,3 @@
 </p>
 
 <a name="readme-image-116" href="#readme-image-116"><img src="./docs/theme/double.svg" width="100%" alt="78"></a>
-
- 
-
-
